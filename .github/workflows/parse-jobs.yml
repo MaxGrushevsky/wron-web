@@ -1,0 +1,85 @@
+name: Parse Jobs Daily
+
+on:
+  schedule:
+    # Запускаем каждый день в 2:00 UTC (4:00 по польскому времени)
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Позволяет запускать вручную
+  push:
+    paths:
+      - 'scripts/**'
+      - 'parsers/**'
+      - '.github/workflows/parse-jobs.yml'
+
+jobs:
+  parse-jobs:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: 'package-lock.json'
+          
+      - name: Install dependencies
+        run: |
+          npm ci
+          
+      - name: Install Puppeteer dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf
+          
+      - name: Parse jobs
+        run: |
+          npm run parse
+          
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+          
+      - name: Commit changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/
+          git commit -m "🤖 Auto-update jobs data - $(date '+%Y-%m-%d %H:%M')" || exit 0
+          git push
+          
+      - name: Create summary
+        run: |
+          echo "## 📊 Jobs Parsing Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "**Status:** ${{ steps.verify-changed-files.outputs.changed == 'true' && '✅ Updated' || 'ℹ️ No changes' }}" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f "data/all-jobs.json" ]; then
+            TOTAL_JOBS=$(cat data/all-jobs.json | jq '.totalCount // 0')
+            echo "**Total jobs:** $TOTAL_JOBS" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Sources:" >> $GITHUB_STEP_SUMMARY
+          for file in data/*-jobs.json; do
+            if [ -f "$file" ]; then
+              SOURCE=$(basename "$file" -jobs.json)
+              COUNT=$(cat "$file" | jq '.count // 0')
+              echo "- **$SOURCE:** $COUNT jobs" >> $GITHUB_STEP_SUMMARY
+            fi
+          done

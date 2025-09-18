@@ -1,0 +1,22 @@
+{
+  "name": "wroniak-parser",
+  "version": "1.0.0",
+  "main": "static-server.js",
+  "scripts": {
+    "start": "node static-server.js",
+    "parse": "node parsers/static-parser.js",
+    "dev": "node static-server.js",
+    "test": "node test-parsers.js"
+  },
+  "keywords": ["jobs", "parser", "wroclaw"],
+  "author": "",
+  "license": "ISC",
+  "description": "Job parser for students in Wroclaw",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "puppeteer": "^24.6.0"
+  }
+}

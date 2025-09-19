@@ -22,12 +22,6 @@ export default function FilterHandler({ children }: FilterHandlerProps) {
     params.delete('page'); // Сбрасываем страницу при изменении фильтров
     
     // Добавляем новые параметры
-    if (newFilters.source.length > 0) {
-      newFilters.source.forEach(source => {
-        params.append('source', source);
-      });
-    }
-    
     if (newFilters.workType.length > 0) {
       newFilters.workType.forEach(workType => {
         params.append('workType', workType);

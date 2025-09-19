@@ -74,8 +74,8 @@ export default function PaginationControls({
 
   // Генерация номеров страниц
   const getPageNumbers = () => {
-    const pages: number[] = [];
-    const maxVisiblePages = 7; // Максимум видимых страниц
+    const pages: (number | -1)[] = [];
+    const maxVisiblePages = 7;
 
     if (totalPages <= maxVisiblePages) {
       // Если страниц мало, показываем все
@@ -86,34 +86,79 @@ export default function PaginationControls({
       // Всегда добавляем первую страницу
       pages.push(1);
 
-      // Добавляем "..." если текущая страница далеко от начала
-      if (currentPage > 4) {
-        pages.push(-1); // -1 будет обозначать "..."
+      // Определяем диапазон страниц для отображения
+      let startPage = Math.max(2, currentPage - 1);
+      let endPage = Math.min(totalPages - 1, currentPage + 1);
+
+      // Если текущая страница близко к началу
+      if (currentPage <= 3) {
+        startPage = 2;
+        endPage = Math.min(5, totalPages - 1);
+      }
+      // Если текущая страница близко к концу
+      else if (currentPage >= totalPages - 2) {
+        startPage = Math.max(2, totalPages - 4);
+        endPage = totalPages - 1;
+      }
+      // Если текущая страница в середине, но близко к концу
+      else if (currentPage >= totalPages - 5) {
+        startPage = Math.max(2, currentPage - 2);
+        endPage = Math.min(totalPages - 1, currentPage + 2);
       }
 
-      // Добавляем страницы вокруг текущей
-      const start = Math.max(2, currentPage - 1);
-      const end = Math.min(totalPages - 1, currentPage + 1);
+      console.log(`📍 Current page: ${currentPage}, startPage: ${startPage}, endPage: ${endPage}, totalPages: ${totalPages}`);
 
-      for (let i = start; i <= end; i++) {
+      // Добавляем "..." если есть разрыв между первой страницей и началом диапазона
+      if (startPage > 2) {
+        pages.push(-1);
+        console.log(`➕ Added first ellipsis before page ${startPage}`);
+      }
+
+      // Добавляем страницы в диапазоне
+      for (let i = startPage; i <= endPage; i++) {
         if (i !== 1 && i !== totalPages) {
           pages.push(i);
+          console.log(`➕ Added page ${i} (range: ${startPage}-${endPage})`);
+        } else {
+          console.log(`⏭️ Skipped page ${i} (first or last page)`);
         }
       }
 
-      // Добавляем "..." если текущая страница далеко от конца
-      if (currentPage < totalPages - 3) {
-        pages.push(-1); // -1 будет обозначать "..."
+      // Добавляем "..." если есть разрыв между концом диапазона и последней страницей
+      if (endPage < totalPages - 1) {
+        pages.push(-1);
+        console.log(`➕ Added second ellipsis after page ${endPage}`);
       }
 
       // Всегда добавляем последнюю страницу (если не первая)
       if (totalPages > 1) {
         pages.push(totalPages);
+        console.log(`➕ Added last page ${totalPages}`);
       }
     }
 
-    // Удаляем дубликаты
-    return [...new Set(pages)];
+    // Удаляем дубликаты только для страниц (не для многоточий)
+    const uniquePages: (number | -1)[] = [];
+    const seenPages = new Set<number>();
+    
+    for (let i = 0; i < pages.length; i++) {
+      const page = pages[i];
+      if (page === -1) {
+        // Многоточия всегда добавляем
+        uniquePages.push(page);
+        console.log(`➕ Added ellipsis at index ${i}`);
+      } else if (!seenPages.has(page)) {
+        // Страницы добавляем только если их еще не было
+        seenPages.add(page);
+        uniquePages.push(page);
+        console.log(`➕ Added page ${page} at index ${i}`);
+      } else {
+        console.log(`🚫 Skipping duplicate page: ${page} at index ${i}`);
+      }
+    }
+
+    console.log(`🔢 Final page numbers for page ${currentPage}:`, uniquePages);
+    return uniquePages;
   };
 
   const pageNumbers = getPageNumbers();
@@ -135,12 +180,12 @@ export default function PaginationControls({
         {pageNumbers.map((page, index) =>
           page === -1 ? (
             // "..." для пропуска страниц
-            <span key={index} className="px-2 py-1 text-gray-500 text-sm">
+            <span key={`ellipsis-${index}`} className="px-2 py-1 text-gray-500 text-sm">
               ...
             </span>
           ) : (
             <button
-              key={page}
+              key={`page-${page}-${index}`}
               onClick={() => handlePageChange(page)}
               className={`px-2 md:px-3 py-1 text-xs md:text-sm rounded ${
                 page === currentPage

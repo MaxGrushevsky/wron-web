@@ -111,12 +111,20 @@ async function fetchItems(page: number, limit: number, searchQuery: string = "",
       });
     }
     
+    // Сортируем: сначала все источники кроме OLX, потом OLX в конце
+    items.sort((a: any, b: any) => {
+      if (a.source === 'olx' && b.source !== 'olx') return 1;
+      if (a.source !== 'olx' && b.source === 'olx') return -1;
+      return 0; // Сохраняем исходный порядок для одинаковых источников
+    });
+    
     // Пагинация
     const startIndex = (page - 1) * limit;
     const endIndex = startIndex + limit;
     const paginatedItems = items.slice(startIndex, endIndex);
     
     console.log(`Page ${page}: showing items ${startIndex}-${endIndex} of ${items.length} total items`);
+    console.log(`First 3 items on page ${page}:`, paginatedItems.slice(0, 3).map(item => ({ title: item.title, company: item.company })));
     
     return {
       items: paginatedItems,
@@ -130,6 +138,8 @@ async function fetchItems(page: number, limit: number, searchQuery: string = "",
     };
   }
 }
+
+export const revalidate = 0; // Отключаем кэширование для отладки
 
 export default async function Home({ searchParams }: { searchParams: { page?: string; search?: string; workType?: string | string[]; location?: string | string[]; dateRange?: string } }) {
   const page = parseInt(searchParams.page || "1", 10); // Получить текущую страницу из URL
@@ -145,7 +155,7 @@ export default async function Home({ searchParams }: { searchParams: { page?: st
   
   console.log('🔍 Search params:', { page, searchQuery, filters });
   
-  const { items, totalItems } = await fetchItems(page, limit, searchQuery, filters); // Загрузить данные с сервера
+  const { items, totalItems } = await fetchItems(page, limit, searchQuery, filters);
 
   const totalPages = Math.ceil(totalItems / limit); // Рассчитать общее количество страниц
   
@@ -171,13 +181,12 @@ export default async function Home({ searchParams }: { searchParams: { page?: st
           <JobFilters 
             initialFilters={filters}
           />
-          <PageLoader isLoading={false}>
+          <PageLoader key={`page-loader-${page}`} isLoading={false}>
             {items.length > 0 ? (
-              <div className="relative">
+              <div key={`jobs-list-${page}`} className="relative">
                 <ul className="space-y-3 md:space-y-4">
                   {items.map((item: any, index: number) => (
-                    <div key={`${item._id}-${page}`}>
-                      <li className="block p-3 md:p-4 border rounded-lg shadow hover:shadow-lg transition-shadow bg-white dark:bg-gray-800">
+                    <li key={`${item._id}-${page}-${index}`} className="block p-3 md:p-4 border rounded-lg shadow hover:shadow-lg transition-shadow bg-white dark:bg-gray-800">
                       <a
                         href={item.url}
                         target="_blank"
@@ -207,9 +216,7 @@ export default async function Home({ searchParams }: { searchParams: { page?: st
                         </div>
                       </a>
                     </li>
-                    
-                  </div>
-                ))}
+                  ))}
               </ul>
             </div>
             ) : (

@@ -51,9 +51,13 @@ jobs:
       - name: Check for changes
         id: verify-changed-files
         run: |
+          echo "Checking for changes in data files..."
+          git status --porcelain
           if [ -n "$(git status --porcelain)" ]; then
+            echo "✅ Changes detected"
             echo "changed=true" >> $GITHUB_OUTPUT
           else
+            echo "❌ No changes detected"
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
           
@@ -62,7 +66,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add src/data/
+          git add src/data/ data/ || true
           git commit -m "🤖 Auto-update jobs data - $(date '+%Y-%m-%d %H:%M')" || exit 0
           git pull origin main --rebase || git pull origin main --strategy=ours || true
           git push origin main

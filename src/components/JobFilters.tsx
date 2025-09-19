@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 
 interface JobFiltersProps {
-  onFiltersChange: (filters: FilterState) => void;
+  onFiltersChange?: (filters: FilterState) => void;
   initialFilters?: FilterState;
 }
 
@@ -109,6 +109,11 @@ export default function JobFilters({ onFiltersChange, initialFilters }: JobFilte
     // Обновляем URL
     const newUrl = params.toString() ? `/?${params.toString()}` : '/';
     router.push(newUrl);
+    
+    // Вызываем callback если он передан
+    if (onFiltersChange) {
+      onFiltersChange(newFilters);
+    }
   };
 
   const handleSourceToggle = (sourceId: string) => {

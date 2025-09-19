@@ -163,10 +163,6 @@ export default async function Home({ searchParams }: { searchParams: { page?: st
       
       {/* Фильтры */}
       <JobFilters 
-        onFiltersChange={(newFilters) => {
-          // В серверном компоненте мы не можем обновлять состояние
-          // Фильтры будут применяться через URL параметры
-        }}
         initialFilters={filters}
       />
 

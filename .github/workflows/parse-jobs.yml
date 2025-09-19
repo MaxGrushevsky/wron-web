@@ -11,6 +11,9 @@ on:
       - 'parsers/**'
       - '.github/workflows/parse-jobs.yml'
 
+permissions:
+  contents: write # Права на запись в репозиторий
+
 jobs:
   parse-jobs:
     runs-on: ubuntu-latest
@@ -59,7 +62,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add src/data/
           git commit -m "🤖 Auto-update jobs data - $(date '+%Y-%m-%d %H:%M')" || exit 0
-          git push
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           
       - name: Create summary
         run: |

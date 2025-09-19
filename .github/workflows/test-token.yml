@@ -18,7 +18,7 @@ jobs:
         run: |
           echo "Testing GitHub token access..."
           echo "Repository: ${{ github.repository }}"
-          echo "Token available: ${{ secrets.GITHUB_TOKEN != '' }}"
+          echo "Token available: ${{ secrets.PERSONAL_ACCESS_TOKEN != '' }}"
           
       - name: Test push (dry run)
         run: |

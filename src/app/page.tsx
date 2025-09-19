@@ -78,8 +78,8 @@ export default async function Home({ searchParams }: { searchParams: { page?: st
       </div>
       <SearchBar initialQuery={searchQuery} />
       
-      {/* Реклама вверху */}
-      <div className="mb-6">
+      {/* Мобильная реклама вверху - только на мобильных */}
+      <div className="mb-6 md:hidden">
         <AdBanner 
           adSlot="1234567890" 
           adFormat="horizontal"
@@ -87,51 +87,95 @@ export default async function Home({ searchParams }: { searchParams: { page?: st
         />
       </div>
 
-      <ul className="space-y-4">
-        {items.map((item: any, index: number) => (
-          <div key={item._id}>
-            <li className="block p-4 border rounded-lg shadow hover:shadow-lg transition-shadow bg-white dark:bg-gray-800">
-              <a
-                href={item.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="block"
-              >
-                <h2 className="text-lg font-semibold text-indigo-600 dark:text-indigo-400">
-                  {item.title}
-                </h2>
-                <p className="text-gray-700 dark:text-gray-300">
-                  Firma: {item.company}
-                </p>
-                <p className="text-gray-500 text-sm dark:text-gray-400">
-                  Source: {item.source}
-                </p>
-              </a>
-            </li>
-            
-            {/* Реклама каждые 5 вакансий */}
-            {(index + 1) % 5 === 0 && (
-              <div className="my-6">
-                <AdBanner 
-                  adSlot="1234567891" 
-                  adFormat="rectangle"
-                  className="text-center"
-                />
-              </div>
-            )}
+      {/* Основной контент с боковой рекламой */}
+      <div className="flex gap-6 min-h-[600px]">
+        {/* Левая боковая реклама - только на десктопе */}
+        <div className="hidden lg:block w-48 flex-shrink-0">
+          <div className="sticky top-4">
+            <AdBanner 
+              adSlot="1234567893" 
+              adFormat="vertical"
+              className="text-center"
+            />
           </div>
-        ))}
-      </ul>
+        </div>
+
+        {/* Основной список вакансий */}
+        <div className="flex-1 max-w-4xl mx-auto">
+          {items.length > 0 ? (
+            <ul className="space-y-4">
+              {items.map((item: any, index: number) => (
+                <div key={item._id}>
+                  <li className="block p-4 border rounded-lg shadow hover:shadow-lg transition-shadow bg-white dark:bg-gray-800">
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="block"
+                    >
+                      <h2 className="text-lg font-semibold text-indigo-600 dark:text-indigo-400">
+                        {item.title}
+                      </h2>
+                      <p className="text-gray-700 dark:text-gray-300">
+                        Firma: {item.company}
+                      </p>
+                      <p className="text-gray-500 text-sm dark:text-gray-400">
+                        Source: {item.source}
+                      </p>
+                    </a>
+                  </li>
+                  
+                  {/* Реклама каждые 8 вакансий на мобильных */}
+                  {(index + 1) % 8 === 0 && (
+                    <div className="my-6 md:hidden">
+                      <AdBanner 
+                        adSlot="1234567891" 
+                        adFormat="rectangle"
+                        className="text-center"
+                      />
+                    </div>
+                  )}
+                </div>
+              ))}
+            </ul>
+          ) : (
+            <div className="flex flex-col items-center justify-center py-20 text-center">
+              <div className="text-6xl mb-4">🔍</div>
+              <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-200 mb-2">
+                Nie znaleziono ofert pracy
+              </h2>
+              <p className="text-gray-600 dark:text-gray-400 mb-6">
+                Spróbuj zmienić kryteria wyszukiwania lub sprawdź ponownie później.
+              </p>
+              <div className="text-sm text-gray-500 dark:text-gray-500">
+                Znaleziono {totalItems} ofert pracy
+              </div>
+            </div>
+          )}
+          
+          <PaginationControls currentPage={page} totalPages={totalPages} />
+        </div>
+
+        {/* Правая боковая реклама - только на десктопе */}
+        <div className="hidden lg:block w-48 flex-shrink-0">
+          <div className="sticky top-4">
+            <AdBanner 
+              adSlot="1234567894" 
+              adFormat="vertical"
+              className="text-center"
+            />
+          </div>
+        </div>
+      </div>
       
-      {/* Реклама внизу */}
-      <div className="mt-6">
+      {/* Мобильная реклама внизу - только на мобильных */}
+      <div className="mt-6 md:hidden">
         <AdBanner 
           adSlot="1234567892" 
           adFormat="horizontal"
           className="text-center"
         />
       </div>
-      <PaginationControls currentPage={page} totalPages={totalPages} />
     </Container>
   );
 }

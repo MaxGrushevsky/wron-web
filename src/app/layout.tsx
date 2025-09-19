@@ -28,10 +28,12 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
       </head>
-      <body className={inter.className}>
+      <body className={`${inter.className} min-h-screen flex flex-col`}>
         <ThemeProvider attribute="class">
           <Navbar />
-          <div>{children}</div>
+          <main className="flex-1">
+            {children}
+          </main>
           <Footer />
         </ThemeProvider>
       </body>

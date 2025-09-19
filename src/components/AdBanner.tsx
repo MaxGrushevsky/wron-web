@@ -29,7 +29,7 @@ export default function AdBanner({
       <ins
         className="adsbygoogle"
         style={style}
-        data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" // Замените на ваш AdSense ID
+        data-ad-client="ca-pub-3205919903681434"
         data-ad-slot={adSlot}
         data-ad-format={adFormat}
         data-full-width-responsive="true"

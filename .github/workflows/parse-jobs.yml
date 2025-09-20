@@ -2,16 +2,9 @@ name: Parse Jobs Daily
 
 on:
   schedule:
-    # ВРЕМЕННО: запускаем каждые 5 минут для тестирования
-    - cron: '*/5 * * * *'
-    # Оригинальное расписание (закомментировано):
-    # - cron: '0 2 * * *'  # Каждый день в 2:00 UTC (4:00 по польскому времени)
+    # Запускаем каждый день в 2:00 UTC (4:00 по польскому времени)
+    - cron: '0 2 * * *'
   workflow_dispatch: # Позволяет запускать вручную
-  push:
-    paths:
-      - 'scripts/**'
-      - 'parsers/**'
-      - '.github/workflows/parse-jobs.yml'
 
 permissions:
   contents: write # Права на запись в репозиторий

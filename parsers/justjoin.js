@@ -64,7 +64,14 @@ module.exports = async function parseJustJoin(page) {
         }
         
         // Извлекаем данные с текущей видимой области
-        const newJobs = await page.evaluate(() => {
+        if (page.isClosed()) {
+          console.log('Page was closed, stopping extraction');
+          break;
+        }
+        
+        let newJobs = [];
+        try {
+          newJobs = await page.evaluate(() => {
             // Пробуем разные селекторы для поиска вакансий
             const selectors = [
               'li[class*="offer"]',
@@ -178,6 +185,10 @@ module.exports = async function parseJustJoin(page) {
               return { title, company, url, salaryMin, salaryMax, salaryType, salaryLog };
             });
           });
+        } catch (error) {
+          console.log('Error during page.evaluate:', error.message);
+          newJobs = [];
+        }
           
           // Логируем данные зарплаты в Node.js
           newJobs.forEach(job => {

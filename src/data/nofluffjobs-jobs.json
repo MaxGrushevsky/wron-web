@@ -1,8 +1,41 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-09-29T03:12:26.964Z",
+  "lastUpdated": "2025-09-30T03:04:02.101Z",
   "count": 20,
   "jobs": [
+    {
+      "title": "Junior Data Engineer (Databricks) NOWA",
+      "company": "Addepto",
+      "salary": "8 400 – 15 120 PLN",
+      "salaryMin": 8400,
+      "salaryMax": 15120,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-3",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Product Owner NOWA",
+      "company": "CDQ Poland",
+      "salary": "11 760 – 16 800 PLN",
+      "salaryMin": 11760,
+      "salaryMax": 16800,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-product-owner-cdq-poland-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Low-code GenAI Developer NOWA",
+      "company": "Rits Center",
+      "salary": "20 160 – 26 040 PLN",
+      "salaryMin": 20160,
+      "salaryMax": 26040,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/low-code-genai-developer-rits-center-wroclaw",
+      "source": "nofluffjobs.com"
+    },
     {
       "title": "Młodszy Programista ETL",
       "company": "Upvanta",
@@ -48,14 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Low-code GenAI Developer",
-      "company": "Rits Center",
-      "salary": "20 160 – 26 040 PLN",
-      "salaryMin": 20160,
-      "salaryMax": 26040,
-      "salaryType": "monthly",
+      "title": "Intern Application Consultant with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/low-code-genai-developer-rits-center-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-application-consultant-with-german-capgemini-polska-wroclaw-3",
       "source": "nofluffjobs.com"
     },
     {
@@ -70,18 +103,29 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior+ Scala Developer",
-      "company": "Comscore (via CC)",
-      "salary": "8 000 – 12 000 PLN",
-      "salaryMin": 8000,
-      "salaryMax": 12000,
-      "salaryType": "monthly",
-      "location": "Wroclaw",
-      "url": "https://nofluffjobs.com/pl/job/junior-scala-developer-comscore-via-cc-wroclaw-1",
+      "title": "Software Packaging Junior Engineer NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/software-packaging-junior-engineer-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Application Consultant with Cloud NOWA",
+      "title": "Młodszy Specjalista ds. Wsparcia i Testowania Aplikacji - Zespół Tax Technology NOWA",
+      "company": "KPMG",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-wsparcia-i-testowania-aplikacji-zespol-tax-technology-kpmg-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Application Consultant with Cloud",
       "company": "Capgemini Polska Sp. z o.o.",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -92,18 +136,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Databricks)",
-      "company": "Addepto",
-      "salary": "8 400 – 15 120 PLN",
-      "salaryMin": 8400,
-      "salaryMax": 15120,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-3",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Customer Support with German NOWA",
+      "title": "Customer Support with German",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -114,7 +147,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Buyer with Italian NOWA",
+      "title": "Junior Buyer with Italian",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -122,17 +155,6 @@
       "salaryType": null,
       "location": "Wroclaw",
       "url": "https://nofluffjobs.com/pl/job/junior-buyer-with-italian-antal-wroclaw-2",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern Application Consultant with German",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-application-consultant-with-german-capgemini-polska-wroclaw-3",
       "source": "nofluffjobs.com"
     },
     {
@@ -155,17 +177,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/junior-power-apps-developer-capgemini-polska-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Software Packaging Junior Engineer",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/software-packaging-junior-engineer-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -210,17 +221,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/doradca-sprzedazy-3-4-etatu-devire-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Salesforce Developer Course free",
-      "company": "Synebo",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/salesforce-developer-course-free-synebo-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

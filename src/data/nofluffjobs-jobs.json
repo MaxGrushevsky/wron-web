@@ -1,6 +1,6 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-10-01T03:17:51.702Z",
+  "lastUpdated": "2025-10-02T03:02:56.355Z",
   "count": 20,
   "jobs": [
     {
@@ -81,39 +81,6 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Młodszy Specjalista ds. Sprzedaży NOWA",
-      "company": "SDP Nieruchomości",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-sdp-nieruchomosci-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Security Analyst",
-      "company": "Comscore (via CC)",
-      "salary": "8 000 – 13 000 PLN",
-      "salaryMin": 8000,
-      "salaryMax": 13000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-security-analyst-comscore-via-cc-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Ustawiacz narzędzi NOWA",
-      "company": "MAPAL Narzędzia Precyzyjne Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ustawiacz-narzedzi-mapal-narzedzia-precyzyjne-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Intern Automation Tester with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
       "salary": "Sprawdź zarobki",
@@ -125,6 +92,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Junior+ Scala Developer",
+      "company": "Comscore (via CC)",
+      "salary": "8 000 – 12 000 PLN",
+      "salaryMin": 8000,
+      "salaryMax": 12000,
+      "salaryType": "monthly",
+      "location": "Wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-scala-developer-comscore-via-cc-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Intern DevOps Engineer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
       "salary": "Sprawdź zarobki",
@@ -133,6 +111,28 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-polska-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Młodszy Specjalista ds. Sprzedaży",
+      "company": "SDP Nieruchomości",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-sdp-nieruchomosci-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Ustawiacz narzędzi",
+      "company": "MAPAL Narzędzia Precyzyjne Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ustawiacz-narzedzi-mapal-narzedzia-precyzyjne-wroclaw",
       "source": "nofluffjobs.com"
     },
     {

@@ -1,10 +1,43 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-10-05T03:13:25.159Z",
+  "lastUpdated": "2025-10-06T03:06:15.026Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Junior Project Manager NOWA",
+      "title": "Junior Full Stack Java Developer NOWA",
+      "company": "Infor Polska",
+      "salary": "8 000 – 10 000 PLN",
+      "salaryMin": 8000,
+      "salaryMax": 10000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-full-stack-java-developer-infor-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Linux Engineer in Big Data Validation NOWA",
+      "company": "Comscore (via CC)",
+      "salary": "6 000 – 8 000 PLN",
+      "salaryMin": 6000,
+      "salaryMax": 8000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-linux-engineer-in-big-data-validation-comscore-via-cc-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Data Engineer (Databricks) NOWA",
+      "company": "Addepto",
+      "salary": "8 400 – 15 120 PLN",
+      "salaryMin": 8400,
+      "salaryMax": 15120,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-3",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Project Manager",
       "company": "Fream",
       "salary": "7 000 – 10 000 PLN",
       "salaryMin": 7000,
@@ -15,7 +48,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior IT Recruiter NOWA",
+      "title": "Junior IT Recruiter",
       "company": "OpsTalent",
       "salary": "5 000 – 8 000 PLN",
       "salaryMin": 5000,
@@ -23,17 +56,6 @@
       "salaryType": "monthly",
       "location": "Wroclaw",
       "url": "https://nofluffjobs.com/pl/job/junior-it-recruiter-opstalent-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Full Stack Java Developer",
-      "company": "Infor Polska",
-      "salary": "8 000 – 10 000 PLN",
-      "salaryMin": 8000,
-      "salaryMax": 10000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-full-stack-java-developer-infor-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -59,6 +81,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Junior Application Consultant with Cloud NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-application-consultant-with-cloud-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Fullstack Developer",
       "company": "Softwizards Sp. z o.o.",
       "salary": "10 000 – 12 000 PLN",
@@ -70,86 +103,20 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Databricks)",
-      "company": "Addepto",
-      "salary": "8 400 – 15 120 PLN",
-      "salaryMin": 8400,
-      "salaryMax": 15120,
-      "salaryType": "monthly",
+      "title": "Młodszy Specjalista ds. Wsparcia i Testowania Aplikacji - Zespół Tax Technology NOWA",
+      "company": "KPMG",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-3",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-wsparcia-i-testowania-aplikacji-zespol-tax-technology-kpmg-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern PowerApps Developer NOWA",
+      "title": "IT Support Agent with Danish NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-powerapps-developer-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Product Owner",
-      "company": "CDQ Poland",
-      "salary": "11 760 – 16 800 PLN",
-      "salaryMin": 11760,
-      "salaryMax": 16800,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-product-owner-cdq-poland-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Power Apps Developer NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-power-apps-developer-capgemini-polska-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior .NET Developer with Angular NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-net-developer-with-angular-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Customer Support with German NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/customer-support-with-german-antal-wroclaw-3",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Buyer with Italian NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wroclaw",
-      "url": "https://nofluffjobs.com/pl/job/junior-buyer-with-italian-antal-wroclaw-2",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "IT Support Agent with Danish",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -158,9 +125,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Application Consultant with German",
+      "title": "Intern Application Consultant with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -169,9 +136,20 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Automation Tester with German",
+      "title": "Ustawiacz narzędzi NOWA",
+      "company": "MAPAL Narzędzia Precyzyjne Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ustawiacz-narzedzi-mapal-narzedzia-precyzyjne-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Intern Automation Tester with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -180,9 +158,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern DevOps Engineer with German",
+      "title": "Intern DevOps Engineer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -191,36 +169,58 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Doradca Sprzedaży (3/4 etatu)",
-      "company": "Devire",
-      "salary": "Sprawdź wynagrodzenie",
+      "title": "Intern PowerApps Developer",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/doradca-sprzedazy-3-4-etatu-devire-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-powerapps-developer-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Obsługa klienta z językiem niemieckim",
+      "title": "Junior Power Apps Developer",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-power-apps-developer-capgemini-polska-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim",
+      "title": "Junior .NET Developer with Angular",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-polska-wroclaw-1",
+      "url": "https://nofluffjobs.com/pl/job/junior-net-developer-with-angular-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Customer Support with German",
+      "company": "Antal",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/customer-support-with-german-antal-wroclaw-3",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Buyer with Italian",
+      "company": "Antal",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-buyer-with-italian-antal-wroclaw-2",
       "source": "nofluffjobs.com"
     }
   ]

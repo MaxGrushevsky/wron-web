@@ -1,19 +1,8 @@
 {
   "source": "olx",
-  "lastUpdated": "2025-10-14T03:06:44.477Z",
-  "count": 57,
+  "lastUpdated": "2025-10-15T03:09:38.895Z",
+  "count": 56,
   "jobs": [
-    {
-      "title": "Praca dla studenta! Kierowca Uber/Bolt - najlepsze warunki, nowe auta!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-dla-studenta-kierowca-uber-bolt-najlepsze-warunki-nowe-auta-CID4-ID17nxf0.html",
-      "source": "olx"
-    },
     {
       "title": "Praca dodatkowa / podstawowa / Pośrednik ubezpieczeniowo - kredytowy",
       "company": "No company",
@@ -26,25 +15,36 @@
       "source": "olx"
     },
     {
-      "title": "Kierowca, Elektryk, pracownik budowlany, Pomocnik, Monter- 19.10.25",
+      "title": "Sprzątanie Biur i Przedszkoli we Wrocławiu - Godziny Popołudniowe",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-elektryk-pracownik-budowlany-pomocnik-monter-19-10-25-CID4-ID17yXmW.html",
+      "url": "https://www.olx.pl/oferta/praca/sprzatanie-biur-i-przedszkoli-we-wroclawiu-godziny-popoludniowe-CID4-ID16yu9y.html",
       "source": "olx"
     },
     {
-      "title": "Kierowca Taxi Uber/Bolt Wrocław – Najlepsze Warunki, Nowe Samochody!",
+      "title": "Praca dla studenta! Kierowca Uber/Bolt - najlepsze warunki, nowe auta!",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-najlepsze-warunki-nowe-samochody-CID4-IDZFgws.html",
+      "url": "https://www.olx.pl/oferta/praca/praca-dla-studenta-kierowca-uber-bolt-najlepsze-warunki-nowe-auta-CID4-ID17nxf0.html",
+      "source": "olx"
+    },
+    {
+      "title": "Doradca klienta, Manager działu handlowego, Handlowiec, Specjalista,",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/doradca-klienta-manager-dzialu-handlowego-handlowiec-specjalista-CID4-IDKz9rr.html",
       "source": "olx"
     },
     {
@@ -70,17 +70,6 @@
       "source": "olx"
     },
     {
-      "title": "Praca dla masażystki/ fizjoterapeuty SPA – centrum Wrocławia",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-dla-masazystki-fizjoterapeuty-spa-centrum-wroclawia-CID4-ID174v1V.html",
-      "source": "olx"
-    },
-    {
       "title": "Praca Zdalna w Agencji Pracy - Super Atmosfera oraz Wysokie Premie",
       "company": "No company",
       "salary": "No salary",
@@ -103,28 +92,6 @@
       "source": "olx"
     },
     {
-      "title": "Staż i zatrudnienie w Kancelarii Notarialnej",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/staz-i-zatrudnienie-w-kancelarii-notarialnej-CID4-ID14uLw5.html",
-      "source": "olx"
-    },
-    {
-      "title": "Specjalista ds. windykacji",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/specjalista-ds-windykacji-CID4-IDLssuD.html",
-      "source": "olx"
-    },
-    {
       "title": "Praca Zdalna w Agencji Pracy - Super Atmosfera oraz Wysokie Premie",
       "company": "No company",
       "salary": "No salary",
@@ -133,17 +100,6 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/praca-zdalna-w-agencji-pracy-super-atmosfera-oraz-wysokie-premie-CID4-ID17sTpt.html",
-      "source": "olx"
-    },
-    {
-      "title": "Koleżanki do pracy w sklepie internetowym, nauczymy Cię wszystkiego!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kolezanki-do-pracy-w-sklepie-internetowym-nauczymy-cie-wszystkiego-CID4-ID17wYTT.html",
       "source": "olx"
     },
     {
@@ -158,25 +114,58 @@
       "source": "olx"
     },
     {
-      "title": "Praca przy produkcji i sprzedaży przewodów zakuwanych",
+      "title": "Staż i zatrudnienie w Kancelarii Notarialnej",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-przy-produkcji-i-sprzedazy-przewodow-zakuwanych-CID4-ID12BxMm.html",
+      "url": "https://www.olx.pl/oferta/praca/staz-i-zatrudnienie-w-kancelarii-notarialnej-CID4-ID14uLw5.html",
       "source": "olx"
     },
     {
-      "title": "Praca bez limitu zarobków – Agent Nieruchomości / Agent Pozyskowy",
+      "title": "Koleżanki do pracy w sklepie internetowym, nauczymy Cię wszystkiego!",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-bez-limitu-zarobkow-agent-nieruchomosci-agent-pozyskowy-CID4-ID17wQoT.html",
+      "url": "https://www.olx.pl/oferta/praca/kolezanki-do-pracy-w-sklepie-internetowym-nauczymy-cie-wszystkiego-CID4-ID17wYTT.html",
+      "source": "olx"
+    },
+    {
+      "title": "Praca dla masażystki/ fizjoterapeuty SPA – centrum Wrocławia",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/praca-dla-masazystki-fizjoterapeuty-spa-centrum-wroclawia-CID4-ID174v1V.html",
+      "source": "olx"
+    },
+    {
+      "title": "Barber Shop zatrudni Barberów/Barberki",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/barber-shop-zatrudni-barberow-barberki-CID4-ID17QFoa.html",
+      "source": "olx"
+    },
+    {
+      "title": "Praktyki w Kancelarii ADF Sp. z o.o.",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/praktyki-w-kancelarii-adf-sp-z-o-o-CID4-ID17QBqv.html",
       "source": "olx"
     },
     {
@@ -191,6 +180,17 @@
       "source": "olx"
     },
     {
+      "title": "Praca bez limitu zarobków – Agent Nieruchomości / Agent Pozyskowy",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/praca-bez-limitu-zarobkow-agent-nieruchomosci-agent-pozyskowy-CID4-ID17wQoT.html",
+      "source": "olx"
+    },
+    {
       "title": "Mechanik samochodowy PRACA OD ZARAZ",
       "company": "No company",
       "salary": "No salary",
@@ -199,6 +199,17 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/mechanik-samochodowy-praca-od-zaraz-CID4-IDF1iCD.html",
+      "source": "olx"
+    },
+    {
+      "title": "OFERTA PRACY. Operations Manager (sprzedaż internetowa)",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/oferta-pracy-operations-manager-sprzedaz-internetowa-CID4-ID16naIO.html",
       "source": "olx"
     },
     {
@@ -224,36 +235,36 @@
       "source": "olx"
     },
     {
-      "title": "OFERTA PRACY. Operations Manager (sprzedaż internetowa)",
+      "title": "Dla Studentów | Asystent/ka wsparcia klientów w firmie IT (jęz. RU/UA)",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/oferta-pracy-operations-manager-sprzedaz-internetowa-CID4-ID16naIO.html",
+      "url": "https://www.olx.pl/oferta/praca/dla-studentow-asystent-ka-wsparcia-klientow-w-firmie-it-jez-ru-ua-CID4-ID17vWYI.html",
       "source": "olx"
     },
     {
-      "title": "Przyjmę pracownika/pomocnika",
+      "title": "Przyjmę do Pracy",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/przyjme-pracownika-pomocnika-CID4-ID17OQbd.html",
+      "url": "https://www.olx.pl/oferta/praca/przyjme-do-pracy-CID4-ID17LrjD.html",
       "source": "olx"
     },
     {
-      "title": "Fizjoterapeuta poszukiwany",
+      "title": "Płatny staż stacjonarny w administracji publicznej - 3550 zł/netto",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/fizjoterapeuta-poszukiwany-CID4-IDPcAfq.html",
+      "url": "https://www.olx.pl/oferta/praca/platny-staz-stacjonarny-w-administracji-publicznej-3550-zl-netto-CID4-ID17ufmk.html",
       "source": "olx"
     },
     {
@@ -279,28 +290,6 @@
       "source": "olx"
     },
     {
-      "title": "Płatny staż stacjonarny w administracji publicznej - 3550 zł/netto",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/platny-staz-stacjonarny-w-administracji-publicznej-3550-zl-netto-CID4-ID17ufmk.html",
-      "source": "olx"
-    },
-    {
-      "title": "Przyjmę do Pracy",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/przyjme-do-pracy-CID4-ID17LrjD.html",
-      "source": "olx"
-    },
-    {
       "title": "Obsługa klienta w salonie optycznym VZROK",
       "company": "No company",
       "salary": "No salary",
@@ -312,14 +301,14 @@
       "source": "olx"
     },
     {
-      "title": "Dla Studentów | Asystent/ka wsparcia klientów w firmie IT (jęz. RU/UA)",
+      "title": "Specjalista ds. windykacji",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/dla-studentow-asystent-ka-wsparcia-klientow-w-firmie-it-jez-ru-ua-CID4-ID17vWYI.html",
+      "url": "https://www.olx.pl/oferta/praca/specjalista-ds-windykacji-CID4-IDLssuD.html",
       "source": "olx"
     },
     {
@@ -334,17 +323,6 @@
       "source": "olx"
     },
     {
-      "title": "Praca dla Barbera z perspektywą rozwoju! Sprawdź opis!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-dla-barbera-z-perspektywa-rozwoju-sprawdz-opis-CID4-IDZ4c6W.html",
-      "source": "olx"
-    },
-    {
       "title": "Poszukiwany dekarz pomocnik dachy budowa. 28-42 zł/h na rękę. SUPER!!!",
       "company": "No company",
       "salary": "No salary",
@@ -353,6 +331,17 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/poszukiwany-dekarz-pomocnik-dachy-budowa-28-42-zl-h-na-reke-super-CID4-IDIFxZy.html",
+      "source": "olx"
+    },
+    {
+      "title": "Praca dla Barbera z perspektywą rozwoju! Sprawdź opis!",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/praca-dla-barbera-z-perspektywa-rozwoju-sprawdz-opis-CID4-IDZ4c6W.html",
       "source": "olx"
     },
     {
@@ -367,14 +356,14 @@
       "source": "olx"
     },
     {
-      "title": "Warsztat samochodowy zatrudni - mechanika samochodowego / pomocnika",
+      "title": "Ethicus Care Premium zatrudni Rekrutera/Rekruterkę",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/warsztat-samochodowy-zatrudni-mechanika-samochodowego-pomocnika-CID4-IDParES.html",
+      "url": "https://www.olx.pl/oferta/praca/ethicus-care-premium-zatrudni-rekrutera-rekruterke-CID4-ID17AGn8.html",
       "source": "olx"
     },
     {
@@ -411,25 +400,14 @@
       "source": "olx"
     },
     {
-      "title": "Ethicus Care Premium zatrudni Rekrutera/Rekruterkę",
+      "title": "Praca przy produkcji i sprzedaży przewodów zakuwanych",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/ethicus-care-premium-zatrudni-rekrutera-rekruterke-CID4-ID17AGn8.html",
-      "source": "olx"
-    },
-    {
-      "title": "Specjalista/ka ds. administracyjno-e-commerce",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/specjalista-ka-ds-administracyjno-e-commerce-CID4-ID15Hnhq.html",
+      "url": "https://www.olx.pl/oferta/praca/praca-przy-produkcji-i-sprzedazy-przewodow-zakuwanych-CID4-ID12BxMm.html",
       "source": "olx"
     },
     {
@@ -444,25 +422,14 @@
       "source": "olx"
     },
     {
-      "title": "Praca kierowca taxi",
+      "title": "Specjalista/ka ds. administracyjno-e-commerce",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-kierowca-taxi-CID4-ID170txl.html",
-      "source": "olx"
-    },
-    {
-      "title": "BEZPŁATNE szkolenia i PŁATNE staże zawodowe dla obywateli UKRAINY",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/bezplatne-szkolenia-i-platne-staze-zawodowe-dla-obywateli-ukrainy-CID4-ID15tAjS.html",
+      "url": "https://www.olx.pl/oferta/praca/specjalista-ka-ds-administracyjno-e-commerce-CID4-ID15Hnhq.html",
       "source": "olx"
     },
     {
@@ -477,6 +444,17 @@
       "source": "olx"
     },
     {
+      "title": "BEZPŁATNE szkolenia i PŁATNE staże zawodowe dla obywateli UKRAINY",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/bezplatne-szkolenia-i-platne-staze-zawodowe-dla-obywateli-ukrainy-CID4-ID15tAjS.html",
+      "source": "olx"
+    },
+    {
       "title": "Doradca klienta, sprzedawca",
       "company": "No company",
       "salary": "No salary",
@@ -485,50 +463,6 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/doradca-klienta-sprzedawca-CID4-ID17GMG7.html",
-      "source": "olx"
-    },
-    {
-      "title": "Kancelaria Notarialna zatrudni aplikanta lub asystenta notariusza",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kancelaria-notarialna-zatrudni-aplikanta-lub-asystenta-notariusza-CID4-ID17bnFE.html",
-      "source": "olx"
-    },
-    {
-      "title": "Zatrudnię monterów wod-kan , pracownik budowlany",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zatrudnie-monterow-wod-kan-pracownik-budowlany-CID4-ID17zdNo.html",
-      "source": "olx"
-    },
-    {
-      "title": "Kierowco C+E, Zostań Szefem i Zarabiaj Na czysto 30-45k Pln/miesiąc",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowco-c-e-zostan-szefem-i-zarabiaj-na-czysto-30-45k-pln-miesiac-CID4-ID17soFa.html",
-      "source": "olx"
-    },
-    {
-      "title": "Praca dla fizjoterapeuty/ki.",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-dla-fizjoterapeuty-ki-CID4-IDJufB9.html",
       "source": "olx"
     },
     {
@@ -543,6 +477,39 @@
       "source": "olx"
     },
     {
+      "title": "Warsztat samochodowy zatrudni - mechanika samochodowego / pomocnika",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/warsztat-samochodowy-zatrudni-mechanika-samochodowego-pomocnika-CID4-IDParES.html",
+      "source": "olx"
+    },
+    {
+      "title": "Kierowca, Elektryk, pracownik budowlany, Pomocnik, Monter- 19.10.25",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/kierowca-elektryk-pracownik-budowlany-pomocnik-monter-19-10-25-CID4-ID17yXmW.html",
+      "source": "olx"
+    },
+    {
+      "title": "Kancelaria Notarialna zatrudni aplikanta lub asystenta notariusza",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/kancelaria-notarialna-zatrudni-aplikanta-lub-asystenta-notariusza-CID4-ID17bnFE.html",
+      "source": "olx"
+    },
+    {
       "title": "Praca jako Barber, Fryzjer męski z mozliwością doszkolenia",
       "company": "No company",
       "salary": "No salary",
@@ -551,6 +518,17 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/praca-jako-barber-fryzjer-meski-z-mozliwoscia-doszkolenia-CID4-ID17vALC.html",
+      "source": "olx"
+    },
+    {
+      "title": "Zatrudnię monterów wod-kan , pracownik budowlany",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/zatrudnie-monterow-wod-kan-pracownik-budowlany-CID4-ID17zdNo.html",
       "source": "olx"
     },
     {
@@ -576,14 +554,36 @@
       "source": "olx"
     },
     {
-      "title": "Technik Dentystyczny, Technik ortodontyczny, dział ortodoncja",
+      "title": "Praktyki w biurze tłumacza przysięgłego j. angielskiego",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/technik-dentystyczny-technik-ortodontyczny-dzial-ortodoncja-CID4-ID17rTi4.html",
+      "url": "https://www.olx.pl/oferta/praca/praktyki-w-biurze-tlumacza-przysieglego-j-angielskiego-CID4-ID17qtvv.html",
+      "source": "olx"
+    },
+    {
+      "title": "Fizjoterapeuta poszukiwany",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/fizjoterapeuta-poszukiwany-CID4-IDPcAfq.html",
+      "source": "olx"
+    },
+    {
+      "title": "Kierowca Taxi Uber/Bolt Wrocław – Najlepsze Warunki, Nowe Samochody!",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-najlepsze-warunki-nowe-samochody-CID4-IDZFgws.html",
       "source": "olx"
     },
     {
@@ -595,17 +595,6 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/tca-sp-z-o-o-zatrudni-spedytora-dyspozytora-CID4-IDWw5r3.html",
-      "source": "olx"
-    },
-    {
-      "title": "Praktyki w biurze tłumacza przysięgłego j. angielskiego",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praktyki-w-biurze-tlumacza-przysieglego-j-angielskiego-CID4-ID17qtvv.html",
       "source": "olx"
     },
     {

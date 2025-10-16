@@ -1,19 +1,8 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-10-15T03:09:26.561Z",
+  "lastUpdated": "2025-10-16T03:08:50.953Z",
   "count": 20,
   "jobs": [
-    {
-      "title": "Junior Full Stack Java Developer NOWA",
-      "company": "Infor Polska",
-      "salary": "8 000 – 10 000 PLN",
-      "salaryMin": 8000,
-      "salaryMax": 10000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-full-stack-java-developer-infor-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
     {
       "title": "Tester Manualny (Junior / Mid / Senior) – sektor bankowy NOWA",
       "company": "Makeitright Sp. z o.o.",
@@ -26,7 +15,29 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Software Configuration Analyst NOWA",
+      "title": "Junior Tester *z doświadczeniem bankowym* NOWA",
+      "company": "Makeitright Sp. z o.o.",
+      "salary": "6 720 – 10 080 PLN",
+      "salaryMin": 6720,
+      "salaryMax": 10080,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-tester-z-doswiadczeniem-bankowym--makeitright-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Full Stack Java Developer",
+      "company": "Infor Polska",
+      "salary": "8 000 – 10 000 PLN",
+      "salaryMin": 8000,
+      "salaryMax": 10000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-full-stack-java-developer-infor-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Software Configuration Analyst",
       "company": "CSHARK Sp. z o.o.",
       "salary": "4 032 – 5 040 PLN",
       "salaryMin": 4032,
@@ -70,25 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Product Owner",
-      "company": "CDQ Poland",
-      "salary": "11 760 – 16 800 PLN",
-      "salaryMin": 11760,
-      "salaryMax": 16800,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-product-owner-cdq-poland-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Operational Support & Service Delivery NOWA",
+      "title": "Customer Support with German NOWA",
       "company": "Antal",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/operational-support-service-delivery-antal-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/customer-support-with-german-antal-wroclaw-3",
       "source": "nofluffjobs.com"
     },
     {
@@ -103,9 +103,31 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "IT Support Agent with Danish NOWA",
+      "title": "Operational Support & Service Delivery NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/operational-support-service-delivery-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior DevOps/Clous Engineer NOWA",
+      "company": "CloudForge",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-devops-clous-engineer-cloudforge-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "IT Support Agent with Danish",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -114,9 +136,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Application Consultant with German NOWA",
+      "title": "Intern Application Consultant with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -125,9 +147,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Ustawiacz narzędzi NOWA",
+      "title": "Ustawiacz narzędzi",
       "company": "MAPAL Narzędzia Precyzyjne Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -138,7 +160,7 @@
     {
       "title": "IT Support Agent with foreign languages",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -149,7 +171,7 @@
     {
       "title": "IT Support Agent with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -160,7 +182,7 @@
     {
       "title": "Obsługa klienta z językiem niemieckim",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -171,7 +193,7 @@
     {
       "title": "Specjalista ds. Wsparcia IT z językiem niemieckim",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -182,7 +204,7 @@
     {
       "title": "Intern Application Consultant with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -193,34 +215,12 @@
     {
       "title": "Software Packaging Junior Engineer",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/software-packaging-junior-engineer-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern Automation Tester with German",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-polska-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern DevOps Engineer with German",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-polska-wroclaw-1",
       "source": "nofluffjobs.com"
     }
   ]

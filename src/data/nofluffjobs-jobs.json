@@ -1,17 +1,28 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-10-16T03:08:50.953Z",
+  "lastUpdated": "2025-10-17T03:06:08.832Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Tester Manualny (Junior / Mid / Senior) – sektor bankowy NOWA",
-      "company": "Makeitright Sp. z o.o.",
-      "salary": "10 080 – 18 480 PLN",
-      "salaryMin": 10080,
-      "salaryMax": 18480,
+      "title": "Junior Data Engineer (Databricks) NOWA",
+      "company": "Addepto",
+      "salary": "8 400 – 15 120 PLN",
+      "salaryMin": 8400,
+      "salaryMax": 15120,
       "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/tester-manualny-junior-mid-senior-sektor-bankowy-makeitright-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-4",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Software Configuration Analyst NOWA",
+      "company": "CSHARK Sp. z o.o.",
+      "salary": "4 032 – 5 040 PLN",
+      "salaryMin": 4032,
+      "salaryMax": 5040,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-software-configuration-analyst-cshark-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -26,6 +37,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Tester Manualny (Junior / Mid / Senior) – sektor bankowy",
+      "company": "Makeitright Sp. z o.o.",
+      "salary": "10 080 – 18 480 PLN",
+      "salaryMin": 10080,
+      "salaryMax": 18480,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/tester-manualny-junior-mid-senior-sektor-bankowy-makeitright-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Junior Full Stack Java Developer",
       "company": "Infor Polska",
       "salary": "8 000 – 10 000 PLN",
@@ -34,17 +56,6 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/junior-full-stack-java-developer-infor-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Software Configuration Analyst",
-      "company": "CSHARK Sp. z o.o.",
-      "salary": "4 032 – 5 040 PLN",
-      "salaryMin": 4032,
-      "salaryMax": 5040,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-software-configuration-analyst-cshark-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -70,6 +81,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Intern PowerApps Developer NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-powerapps-developer-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Junior Data Engineer (Databricks)",
       "company": "Addepto",
       "salary": "8 400 – 15 120 PLN",
@@ -81,7 +103,40 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Customer Support with German NOWA",
+      "title": "Junior Power Apps Developer NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-power-apps-developer-capgemini-polska-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior .NET Developer with Angular NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-net-developer-with-angular-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "OTC Process & Change Management Junior Consultant NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Customer Support with German",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -92,18 +147,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Backend Developer (Node.js)",
-      "company": "MasterBorn",
-      "salary": "6 000 – 10 000 PLN",
-      "salaryMin": 6000,
-      "salaryMax": 10000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-backend-developer-node-js-masterborn-wroclaw-9",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Operational Support & Service Delivery NOWA",
+      "title": "Operational Support & Service Delivery",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -114,7 +158,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior DevOps/Clous Engineer NOWA",
+      "title": "Junior DevOps/Clous Engineer",
       "company": "CloudForge",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -177,50 +221,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-german-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Obsługa klienta z językiem niemieckim",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-polska-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern Application Consultant with German",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-application-consultant-with-german-capgemini-polska-wroclaw-3",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Software Packaging Junior Engineer",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/software-packaging-junior-engineer-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

@@ -1,10 +1,21 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-10-19T03:20:10.985Z",
+  "lastUpdated": "2025-10-20T03:19:49.257Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Junior Administrator NOWA",
+      "title": "Junior Data Engineer (Databricks) NOWA",
+      "company": "Addepto",
+      "salary": "8 400 – 15 120 PLN",
+      "salaryMin": 8400,
+      "salaryMax": 15120,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-4",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Administrator",
       "company": "Upvanta",
       "salary": "9 450 PLN",
       "salaryMin": 9450,
@@ -15,7 +26,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Software Configuration Analyst NOWA",
+      "title": "Junior Software Configuration Analyst",
       "company": "CSHARK Sp. z o.o.",
       "salary": "4 032 – 5 040 PLN",
       "salaryMin": 4032,
@@ -26,7 +37,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Tester *z doświadczeniem bankowym* NOWA",
+      "title": "Junior Tester *z doświadczeniem bankowym*",
       "company": "Makeitright Sp. z o.o.",
       "salary": "6 720 – 10 080 PLN",
       "salaryMin": 6720,
@@ -37,7 +48,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Low-code GenAI Developer NOWA",
+      "title": "Low-code GenAI Developer",
       "company": "Rits Center",
       "salary": "20 160 – 26 040 PLN",
       "salaryMin": 20160,
@@ -45,17 +56,6 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/low-code-genai-developer-rits-center-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Data Engineer (Databricks)",
-      "company": "Addepto",
-      "salary": "8 400 – 15 120 PLN",
-      "salaryMin": 8400,
-      "salaryMax": 15120,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-4",
       "source": "nofluffjobs.com"
     },
     {
@@ -81,14 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Application Consultant with German NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "title": "Operational Support & Service Delivery NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-application-consultant-with-german-capgemini-polska-wroclaw-3",
+      "url": "https://nofluffjobs.com/pl/job/operational-support-service-delivery-antal-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -103,9 +103,53 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Software Packaging Junior Engineer NOWA",
+      "title": "OTC Process & Change Management Junior Consultant NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "DevOps Academy Program NOWA",
+      "company": "CloudForge",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/devops-academy-program-cloudforge-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Młodszy Specjalista ds. Sprzedaży NOWA",
+      "company": "SDP Nieruchomości",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-sdp-nieruchomosci-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Intern Application Consultant with German",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-application-consultant-with-german-capgemini-polska-wroclaw-3",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Software Packaging Junior Engineer",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -114,9 +158,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Java Developer with German NOWA",
+      "title": "Junior Java Developer with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -125,9 +169,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Automation Tester with German NOWA",
+      "title": "Intern Automation Tester with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -136,9 +180,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim NOWA",
+      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -147,9 +191,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern DevOps Engineer with German NOWA",
+      "title": "Intern DevOps Engineer with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -160,7 +204,7 @@
     {
       "title": "Junior Application Consultant with Cloud",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -169,58 +213,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Operational Support & Service Delivery",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/operational-support-service-delivery-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Junior DevOps/Clous Engineer",
       "company": "CloudForge",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/junior-devops-clous-engineer-cloudforge-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "OTC Process & Change Management Junior Consultant",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "DevOps Academy Program",
-      "company": "CloudForge",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/devops-academy-program-cloudforge-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Młodszy Specjalista ds. Sprzedaży",
-      "company": "SDP Nieruchomości",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-sdp-nieruchomosci-wroclaw-1",
       "source": "nofluffjobs.com"
     }
   ]

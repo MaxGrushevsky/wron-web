@@ -1,8 +1,19 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-10-25T03:08:10.489Z",
+  "lastUpdated": "2025-10-26T03:15:04.954Z",
   "count": 20,
   "jobs": [
+    {
+      "title": "Junior Software Configuration Analyst NOWA",
+      "company": "CSHARK Sp. z o.o.",
+      "salary": "4 032 – 5 040 PLN",
+      "salaryMin": 4032,
+      "salaryMax": 5040,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-software-configuration-analyst-cshark-wroclaw",
+      "source": "nofluffjobs.com"
+    },
     {
       "title": "Junior Linux Engineer in Big Data Validation NOWA",
       "company": "Comscore (via CC)",
@@ -70,6 +81,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Software Packaging Junior Engineer NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/software-packaging-junior-engineer-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Junior Frontend Developer (React.js)",
       "company": "MasterBorn",
       "salary": "6 000 – 9 000 PLN",
@@ -83,7 +105,7 @@
     {
       "title": "Asystent_ka ds. Operacji w zespole Immigration Wrocław EY Advantage NOWA",
       "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -92,20 +114,20 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Full Stack Java Developer",
-      "company": "Infor Polska",
-      "salary": "8 000 – 10 000 PLN",
-      "salaryMin": 8000,
-      "salaryMax": 10000,
-      "salaryType": "monthly",
+      "title": "Specjalista ds. obsługi klienta z językiem angielskim (Order Management) NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-full-stack-java-developer-infor-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-obslugi-klienta-z-jezykiem-angielskim-order-management-antal-wroclaw-2",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior PMO with German (Sourcing Requisition) NOWA",
+      "title": "Junior PMO with German (Sourcing Requisition)",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -114,9 +136,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Java Developer with German NOWA",
+      "title": "Junior Java Developer with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -125,9 +147,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Automation Tester with German NOWA",
+      "title": "Intern Automation Tester with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -136,9 +158,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim NOWA",
+      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -147,9 +169,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern DevOps Engineer with German NOWA",
+      "title": "Intern DevOps Engineer with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -160,7 +182,7 @@
     {
       "title": "Junior Application Consultant with Cloud",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -169,20 +191,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Specjalista ds. obsługi klienta z językiem angielskim (Order Management)",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-obslugi-klienta-z-jezykiem-angielskim-order-management-antal-wroclaw-2",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Ustawiacz narzędzi",
       "company": "MAPAL Narzędzia Precyzyjne Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -193,7 +204,7 @@
     {
       "title": "DevOps Academy Program",
       "company": "CloudForge",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -204,23 +215,12 @@
     {
       "title": "Młodszy Specjalista ds. Sprzedaży",
       "company": "SDP Nieruchomości",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-sdp-nieruchomosci-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Customer Support with German",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/customer-support-with-german-antal-wroclaw-3",
       "source": "nofluffjobs.com"
     }
   ]

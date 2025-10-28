@@ -1,17 +1,28 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-10-27T03:24:36.804Z",
+  "lastUpdated": "2025-10-28T03:16:13.265Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Junior Full Stack Java Developer NOWA",
-      "company": "Infor Polska",
-      "salary": "8 000 – 10 000 PLN",
-      "salaryMin": 8000,
-      "salaryMax": 10000,
+      "title": "Tester Manualny (Junior / Mid / Senior) – sektor bankowy NOWA",
+      "company": "Makeitright Sp. z o.o.",
+      "salary": "10 080 – 18 480 PLN",
+      "salaryMin": 10080,
+      "salaryMax": 18480,
       "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-full-stack-java-developer-infor-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/tester-manualny-junior-mid-senior-sektor-bankowy-makeitright-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Software Engineer (junior) NOWA",
+      "company": "Spyrosoft",
+      "salary": "7 224 – 11 760 PLN",
+      "salaryMin": 7224,
+      "salaryMax": 11760,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/software-engineer-junior-spyrosoft-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
@@ -23,6 +34,28 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/junior-linux-engineer-in-big-data-validation-comscore-via-cc-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Tester *z doświadczeniem bankowym* NOWA",
+      "company": "Makeitright Sp. z o.o.",
+      "salary": "6 720 – 10 080 PLN",
+      "salaryMin": 6720,
+      "salaryMax": 10080,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-tester-z-doswiadczeniem-bankowym--makeitright-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Full Stack Java Developer",
+      "company": "Infor Polska",
+      "salary": "8 000 – 10 000 PLN",
+      "salaryMin": 8000,
+      "salaryMax": 10000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-full-stack-java-developer-infor-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -48,14 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Tester Manualny (Junior / Mid / Senior) – sektor bankowy",
-      "company": "Makeitright Sp. z o.o.",
-      "salary": "10 080 – 18 480 PLN",
-      "salaryMin": 10080,
-      "salaryMax": 18480,
-      "salaryType": "monthly",
+      "title": "Customer Support with German NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/tester-manualny-junior-mid-senior-sektor-bankowy-makeitright-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/customer-support-with-german-antal-wroclaw-3",
       "source": "nofluffjobs.com"
     },
     {
@@ -70,14 +103,69 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Databricks)",
-      "company": "Addepto",
-      "salary": "8 400 – 15 120 PLN",
-      "salaryMin": 8400,
-      "salaryMax": 15120,
-      "salaryType": "monthly",
+      "title": "Asystent_ka ds. Operacji w zespole Immigration Wrocław EY Advantage NOWA",
+      "company": "EY Polska",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-4",
+      "url": "https://nofluffjobs.com/pl/job/asystent-ka-ds-operacji-w-zespole-immigration-wroclaw-ey-advantage-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Sales Specialist/ Business Development Specialist with Polish NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/sales-specialist-business-development-specialist-with-polish-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Sales Specialist NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-sales-specialist-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "German Language HUB by Antal NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/german-language-hub-by-antal-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Upskilling program (Python/Cloud/AI) NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/upskilling-program-python-cloud-ai-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Specjalista ds. obsługi klienta z językiem angielskim (Order Management) NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-obslugi-klienta-z-jezykiem-angielskim-order-management-antal-wroclaw-2",
       "source": "nofluffjobs.com"
     },
     {
@@ -89,17 +177,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-foreign-languages-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Backend Developer (Node.js)",
-      "company": "MasterBorn",
-      "salary": "6 000 – 10 000 PLN",
-      "salaryMin": 6000,
-      "salaryMax": 10000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-backend-developer-node-js-masterborn-wroclaw-9",
       "source": "nofluffjobs.com"
     },
     {
@@ -144,83 +221,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-polska-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Operational Support & Service Delivery NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/operational-support-service-delivery-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Asystent_ka ds. Operacji w zespole Immigration Wrocław EY Advantage NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/asystent-ka-ds-operacji-w-zespole-immigration-wroclaw-ey-advantage-ey-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior PMO with German (Sourcing Requisition) NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-pmo-with-german-sourcing-requisition-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "IT Support Agent with Danish NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-danish-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern Application Consultant with German NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-application-consultant-with-german-capgemini-polska-wroclaw-4",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Specjalista ds. obsługi klienta z językiem angielskim (Order Management)",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-obslugi-klienta-z-jezykiem-angielskim-order-management-antal-wroclaw-2",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Java Developer with German",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-java-developer-with-german-capgemini-polska-wroclaw-2",
       "source": "nofluffjobs.com"
     }
   ]

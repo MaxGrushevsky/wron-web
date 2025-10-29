@@ -1,32 +1,23 @@
 {
   "source": "amazon",
-  "lastUpdated": "2025-10-28T03:16:09.365Z",
-  "count": 3,
+  "lastUpdated": "2025-10-29T03:22:08.619Z",
+  "count": 2,
   "jobs": [
     {
-      "title": "No title",
-      "location": "No location",
-      "jobId": "No Job ID",
-      "datePosted": "No date",
-      "url": "No URL",
+      "title": "Operations & Logistics Internship",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3078063",
+      "datePosted": "September 8, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3078063/operations-logistics-internship",
       "source": "amazon",
       "company": "Amazon"
     },
     {
-      "title": "No title",
-      "location": "No location",
-      "jobId": "No Job ID",
-      "datePosted": "No date",
-      "url": "No URL",
-      "source": "amazon",
-      "company": "Amazon"
-    },
-    {
-      "title": "No title",
-      "location": "No location",
-      "jobId": "No Job ID",
-      "datePosted": "No date",
-      "url": "No URL",
+      "title": "Graduate Area Manager - 2026 Start Date",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3078666",
+      "datePosted": "September 12, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3078666/graduate-area-manager-2026-start-date",
       "source": "amazon",
       "company": "Amazon"
     }

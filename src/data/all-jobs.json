@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-23T03:31:38.965Z",
-  "totalCount": 128,
+  "lastUpdated": "2025-11-24T03:29:05.314Z",
+  "totalCount": 121,
   "sources": 4,
   "jobs": [
     {
@@ -14,18 +14,6 @@
       "logoUrl": "https://logo.clearbit.com/Amazon.com"
     },
     {
-      "title": "Data Entry (m/f/x) NOWA",
-      "company": "Experis Polska",
-      "salary": "6 900 – 7 700 PLN",
-      "salaryMin": 6900,
-      "salaryMax": 7700,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/data-entry-m-f-x-experis-polska-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
       "title": "Manual Tester for Web Platforms NOWA",
       "company": "Comscore (via CC)",
       "salary": "5 000 – 8 000 PLN",
@@ -36,6 +24,18 @@
       "url": "https://nofluffjobs.com/pl/job/manual-tester-for-web-platforms-comscore-via-cc-wroclaw",
       "source": "nofluffjobs.com",
       "logoUrl": null
+    },
+    {
+      "title": "Junior Project Manager NOWA",
+      "company": "Fream",
+      "salary": "7 000 – 10 000 PLN",
+      "salaryMin": 7000,
+      "salaryMax": 10000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-project-manager-fream-wroclaw-2",
+      "source": "nofluffjobs.com",
+      "logoUrl": "https://logo.clearbit.com/Fream.pl"
     },
     {
       "title": "Junior Application Specialist (Afternoon Shift) NOWA",
@@ -58,6 +58,18 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/qa-intern-godel-technologies-europe-wroclaw",
+      "source": "nofluffjobs.com",
+      "logoUrl": null
+    },
+    {
+      "title": "Data Entry (m/f/x)",
+      "company": "Experis Polska",
+      "salary": "6 900 – 7 700 PLN",
+      "salaryMin": 6900,
+      "salaryMax": 7700,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/data-entry-m-f-x-experis-polska-wroclaw",
       "source": "nofluffjobs.com",
       "logoUrl": null
     },
@@ -86,6 +98,18 @@
       "logoUrl": "https://logo.clearbit.com/CSHARK.com"
     },
     {
+      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-polska-wroclaw-3",
+      "source": "nofluffjobs.com",
+      "logoUrl": null
+    },
+    {
       "title": "Junior Data Engineer (Databricks)",
       "company": "Addepto",
       "salary": "8 400 – 15 120 PLN",
@@ -98,45 +122,45 @@
       "logoUrl": "https://logo.clearbit.com/Addepto.com"
     },
     {
-      "title": "Java Starter Kit NOWA",
+      "title": "Junior Java Developer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-capgemini-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-java-developer-with-german-capgemini-polska-wroclaw-2",
       "source": "nofluffjobs.com",
       "logoUrl": null
     },
     {
-      "title": "Software Engineer (junior)",
-      "company": "Spyrosoft",
-      "salary": "7 224 – 11 760 PLN",
-      "salaryMin": 7224,
-      "salaryMax": 11760,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/software-engineer-junior-spyrosoft-wroclaw-1",
-      "source": "nofluffjobs.com",
-      "logoUrl": "https://logo.clearbit.com/Spyrosoft.com"
-    },
-    {
-      "title": "Bid Management Intern with German NOWA",
+      "title": "Intern DevOps Engineer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/bid-management-intern-with-german-capgemini-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-polska-wroclaw-1",
+      "source": "nofluffjobs.com",
+      "logoUrl": null
+    },
+    {
+      "title": "Intern Automation Tester with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-polska-wroclaw-1",
       "source": "nofluffjobs.com",
       "logoUrl": null
     },
     {
       "title": "Junior PMO with German (Sourcing Requisition) NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -146,9 +170,21 @@
       "logoUrl": null
     },
     {
-      "title": "Intern SAP with German",
+      "title": "Młodszy Specjalista ds. Sprzedaży NOWA",
+      "company": "SDP Nieruchomości",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-sdp-nieruchomosci-wroclaw-2",
+      "source": "nofluffjobs.com",
+      "logoUrl": null
+    },
+    {
+      "title": "Intern SAP with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -158,9 +194,33 @@
       "logoUrl": null
     },
     {
+      "title": "Java Starter Kit",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com",
+      "logoUrl": null
+    },
+    {
+      "title": "Bid Management Intern with German",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/bid-management-intern-with-german-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com",
+      "logoUrl": null
+    },
+    {
       "title": "Stażysta / Stażystka Power Platform / Power Apps",
       "company": "Ringier Axel Springer Tech",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -172,7 +232,7 @@
     {
       "title": "Obsługa klienta z językiem niemieckim",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -184,7 +244,7 @@
     {
       "title": "IT Support Agent with foreign languages",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -192,66 +252,6 @@
       "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-foreign-languages-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com",
       "logoUrl": null
-    },
-    {
-      "title": "IT Support Agent with German",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-german-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "OTC Process & Change Management Junior Consultant",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-polska-wroclaw-1",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Młodszy Specjalista ds. Sprzedaży",
-      "company": "SDP Nieruchomości",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-sdp-nieruchomosci-wroclaw-2",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Sales Specialist/ Business Development Specialist with Polish",
-      "company": "Antal",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/sales-specialist-business-development-specialist-with-polish-antal-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": "https://logo.clearbit.com/Antal.com"
     },
     {
       "title": "Ogłoszenie o Pracę: Szpachlarz Malarz",
@@ -278,26 +278,38 @@
       "logoUrl": null
     },
     {
-      "title": "Specjalista ds. wibroakustyki - Akustyk",
+      "title": "Praca w marketingu i i PR - od zaraz, bez doświadczenia!",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/specjalista-ds-wibroakustyki-akustyk-CID4-ID18mNN1.html",
+      "url": "https://www.olx.pl/oferta/praca/praca-w-marketingu-i-i-pr-od-zaraz-bez-doswiadczenia-CID4-ID184c1G.html",
       "source": "olx",
       "logoUrl": null
     },
     {
-      "title": "Zorganizowana osoba poszukiwana! Praca biurowa we Wrocławiu",
+      "title": "Kierowca Taxi Uber/Bolt Wrocław – Najlepsze Warunki, Nowe Samochody!",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zorganizowana-osoba-poszukiwana-praca-biurowa-we-wroclawiu-CID4-ID18ha1H.html",
+      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-najlepsze-warunki-nowe-samochody-CID4-IDZFgws.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
+      "title": "Księgowa w biurze rachunkowym",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/ksiegowa-w-biurze-rachunkowym-CID4-IDZdwSV.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -314,14 +326,14 @@
       "logoUrl": null
     },
     {
-      "title": "Praca bez limitu zarobków – Agent Nieruchomości / Agent Pozyskowy",
+      "title": "Zorganizowana osoba poszukiwana! Praca biurowa we Wrocławiu",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-bez-limitu-zarobkow-agent-nieruchomosci-agent-pozyskowy-CID4-ID17wQoT.html",
+      "url": "https://www.olx.pl/oferta/praca/zorganizowana-osoba-poszukiwana-praca-biurowa-we-wroclawiu-CID4-ID18ha1H.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -338,6 +350,18 @@
       "logoUrl": null
     },
     {
+      "title": "Specjalista ds. wibroakustyki - Akustyk",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/specjalista-ds-wibroakustyki-akustyk-CID4-ID18mNN1.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
       "title": "STAŻ PŁATNY – Asystent/ka ds. administracji i finansów (k/m)",
       "company": "No company",
       "salary": "No salary",
@@ -350,26 +374,26 @@
       "logoUrl": null
     },
     {
-      "title": "Opiekunka w żlobku",
+      "title": "Praca bez limitu zarobków – Agent Nieruchomości / Agent Pozyskowy",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/opiekunka-w-zlobku-CID4-ID15c3it.html",
+      "url": "https://www.olx.pl/oferta/praca/praca-bez-limitu-zarobkow-agent-nieruchomosci-agent-pozyskowy-CID4-ID17wQoT.html",
       "source": "olx",
       "logoUrl": null
     },
     {
-      "title": "Praca w marketingu i i PR - od zaraz, bez doświadczenia!",
+      "title": "praktykant w Kancelarii Adwokackiej",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-w-marketingu-i-i-pr-od-zaraz-bez-doswiadczenia-CID4-ID184c1G.html",
+      "url": "https://www.olx.pl/oferta/praca/praktykant-w-kancelarii-adwokackiej-CID4-ID18oUjD.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -422,6 +446,42 @@
       "logoUrl": null
     },
     {
+      "title": "Praca Host kelner Restauracja Piwnica Świdnicka Wrocław Rynek",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/praca-host-kelner-restauracja-piwnica-swidnicka-wroclaw-rynek-CID4-ID18a4NI.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
+      "title": "Opiekunka w żlobku",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/opiekunka-w-zlobku-CID4-ID15c3it.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
+      "title": "Młodszy Agent Nieruchomości",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/mlodszy-agent-nieruchomosci-CID4-ID188b5T.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
       "title": "Grafik komputerowy - Graphic Designer - Web Designer - Praca zdalna",
       "company": "No company",
       "salary": "No salary",
@@ -442,54 +502,6 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/dokumenty-katalogi-materialy-marketingowe-strona-www-CID4-ID18ay0x.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Młodszy Agent Nieruchomości",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/mlodszy-agent-nieruchomosci-CID4-ID188b5T.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca Host kelner Restauracja Piwnica Świdnicka Wrocław Rynek",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-host-kelner-restauracja-piwnica-swidnicka-wroclaw-rynek-CID4-ID18a4NI.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Zrób za darmo kurs kwalifikowanego pracownika ochrony z bronią!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zrob-za-darmo-kurs-kwalifikowanego-pracownika-ochrony-z-bronia-CID4-ID181SL4.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Asystent osobisty do organizacji charytatywnej",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/asystent-osobisty-do-organizacji-charytatywnej-CID4-ID18e4aE.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -518,26 +530,26 @@
       "logoUrl": null
     },
     {
-      "title": "Barber Shop zatrudni Barberów/Barberki",
+      "title": "Zrób za darmo kurs kwalifikowanego pracownika ochrony z bronią!",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/barber-shop-zatrudni-barberow-barberki-CID4-ID17QFoa.html",
+      "url": "https://www.olx.pl/oferta/praca/zrob-za-darmo-kurs-kwalifikowanego-pracownika-ochrony-z-bronia-CID4-ID181SL4.html",
       "source": "olx",
       "logoUrl": null
     },
     {
-      "title": "Staż dla osób z niepełnosprawnościami (Wrocław i okolice)",
+      "title": "Asystent osobisty do organizacji charytatywnej",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/staz-dla-osob-z-niepelnosprawnosciami-wroclaw-i-okolice-CID4-ID170ei9.html",
+      "url": "https://www.olx.pl/oferta/praca/asystent-osobisty-do-organizacji-charytatywnej-CID4-ID18e4aE.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -566,38 +578,26 @@
       "logoUrl": null
     },
     {
-      "title": "Mechanik rowerowy serwisant / sprzedawca w sklepie triathlonowym",
+      "title": "Staż dla osób z niepełnosprawnościami (Wrocław i okolice)",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/mechanik-rowerowy-serwisant-sprzedawca-w-sklepie-triathlonowym-CID4-ID13Uq4s.html",
+      "url": "https://www.olx.pl/oferta/praca/staz-dla-osob-z-niepelnosprawnosciami-wroclaw-i-okolice-CID4-ID170ei9.html",
       "source": "olx",
       "logoUrl": null
     },
     {
-      "title": "Księgowa w biurze rachunkowym",
+      "title": "Barber Shop zatrudni Barberów/Barberki",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/ksiegowa-w-biurze-rachunkowym-CID4-IDZdwSV.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca Montaż Rusztowań",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-montaz-rusztowan-CID4-IDXWzVN.html",
+      "url": "https://www.olx.pl/oferta/praca/barber-shop-zatrudni-barberow-barberki-CID4-ID17QFoa.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -610,6 +610,18 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/platny-staz-w-dziale-zakupow-branza-automatyki-przemyslowej-k-m-CID4-ID183WET.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
+      "title": "Mechanik rowerowy serwisant / sprzedawca w sklepie triathlonowym",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/mechanik-rowerowy-serwisant-sprzedawca-w-sklepie-triathlonowym-CID4-ID13Uq4s.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -638,18 +650,6 @@
       "logoUrl": null
     },
     {
-      "title": "Ethicus Care Premium zatrudni Rekrutera/Rekruterkę",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/ethicus-care-premium-zatrudni-rekrutera-rekruterke-CID4-ID17AGn8.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
       "title": "Asystentka stomatologiczna",
       "company": "No company",
       "salary": "No salary",
@@ -662,38 +662,38 @@
       "logoUrl": null
     },
     {
-      "title": "Asystent inżyniera budowy/Inżynier budowy",
+      "title": "Praca Montaż Rusztowań",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/asystent-inzyniera-budowy-inzynier-budowy-CID4-ID18kXaS.html",
+      "url": "https://www.olx.pl/oferta/praca/praca-montaz-rusztowan-CID4-IDXWzVN.html",
       "source": "olx",
       "logoUrl": null
     },
     {
-      "title": "Inżynier Elektronik / Mechatronik / Automatyk – Staż płatny",
+      "title": "Ethicus Care Premium zatrudni Rekrutera/Rekruterkę",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/inzynier-elektronik-mechatronik-automatyk-staz-platny-CID4-ID17ZCDL.html",
+      "url": "https://www.olx.pl/oferta/praca/ethicus-care-premium-zatrudni-rekrutera-rekruterke-CID4-ID17AGn8.html",
       "source": "olx",
       "logoUrl": null
     },
     {
-      "title": "Kierowca kat. B – Własny grafik | TAXI PARTNER | Praca od zaraz",
+      "title": "Nowy Barber Shop we Wrocławiu!Szukamy barberów/barberek",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-kat-b-wlasny-grafik-taxi-partner-praca-od-zaraz-CID4-ID16I4p6.html",
+      "url": "https://www.olx.pl/oferta/praca/nowy-barber-shop-we-wroclawiu-szukamy-barberow-barberek-CID4-ID17e3gG.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -710,14 +710,26 @@
       "logoUrl": null
     },
     {
-      "title": "Nowy Barber Shop we Wrocławiu!Szukamy barberów/barberek",
+      "title": "Kierowca kat. B – Własny grafik | TAXI PARTNER | Praca od zaraz",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/nowy-barber-shop-we-wroclawiu-szukamy-barberow-barberek-CID4-ID17e3gG.html",
+      "url": "https://www.olx.pl/oferta/praca/kierowca-kat-b-wlasny-grafik-taxi-partner-praca-od-zaraz-CID4-ID16I4p6.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
+      "title": "Asystent inżyniera budowy/Inżynier budowy",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/asystent-inzyniera-budowy-inzynier-budowy-CID4-ID18kXaS.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -758,18 +770,6 @@
       "logoUrl": null
     },
     {
-      "title": "Praca kierowca TAXI - UBER, BOLT, FREENOW (Работа в такси) Wrocław",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-kierowca-taxi-uber-bolt-freenow-wroclaw-CID4-ID149bwv.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
       "title": "Praca elektromonetr elektryk do pracy, współpracy 60-80h mc.",
       "company": "No company",
       "salary": "No salary",
@@ -778,6 +778,18 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/praca-elektromonetr-elektryk-do-pracy-wspolpracy-60-80h-mc-CID4-ID17i20V.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
+      "title": "Praca kierowca TAXI - UBER, BOLT, FREENOW (Работа в такси) Wrocław",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/praca-kierowca-taxi-uber-bolt-freenow-wroclaw-CID4-ID149bwv.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -794,18 +806,6 @@
       "logoUrl": null
     },
     {
-      "title": "Barber poszukiwany! Barbera zatrudnimy",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/barber-poszukiwany-barbera-zatrudnimy-CID4-ID18iVMV.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
       "title": "Kierownik Robót / Inżynier Budowy – Dachy Płaskie",
       "company": "No company",
       "salary": "No salary",
@@ -814,6 +814,18 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/kierownik-robot-inzynier-budowy-dachy-plaskie-CID4-ID18eHdN.html",
+      "source": "olx",
+      "logoUrl": null
+    },
+    {
+      "title": "Barber poszukiwany! Barbera zatrudnimy",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/barber-poszukiwany-barbera-zatrudnimy-CID4-ID18iVMV.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -830,26 +842,14 @@
       "logoUrl": null
     },
     {
-      "title": "Młodszy specjalista wsparcia sprzedaży",
+      "title": "STARSZY KELNER (Senior Waiter)",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/mlodszy-specjalista-wsparcia-sprzedazy-CID4-ID13bcO5.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca dla Barbera z perspektywą rozwoju! Sprawdź opis!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-dla-barbera-z-perspektywa-rozwoju-sprawdz-opis-CID4-IDZ4c6W.html",
+      "url": "https://www.olx.pl/oferta/praca/starszy-kelner-senior-waiter-CID4-ID18mySt.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -866,38 +866,14 @@
       "logoUrl": null
     },
     {
-      "title": "Kierowca Taxi Uber/Bolt Wrocław – Najlepsze Warunki, Nowe Samochody!",
+      "title": "Praca dla Barbera z perspektywą rozwoju! Sprawdź opis!",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-najlepsze-warunki-nowe-samochody-CID4-IDZFgws.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "STARSZY KELNER (Senior Waiter)",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/starszy-kelner-senior-waiter-CID4-ID18mySt.html",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Specjalista ds. dotacji",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/specjalista-ds-dotacji-CID4-ID13hQaf.html",
+      "url": "https://www.olx.pl/oferta/praca/praca-dla-barbera-z-perspektywa-rozwoju-sprawdz-opis-CID4-IDZ4c6W.html",
       "source": "olx",
       "logoUrl": null
     },
@@ -938,9 +914,99 @@
       "logoUrl": null
     },
     {
-      "title": "Lekarz Kardiolog / Lekarka Kardiolożka",
+      "title": "Konsultant - Wdrożeniowiec systemów ERP",
+      "company": "ALTAB S.A.",
+      "url": "https://www.pracuj.pl/praca/konsultant-wdrozeniowiec-systemow-erp-wroclaw-swidnicka-12,oferta,1004481076?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": 40,
+      "salaryMax": 80,
+      "salaryType": "hourly",
+      "source": "pracuj.pl",
+      "logoUrl": "https://logo.clearbit.com/ALTAB.pl"
+    },
+    {
+      "title": "BIM HVAC Engineer",
+      "company": "Jobst Willers Engineering Sp. z o.o",
+      "url": "https://www.pracuj.pl/praca/bim-hvac-engineer-wroclaw-tadeusza-kosciuszki-16,oferta,1004495541?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Asystent / Asystentka projektanta instalacji elektrycznych",
+      "company": "Jobst Willers Engineering Sp. z o.o",
+      "url": "https://www.pracuj.pl/praca/asystent-asystentka-projektanta-instalacji-elektrycznych-wroclaw-tadeusza-kosciuszki-16,oferta,1004495544?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "BeOne Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/full-stack-developer-poznan-kazimierza-wielkiego-5,oferta,1004481310?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": "https://logo.clearbit.com/BeOne.com"
+    },
+    {
+      "title": "Księgowy / Księgowa - PKPiR",
+      "company": "PGF sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/ksiegowy-ksiegowa-pkpir-wroclaw-ludwika-rydygiera-2a,oferta,1004462278?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": 5500,
+      "salaryMax": 7500,
+      "salaryType": "monthly",
+      "source": "pracuj.pl",
+      "logoUrl": "https://logo.clearbit.com/PGF.com"
+    },
+    {
+      "title": "Application Support Analyst",
+      "company": "Acturis Poland Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/application-support-analyst-wroclaw-legnicka-48f,oferta,1004495157?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Junior Cloud Support Analyst",
+      "company": "Acturis Poland Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/junior-cloud-support-analyst-wroclaw-legnicka-48f,oferta,1004495150?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Junior Cloud Support Engineer",
+      "company": "Acturis Poland Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/junior-cloud-support-engineer-wroclaw-legnicka-48f,oferta,1004495158?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Młodszy Specjalista ds. Analiz i Modeli Ryzyka Kredytowego",
+      "company": "Credit Agricole Bank Polska S.A.",
+      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-analiz-i-modeli-ryzyka-kredytowego-wroclaw-legnicka-48,oferta,1004478097?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Asystentka Stomatologiczna / Asystent Stomatologiczny",
       "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-kardiolog-lekarka-kardiolozka-wroclaw,oferta,1004495208?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "url": "https://www.pracuj.pl/praca/asystentka-stomatologiczna-asystent-stomatologiczny-wroclaw-krawiecka-3,oferta,1004487213?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -948,9 +1014,9 @@
       "logoUrl": "https://logo.clearbit.com/Medicover.com"
     },
     {
-      "title": "Lekarz / Lekarka Medycyny rodzinnej / Chorób wewnętrznych",
+      "title": "Recepcjonista | Recepcjonistka",
       "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-lekarka-medycyny-rodzinnej-chorob-wewnetrznych-wroclaw,oferta,1004495218?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "url": "https://www.pracuj.pl/praca/recepcjonista-recepcjonistka-wroclaw-krawiecka-3,oferta,1004487208?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -958,49 +1024,19 @@
       "logoUrl": "https://logo.clearbit.com/Medicover.com"
     },
     {
-      "title": "Lekarz Ultrasonografista - USG stawów / ortopedyczne",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-ultrasonografista-usg-stawow-ortopedyczne-wroclaw,oferta,1004495216?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Pracownik ds. Handlingu",
+      "company": "DHL Global Forwarding",
+      "url": "https://www.pracuj.pl/praca/pracownik-ds-handlingu-wroclaw-wladyslawa-zarembowicza-40,oferta,1004487121?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
+      "logoUrl": null
     },
     {
-      "title": "Lekarz Alergolog / Lekarka Alergolożka",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-alergolog-lekarka-alergolozka-wroclaw,oferta,1004495223?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
-    },
-    {
-      "title": "Lekarz Ultrasonografista / Lekarka Ultrasonografistka",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-ultrasonografista-lekarka-ultrasonografistka-wroclaw,oferta,1004495230?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
-    },
-    {
-      "title": "Lekarz Reumatolog / Lekarka Reumatolożka",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-reumatolog-lekarka-reumatolozka-wroclaw,oferta,1004495255?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
-    },
-    {
-      "title": "CEO Personal Assistant",
+      "title": "Specjalista ds. obsługi klienta",
       "company": "Wyższa Szkoła Kształcenia Zawodowego",
-      "url": "https://www.pracuj.pl/praca/ceo-personal-assistant-wroclaw-plac-powstancow-slaskich-1,oferta,1004412789?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "url": "https://www.pracuj.pl/praca/specjalista-ds-obslugi-klienta-wroclaw-gwiazdzista-66,oferta,1004445017?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1008,9 +1044,29 @@
       "logoUrl": null
     },
     {
-      "title": "Business Analyst",
+      "title": "Doradca / Doradczyni Klienta",
+      "company": "OBI Market Budowlany",
+      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-bielany-wroclawskie-pow-wroclawski,oferta,1004489537?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Trener/Trenerka |Fitness Academy| Szybowcowa",
+      "company": "Benefit Systems S.A. Oddział Fitness w Warszawie",
+      "url": "https://www.pracuj.pl/praca/trener-trenerka-fitness-academy-szybowcowa-wroclaw-szybowcowa-31,oferta,1004461748?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Junior Data Analyst",
       "company": "Sollers Consulting",
-      "url": "https://www.pracuj.pl/praca/business-analyst-wroclaw-stanislawa-dubois-41,oferta,1004456646?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "url": "https://www.pracuj.pl/praca/junior-data-analyst-wroclaw-stanislawa-dubois-41,oferta,1004477755?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1018,9 +1074,9 @@
       "logoUrl": null
     },
     {
-      "title": "Business Analyst with Swedish",
-      "company": "Sollers Consulting",
-      "url": "https://www.pracuj.pl/praca/business-analyst-with-swedish-wroclaw-stanislawa-dubois-41,oferta,1004456704?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Doradczyni / Doradca Klienta (oddział bezgotówkowy)",
+      "company": "BNP Paribas Bank Polska S.A.",
+      "url": "https://www.pracuj.pl/praca/doradczyni-doradca-klienta-oddzial-bezgotowkowy-wroclaw-legnicka-56,oferta,1004477587?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1028,9 +1084,19 @@
       "logoUrl": null
     },
     {
-      "title": "Analityk ds. Jakości / Tester oprogramowania",
-      "company": "Acturis Poland Sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/analityk-ds-jakosci-tester-oprogramowania-wroclaw-legnicka-48f,oferta,1004467827?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Młodszy Asystent/ Młodsza Asystentka Diagnostyki Laboratoryjnej",
+      "company": "Synevo Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/mlodszy-asystent-mlodsza-asystentka-diagnostyki-laboratoryjnej-wroclaw-gen-augusta-emila-fieldorfa-2,oferta,1004486625?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": "https://logo.clearbit.com/Synevo.pl"
+    },
+    {
+      "title": "Doradca Klienta / Doradczyni Klienta",
+      "company": "RTV EURO AGD",
+      "url": "https://www.pracuj.pl/praca/doradca-klienta-doradczyni-klienta-wroclaw-aleja-generala-jozefa-hallera-52,oferta,1004486583?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1038,9 +1104,9 @@
       "logoUrl": null
     },
     {
-      "title": "Techniczny Analityk Biznesowy",
-      "company": "Acturis Poland Sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/techniczny-analityk-biznesowy-wroclaw-legnicka-48f,oferta,1004467826?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Specjalista / Specjalistka ds. Telesprzedaży",
+      "company": "Coface Poland Factoring Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-telesprzedazy-wroclaw,oferta,1004491654?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1048,69 +1114,9 @@
       "logoUrl": null
     },
     {
-      "title": "Lekarz Ortopeda / Lekarka Ortopedka",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-ortopeda-lekarka-ortopedka-wroclaw,oferta,1004471149?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
-    },
-    {
-      "title": "Lekarz Laryngolog / Lekarka Laryngolożka",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-laryngolog-lekarka-laryngolozka-wroclaw,oferta,1004471109?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
-    },
-    {
-      "title": "Lekarz Okulista / Lekarka Okulistka",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-okulista-lekarka-okulistka-wroclaw,oferta,1004471104?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
-    },
-    {
-      "title": "Lekarz Gastroenterolog / Lekarka Gastroenterolożka",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-gastroenterolog-lekarka-gastroenterolozka-wroclaw,oferta,1004471143?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
-    },
-    {
-      "title": "Lekarz Ginekolog / Lekarka Ginekolożka",
-      "company": "Medicover",
-      "url": "https://www.pracuj.pl/praca/lekarz-ginekolog-lekarka-ginekolozka-wroclaw,oferta,1004471137?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Medicover.com"
-    },
-    {
-      "title": "Specjalista ds. windykacji telefonicznej",
-      "company": "CREDITEXPRESS INKASSO Poland Sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/specjalista-ds-windykacji-telefonicznej-wroclaw-raclawicka-2,oferta,1004478278?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Doradca Klienta Indywidualnego",
+      "title": "Specjalista / Specjalistka ds. Sprzedaży",
       "company": "Tutlo Sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/doradca-klienta-indywidualnego-wroclaw-rybacka-9,oferta,1004419510?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-sprzedazy-wroclaw-rybacka-9,oferta,1004474447?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": 8750,
       "salaryMax": 20000,
       "salaryType": "monthly",
@@ -1118,9 +1124,9 @@
       "logoUrl": "https://logo.clearbit.com/Tutlo.com"
     },
     {
-      "title": "Ambasador marki PULZE",
-      "company": "PMICombera Sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/ambasador-marki-pulze-wroclaw,oferta,1004470939?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Junior HPM/ High Voltage Engineer",
+      "company": "ARES SHIELD AI",
+      "url": "https://www.pracuj.pl/praca/junior-hpm-high-voltage-engineer-wroclaw,oferta,1004461236?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1128,9 +1134,9 @@
       "logoUrl": null
     },
     {
-      "title": "Wsparcie Działu HR",
-      "company": "Takko Fashion Polska",
-      "url": "https://www.pracuj.pl/praca/wsparcie-dzialu-hr-wroclaw-legnicka-56,oferta,1004484168?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Asystent/-ka ds. Obsługi Pacjenta LUX MED",
+      "company": "LUX MED Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/asystent-ka-ds-obslugi-pacjenta-lux-med-wroclaw-fabryczna-6,oferta,1004458435?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1138,9 +1144,9 @@
       "logoUrl": null
     },
     {
-      "title": "Junior SAP BPC Planning Specialist | Managed Services Operations",
+      "title": "Konsultant/Konsultantka z j. niemieckim | Aktuariat",
       "company": "PwC",
-      "url": "https://www.pracuj.pl/praca/junior-sap-bpc-planning-specialist-managed-services-operations-wroclaw,oferta,1004492145?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "url": "https://www.pracuj.pl/praca/konsultant-konsultantka-z-j-niemieckim-aktuariat-wroclaw-powstancow-slaskich-9,oferta,1004494044?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1148,19 +1154,9 @@
       "logoUrl": "https://logo.clearbit.com/PwC.com"
     },
     {
-      "title": "Junior SAP Process Orchestration Developer | Managed Services Operations",
-      "company": "PwC",
-      "url": "https://www.pracuj.pl/praca/junior-sap-process-orchestration-developer-managed-services-operations-wroclaw,oferta,1004492138?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/PwC.com"
-    },
-    {
-      "title": "Aplikant / Aplikantka Radcowski / Radcowska - Adwokacki / Adwokacka",
-      "company": "CWW WĘGRZYN-WYSOCKA I WSPÓLNICY KANCELARIA RADCÓW PRAWNYCH I ADWOKATÓW SPÓŁKA KOMANDYTOWA",
-      "url": "https://www.pracuj.pl/praca/aplikant-aplikantka-radcowski-radcowska-adwokacki-adwokacka-wroclaw,oferta,1004470895?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Sprzedawca – CALZEDONIA",
+      "company": "CALZ POLSKA sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-calzedonia-wroclaw-legnicka-58,oferta,1004469678?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1168,59 +1164,29 @@
       "logoUrl": null
     },
     {
-      "title": "Dekorator - Sprzedawca CH Wroclavia",
-      "company": "TATUUM",
-      "url": "https://www.pracuj.pl/praca/dekorator-sprzedawca-ch-wroclavia-wroclaw-sucha-1,oferta,1004459269?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Lekarz / Lekarka Medycyny podróży / Chorób zakaźnych",
+      "company": "Medicover",
+      "url": "https://www.pracuj.pl/praca/lekarz-lekarka-medycyny-podrozy-chorob-zakaznych-wroclaw,oferta,1004477105?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/TATUUM.com"
+      "logoUrl": "https://logo.clearbit.com/Medicover.com"
     },
     {
-      "title": "Konsultant - Sprzedawca Galeria Dominikańska",
-      "company": "TATUUM",
-      "url": "https://www.pracuj.pl/praca/konsultant-sprzedawca-galeria-dominikanska-wroclaw-plac-dominikanski-3,oferta,1004472034?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Stażysta / Stażystka w dziale administracji",
+      "company": "XTPL SA",
+      "url": "https://www.pracuj.pl/praca/stazysta-stazystka-w-dziale-administracji-wroclaw-legnicka-48,oferta,1004485913?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/TATUUM.com"
+      "logoUrl": "https://logo.clearbit.com/XTPL.com"
     },
     {
-      "title": "Rejestrator medyczny / ​Rejestratorka medyczna - Dolnośląskie Centrum Patomorfologii",
-      "company": "ALAB laboratoria Sp z o.o.",
-      "url": "https://www.pracuj.pl/praca/rejestrator-medyczny-rejestratorka-medyczna-dolnoslaskie-centrum-patomorfologii-wroclaw-aleksandra-ostrowskiego-7,oferta,1004470761?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Konsultant / Konsultantka ds. Telefonicznej Obsługi Klienta",
-      "company": "Bank Millennium S.A.",
-      "url": "https://www.pracuj.pl/praca/konsultant-konsultantka-ds-telefonicznej-obslugi-klienta-wroclaw,oferta,1004470692?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": 5300,
-      "salaryMax": 7000,
-      "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Junior Fiori Developer | Managed Services Operations",
-      "company": "PwC",
-      "url": "https://www.pracuj.pl/praca/junior-fiori-developer-managed-services-operations-wroclaw,oferta,1004492159?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/PwC.com"
-    },
-    {
-      "title": "Pomoc Laboratoryjna - Dolnośląskie Centrum Patomorfologii (f/m)",
-      "company": "ALAB laboratoria Sp z o.o.",
-      "url": "https://www.pracuj.pl/praca/pomoc-laboratoryjna-dolnoslaskie-centrum-patomorfologii-f-m-wroclaw-aleksandra-ostrowskiego-7,oferta,1004470640?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Doradczyni / Doradca Klienta Detalicznego (oddział Kasowy)",
+      "company": "BNP Paribas Bank Polska S.A.",
+      "url": "https://www.pracuj.pl/praca/doradczyni-doradca-klienta-detalicznego-oddzial-kasowy-wroclaw-swobodna-3,oferta,1004458148?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1228,9 +1194,9 @@
       "logoUrl": null
     },
     {
-      "title": "Zastępca Menadżera Klubu | Fitness Academy Sky Tower",
-      "company": "Benefit Systems S.A. Oddział Fitness w Warszawie",
-      "url": "https://www.pracuj.pl/praca/zastepca-menadzera-klubu-fitness-academy-sky-tower-wroclaw-powstancow-slaskich-95,oferta,1004480570?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Sprzedawca – INTIMISSIMI – ½ etatu",
+      "company": "CALZ POLSKA sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/sprzedawca-intimissimi-etatu-wroclaw-plac-grunwaldzki-22,oferta,1004460886?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1238,39 +1204,9 @@
       "logoUrl": null
     },
     {
-      "title": "IT Support Specialist z językiem niderlandzkim",
-      "company": "Sii Sp. z o.o.",
-      "url": "https://pracodawcy.pracuj.pl/company/20000761?pid=1004470470&multiple=true",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Sii.com"
-    },
-    {
-      "title": "Digital Project Manager",
-      "company": "QBICO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "url": "https://www.pracuj.pl/praca/digital-project-manager-wroclaw-kobierzycka-10,oferta,1004474850?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": 7000,
-      "salaryMax": 12000,
-      "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Junior Application Specialist (Afternoon Shift)",
-      "company": "3DCONNEXION POLSKA sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/junior-application-specialist-afternoon-shift-wroclaw-muchoborska-8,oferta,1004489131?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": 6000,
-      "salaryMax": 9000,
-      "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "AI-Native Flutter Developer",
-      "company": "\"LEA\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ",
-      "url": "https://www.pracuj.pl/praca/ai-native-flutter-developer-warszawa,oferta,1004447134?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Stażysta w Dziale IT",
+      "company": "Grupa PROFIT Development",
+      "url": "https://www.pracuj.pl/praca/stazysta-w-dziale-it-wroclaw,oferta,1004444009?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1278,9 +1214,9 @@
       "logoUrl": null
     },
     {
-      "title": "Sprzedawca",
-      "company": "Suder plus sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/sprzedawca-wroclaw,oferta,1004483418?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Inżynier Budowy",
+      "company": "Trakcja S.A.",
+      "url": "https://www.pracuj.pl/praca/inzynier-budowy-wroclaw-opolska-199,oferta,1004476940?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1288,119 +1224,129 @@
       "logoUrl": null
     },
     {
-      "title": "Młodszy Doradca Klienta Biznesowego",
-      "company": "OFERTEO SPÓŁKA AKCYJNA",
-      "url": "https://www.pracuj.pl/praca/mlodszy-doradca-klienta-biznesowego-wroclaw-plac-konstytucji-3-maja-3,oferta,1004469822?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": 5000,
-      "salaryMax": 11000,
-      "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Młodszy/a Specjalista/ka ds. Procesu Prawnego w Zespole ds. Obsługi Prawnej Wierzytelności",
-      "company": "RAVEN",
-      "url": "https://www.pracuj.pl/praca/mlodszy-a-specjalista-ka-ds-procesu-prawnego-w-zespole-ds-obslugi-prawnej-wierzy-wroclaw,oferta,1004483297?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/RAVEN.com"
-    },
-    {
-      "title": "Asystent Techniczny Ford",
-      "company": "DF Grupa PGD - Ford",
-      "url": "https://www.pracuj.pl/praca/asystent-techniczny-ford-wroclaw-bardzka-1,oferta,1004483283?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Płatny Staż w Dziale Cyfryzacji Produkcji",
-      "company": "Robert Bosch sp. z o.o. Oddział w Mirkowie",
-      "url": "https://www.pracuj.pl/praca/platny-staz-w-dziale-cyfryzacji-produkcji-mirkow-pow-wroclawski-wroclawska-43,oferta,1004469704?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Doradca / Doradczyni Klienta w salonie Wólczanka - Magnolia Park",
-      "company": "VRG SPÓŁKA AKCYJNA",
-      "url": "https://www.pracuj.pl/praca/doradca-doradczyni-klienta-w-salonie-wolczanka-magnolia-park-wroclaw-legnicka-58,oferta,1004474276?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Specjalista / Specjalistka ds. Windykacji (B2C / B2B)",
-      "company": "Grupa Kapitałowa Południe-Zachód",
-      "url": "https://www.pracuj.pl/praca/specjalista-specjalistka-ds-windykacji-b2c-b2b-wroclaw-wyscigowa-56c,oferta,1004488864?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": 5400,
-      "salaryMax": 7500,
-      "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Business Analyst with German",
-      "company": "Sollers Consulting",
-      "url": "https://www.pracuj.pl/praca/business-analyst-with-german-wroclaw-stanislawa-dubois-41,oferta,1004446832?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Młodszy Specjalista ds. Sprzedaży / Junior Sales Specialist",
-      "company": "Travelplanet.pl",
-      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-sprzedazy-junior-sales-specialist-wroclaw-legnicka-48g,oferta,1004458195?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": 30,
-      "salaryMax": 50,
-      "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/Travelplanet.pl.org"
-    },
-    {
-      "title": "Młodszy Specjalista ds. monitorowania systemów IT",
-      "company": "Krajowy Rejestr Długów",
-      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-monitorowania-systemow-it-wroclaw-danuty-siedzikowny-12,oferta,1004474166?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Customer Service Consultant",
+      "title": "Accounts Receivable Specialist",
       "company": "MAS Polska",
-      "url": "https://www.pracuj.pl/praca/customer-service-consultant-wroclaw-ks-piotra-skargi-3,oferta,1004458180?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": 6000,
-      "salaryMax": 6600,
+      "url": "https://www.pracuj.pl/praca/accounts-receivable-specialist-wroclaw-ks-piotra-skargi-3,oferta,1004473801?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Junior Konsultant SAP BW/BI",
+      "company": "Grupa PCC",
+      "url": "https://www.pracuj.pl/praca/junior-konsultant-sap-bw-bi-wroclaw,oferta,1004449389?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Asystent / Asystentka Biura Handlowego",
+      "company": "Xenico Pharma Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/asystent-asystentka-biura-handlowego-wroclaw,oferta,1004457891?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Pracownik Sprzątający",
+      "company": "Affidea Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/pracownik-sprzatajacy-wroclaw-borowska-213,oferta,1004449312?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": "https://logo.clearbit.com/Affidea.com"
+    },
+    {
+      "title": "Intern DevOps Engineer with German",
+      "company": "Capgemini Polska",
+      "url": "https://www.pracuj.pl/praca/intern-devops-engineer-with-german-wroclaw-legnicka-48,oferta,1004449304?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Intern Automation Tester with German",
+      "company": "Capgemini Polska",
+      "url": "https://www.pracuj.pl/praca/intern-automation-tester-with-german-wroclaw-legnicka-48,oferta,1004449247?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Konsultant telefonicznej obsługi klienta biznesowego",
+      "company": "ASISTWORK Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/konsultant-telefonicznej-obslugi-klienta-biznesowego-wroclaw,oferta,1004449215?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": "https://logo.clearbit.com/ASISTWORK.pl"
+    },
+    {
+      "title": "Network Administrator",
+      "company": "GOLDENORE ITC sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/network-administrator-warszawa,oferta,1004460592?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Młodszy specjalista ds. wsparcia IT",
+      "company": "Goldenmark Center Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-wsparcia-it-wroclaw-strzegomska-55a,oferta,1004485483?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Pomoc Księgarza",
+      "company": "Dressler Dublin Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/pomoc-ksiegarza-wroclaw-plac-dominikanski-3,oferta,1004485439?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": null
+    },
+    {
+      "title": "Serolog/Serolożka",
+      "company": "Synevo Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/serolog-serolozka-wroclaw-gen-augusta-emila-fieldorfa-2,oferta,1004457721?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "source": "pracuj.pl",
+      "logoUrl": "https://logo.clearbit.com/Synevo.pl"
+    },
+    {
+      "title": "Agent / Agentka nieruchomości",
+      "company": "DOMITY sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/agent-agentka-nieruchomosci-wroclaw-walbrzyska-25a,oferta,1004476675?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
+      "salaryMin": 5000,
+      "salaryMax": 32000,
       "salaryType": "monthly",
       "source": "pracuj.pl",
-      "logoUrl": null
+      "logoUrl": "https://logo.clearbit.com/DOMITY.com"
     },
     {
-      "title": "Asystent / Asystentka - Pracownik biurowy",
-      "company": "E-TRADE AUTOMATION sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/asystent-asystentka-pracownik-biurowy-wroclaw-aleja-armii-krajowej-61,oferta,1004495183?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": 5200,
-      "salaryMax": 7500,
-      "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Młodsza Księgowa / Młodszy Księgowy",
-      "company": "KACZMARSKI GROUP",
-      "url": "https://www.pracuj.pl/praca/mlodsza-ksiegowa-mlodszy-ksiegowy-wroclaw,oferta,1004482923?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Młodszy specjalista ds. obsługi klienta",
+      "company": "Hafele Polska Sp. z o.o.",
+      "url": "https://www.pracuj.pl/praca/mlodszy-specjalista-ds-obslugi-klienta-dlugoleka-pow-wroclawski,oferta,1004476636?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -1408,34 +1354,14 @@
       "logoUrl": null
     },
     {
-      "title": "Młodszy Kierownik Projektu (Junior Project Manager) - k/m",
-      "company": "Techem Techniki Pomiarowe Sp. z o.o.",
-      "url": "https://www.pracuj.pl/praca/mlodszy-kierownik-projektu-junior-project-manager-k-m-wroclaw-aleksandra-ostrowskiego-7,oferta,1004469489?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
+      "title": "Lekarz Chirurg ogólny / Lekarka Chirurżka",
+      "company": "Medicover",
+      "url": "https://www.pracuj.pl/praca/lekarz-chirurg-ogolny-lekarka-chirurzka-wroclaw,oferta,1004449037?s=3f40cc12&searchId=MTc2Mzk1NDY4MTEwNi42MzY3",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "source": "pracuj.pl",
-      "logoUrl": null
-    },
-    {
-      "title": "Pracownik w dziale Planowania Sprzedaży",
-      "company": "UPS",
-      "url": "https://www.pracuj.pl/praca/pracownik-w-dziale-planowania-sprzedazy-wroclaw-generala-jozefa-bema-2,oferta,1004473925?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": "https://logo.clearbit.com/UPS.com"
-    },
-    {
-      "title": "Technik Utrzymania Ruchu",
-      "company": "Tarczyński S.A.",
-      "url": "https://www.pracuj.pl/praca/technik-utrzymania-ruchu-wroclaw,oferta,1004483187?s=3f40cc12&searchId=MTc2Mzg2ODQzNTgwMC43MTAy",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "logoUrl": "https://logo.clearbit.com/Medicover.com"
     }
   ]
 }

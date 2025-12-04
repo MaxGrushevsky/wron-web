@@ -1,10 +1,21 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-12-03T03:21:22.076Z",
+  "lastUpdated": "2025-12-04T03:23:36.975Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Junior Linux Engineer NOWA",
+      "title": "Junior Data Engineer (Databricks) NOWA",
+      "company": "Addepto",
+      "salary": "8 400 – 15 120 PLN",
+      "salaryMin": 8400,
+      "salaryMax": 15120,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-6",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Linux Engineer",
       "company": "Correct Context",
       "salary": "6 000 – 8 000 PLN",
       "salaryMin": 6000,
@@ -70,6 +81,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "OTC Process & Change Management Junior Consultant NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Data Entry (m/f/x)",
       "company": "Experis Polska",
       "salary": "6 900 – 7 700 PLN",
@@ -81,97 +103,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Obsługa klienta z językiem niemieckim NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Business/Systems Analyst",
-      "company": "CSHARK Sp. z o.o.",
-      "salary": "5 000 – 6 700 PLN",
-      "salaryMin": 5000,
-      "salaryMax": 6700,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-business-systems-analyst-cshark-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "IT Support Agent with foreign languages NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-foreign-languages-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior PMO with German (Sourcing Requisition) NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-pmo-with-german-sourcing-requisition-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "IT Support Agent with German NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-german-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-polska-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern Application Consultant with German NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-application-consultant-with-german-capgemini-polska-wroclaw-4",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern SAP with German",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-sap-with-german-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Intern Automation Tester with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -182,7 +116,7 @@
     {
       "title": "Intern DevOps Engineer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -193,7 +127,7 @@
     {
       "title": "Młodszy Programista Java z językiem Niemieckim NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -204,7 +138,7 @@
     {
       "title": "Junior Java Developer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -213,14 +147,80 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Cyber Security Junior Analyst",
-      "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
+      "title": "Intern Application Consultant with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/cyber-security-junior-analyst-ey-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-application-consultant-with-german-capgemini-polska-wroclaw-4",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Obsługa klienta z językiem niemieckim NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "IT Support Agent with foreign languages NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-foreign-languages-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior PMO with German (Sourcing Requisition) NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-pmo-with-german-sourcing-requisition-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "IT Support Agent with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-german-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-polska-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Intern SAP with German",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-sap-with-german-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

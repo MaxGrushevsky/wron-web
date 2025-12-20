@@ -1,8 +1,19 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2025-12-19T03:28:01.192Z",
+  "lastUpdated": "2025-12-20T03:19:34.902Z",
   "count": 20,
   "jobs": [
+    {
+      "title": "Junior Logistics Analyst NOWA",
+      "company": "Experis Polska",
+      "salary": "7 500 – 8 300 PLN",
+      "salaryMin": 7500,
+      "salaryMax": 8300,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-logistics-analyst-experis-polska-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
     {
       "title": "Program mentoringowy dla studentek NOWA",
       "company": "EY Polska",
@@ -34,17 +45,6 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/junior-application-specialist-afternoon-shift-3dconnexion-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Logistics Analyst",
-      "company": "Experis Polska",
-      "salary": "7 500 – 8 300 PLN",
-      "salaryMin": 7500,
-      "salaryMax": 8300,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-logistics-analyst-experis-polska-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
@@ -81,14 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Java Developer with German NOWA",
+      "title": "OTC Process & Change Management Junior Consultant NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-java-developer-with-german-capgemini-polska-wroclaw-2",
+      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -103,9 +103,31 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "IT Junior Cloud Administrator - CEE One IT NOWA",
+      "company": "KPMG",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/it-junior-cloud-administrator-cee-one-it-kpmg-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Java Developer with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-java-developer-with-german-capgemini-polska-wroclaw-2",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Intern Automation Tester with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -116,7 +138,7 @@
     {
       "title": "Intern DevOps Engineer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -127,7 +149,7 @@
     {
       "title": "Specjalista ds. Wsparcia IT z językiem niemieckim NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -138,7 +160,7 @@
     {
       "title": "Młodszy Programista Java z językiem Niemieckim NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -149,7 +171,7 @@
     {
       "title": "Junior Java Developer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -158,9 +180,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern SAP with German NOWA",
+      "title": "Intern SAP with German",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -169,9 +191,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Java Starter Kit with German NOWA",
+      "title": "Java Starter Kit with German",
       "company": "Capgemini",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -180,20 +202,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "OTC Process & Change Management Junior Consultant NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Junior Analityk Dokumentacji i Modeli Architektury IT",
       "company": "Inteca",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -202,20 +213,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "IT Junior Cloud Administrator - CEE One IT",
-      "company": "KPMG",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/it-junior-cloud-administrator-cee-one-it-kpmg-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Junior DevOps/Cloud Engineer",
       "company": "CloudForge",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,

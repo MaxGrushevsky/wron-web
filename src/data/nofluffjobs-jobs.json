@@ -1,10 +1,32 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-01-04T03:55:30.597Z",
+  "lastUpdated": "2026-01-05T03:59:53.925Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Junior Logistics Analyst NOWA",
+      "title": "WOLONTARIUSZ / WOLONTARIUSZKA – WSPARCIE DZIAŁU HR NOWA",
+      "company": "Fundacja Organic",
+      "salary": "bezpłatny staż",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/wolontariusz-wolontariuszka-wsparcie-dzialu-hr-fundacja-organic-wroclaw-2",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Program mentoringowy dla studentek NOWA",
+      "company": "EY Polska",
+      "salary": "bezpłatny staż",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/program-mentoringowy-dla-studentek-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Logistics Analyst",
       "company": "Experis Polska",
       "salary": "7 500 – 8 300 PLN",
       "salaryMin": 7500,
@@ -15,7 +37,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Ferryt Developer (he/she) NOWA",
+      "title": "Ferryt Developer (he/she)",
       "company": "ASTEK Polska",
       "salary": "16 800 – 21 000 PLN",
       "salaryMin": 16800,
@@ -26,7 +48,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Bulgarian speaker NOWA",
+      "title": "Bulgarian speaker",
       "company": "Antal",
       "salary": "5 850 PLN",
       "salaryMin": 5850,
@@ -37,7 +59,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Test Support Specialist NOWA",
+      "title": "Test Support Specialist",
       "company": "Scalo",
       "salary": "12 600 – 15 120 PLN",
       "salaryMin": 12600,
@@ -45,17 +67,6 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/test-support-specialist-scalo-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "WOLONTARIUSZ / WOLONTARIUSZKA – WSPARCIE DZIAŁU HR",
-      "company": "Fundacja Organic",
-      "salary": "bezpłatny staż",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/wolontariusz-wolontariuszka-wsparcie-dzialu-hr-fundacja-organic-wroclaw-2",
       "source": "nofluffjobs.com"
     },
     {
@@ -70,6 +81,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Sales Proposal Intern with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/sales-proposal-intern-with-german-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Junior Data Engineer (Databricks)",
       "company": "Addepto",
       "salary": "8 400 – 15 120 PLN",
@@ -81,9 +103,64 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Intern SAP with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-sap-with-german-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Java Starter Kit NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Analityk_Analityczka HR Transformation & Change Management NOWA",
+      "company": "EY Polska",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-analityk-analityczka-hr-transformation-change-management-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Java Starter Kit with German NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-with-german-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Specialist with Serbian in Financial Planning & Analysis NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/specialist-with-serbian-in-financial-planning-analysis-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Młodszy Programista Java z językiem Niemieckim NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -92,20 +169,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Twoja nowa kariera z sensem. Pracuj jako Doradca Ubezpieczeniowy.",
-      "company": "Lookalna. Agencja Rekrutacji.",
-      "salary": "9 000 – 18 000 PLN",
-      "salaryMin": 9000,
-      "salaryMax": 18000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/twoja-nowa-kariera-z-sensem-pracuj-jako-doradca-ubezpieczeniowy--lookalna-agencja-rekrutacji--wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "OTC Process & Change Management Junior Consultant NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -116,7 +182,7 @@
     {
       "title": "Junior Java Developer with German NOWA",
       "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -125,9 +191,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Akademia Telco Cloud NOWA",
+      "title": "Akademia Telco Cloud",
       "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -136,9 +202,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "OT Security Analyst NOWA",
+      "title": "OT Security Analyst",
       "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -147,80 +213,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "IT Junior Cloud Administrator - CEE One IT NOWA",
+      "title": "IT Junior Cloud Administrator - CEE One IT",
       "company": "KPMG",
-      "salary": "Sprawdź wynagrodzenie",
+      "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/it-junior-cloud-administrator-cee-one-it-kpmg-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Cyber Security Junior Analyst NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/cyber-security-junior-analyst-ey-polska-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "OT Security Architect NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ot-security-architect-ey-polska-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior .NET Developer with Angular NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-net-developer-with-angular-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Staż - Programista/Programistka Java z językiem niemieckim NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/staz-programista-programistka-java-z-jezykiem-niemieckim-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern - Java Developer with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-java-developer-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intelligent Automation Developer (Blue Prism) NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intelligent-automation-developer-blue-prism-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

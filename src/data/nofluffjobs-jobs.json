@@ -1,10 +1,21 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-01-11T03:54:42.868Z",
+  "lastUpdated": "2026-01-12T03:54:18.446Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Junior Data Engineer (Databricks) NOWA",
+      "title": "Twoja nowa kariera z sensem. Pracuj jako Doradca Ubezpieczeniowy. NOWA",
+      "company": "Lookalna. Agencja Rekrutacji.",
+      "salary": "9 000 – 18 000 PLN",
+      "salaryMin": 9000,
+      "salaryMax": 18000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/twoja-nowa-kariera-z-sensem-pracuj-jako-doradca-ubezpieczeniowy--lookalna-agencja-rekrutacji--wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Data Engineer (Databricks)",
       "company": "Addepto",
       "salary": "8 400 – 15 120 PLN",
       "salaryMin": 8400,
@@ -15,7 +26,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Program mentoringowy dla studentek NOWA",
+      "title": "Program mentoringowy dla studentek",
       "company": "EY Polska",
       "salary": "bezpłatny staż",
       "salaryMin": null,
@@ -26,7 +37,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior ETL/Data Engineer (with Power BI) NOWA",
+      "title": "Junior ETL/Data Engineer (with Power BI)",
       "company": "Sofomo",
       "salary": "9 500 – 11 000 PLN",
       "salaryMin": 9500,
@@ -70,6 +81,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Młodszy Specjalista/Specjalistka ds. Sprzedaży NOWA",
+      "company": "SDP Nieruchomości",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-specjalistka-ds-sprzedazy-sdp-nieruchomosci-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Test Support Specialist",
       "company": "Scalo",
       "salary": "12 600 – 15 120 PLN",
@@ -83,7 +105,7 @@
     {
       "title": "EY Tech Bootcamp - Zespół SAP Finance NOWA",
       "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -92,20 +114,9 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Analyst",
-      "company": "Experis Polska",
-      "salary": "13 440 – 15 120 PLN",
-      "salaryMin": 13440,
-      "salaryMax": 15120,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-analyst-experis-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "EY Tech Bootcamp - Zespół SAP Application Management Services NOWA",
       "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -116,7 +127,7 @@
     {
       "title": "EY Tech Bootcamp - Zespół SAP Supply Chain and Customer NOWA",
       "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -127,7 +138,7 @@
     {
       "title": "EY Tech Bootcamp - Zespół SAP Project Management Office NOWA",
       "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -138,7 +149,7 @@
     {
       "title": "EY Tech Bootcamp - zespół SAP Data Analytics NOWA",
       "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -149,7 +160,7 @@
     {
       "title": "EY Tech Bootcamp - Zespół SAP Digital Innovation NOWA",
       "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -158,9 +169,42 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Analityk_Analityczka HR Transformation & Change Management NOWA",
+      "title": "Intern Frontend Developer with German NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-frontend-developer-with-german-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Sales Manager B2B / Specjalista ds. sprzedaży B2B NOWA",
+      "company": "Ringostat",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/sales-manager-b2b-specjalista-ds-sprzedazy-b2b-ringostat-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Sales Account Executive NOWA",
+      "company": "Ringostat",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/sales-account-executive-ringostat-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Analityk_Analityczka HR Transformation & Change Management",
       "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
@@ -169,58 +213,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Akademia Telco Cloud NOWA",
+      "title": "Akademia Telco Cloud",
       "company": "Capgemini",
-      "salary": "Sprawdź zarobki",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/akademia-telco-cloud-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Java Starter Kit with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Back Office Agent with German NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/back-office-agent-with-german-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Specialist with Serbian in Financial Planning & Analysis NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specialist-with-serbian-in-financial-planning-analysis-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Sales Manager B2B / Specjalista ds. sprzedaży B2B NOWA",
-      "company": "Ringostat",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/sales-manager-b2b-specjalista-ds-sprzedazy-b2b-ringostat-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

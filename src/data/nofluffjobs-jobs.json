@@ -1,19 +1,8 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-01-22T03:51:59.064Z",
+  "lastUpdated": "2026-01-23T03:46:48.730Z",
   "count": 20,
   "jobs": [
-    {
-      "title": "WOLONTARIUSZ / WOLONTARIUSZKA – WSPARCIE DZIAŁU HR NOWA",
-      "company": "Fundacja Organic",
-      "salary": "bezpłatny staż",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/wolontariusz-wolontariuszka-wsparcie-dzialu-hr-fundacja-organic-wroclaw-2",
-      "source": "nofluffjobs.com"
-    },
     {
       "title": "Junior DevOps Engineer NOWA",
       "company": "Boldare",
@@ -28,16 +17,38 @@
     {
       "title": "Intern QA Engineer NOWA",
       "company": "Waverley Software",
-      "salary": "2 889 – 3 611 PLN",
-      "salaryMin": 2889,
-      "salaryMax": 3611,
+      "salary": "2 882 – 3 602 PLN",
+      "salaryMin": 2882,
+      "salaryMax": 3602,
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/intern-qa-engineer-waverley-software-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "IT Application Support (French/Spanish) NOWA",
+      "title": "Programista(ka) - Operator(ka) maszyn CNC NOWA",
+      "company": "PPK Precision Engineering sp. z o.o.",
+      "salary": "5 000 – 8 000 PLN",
+      "salaryMin": 5000,
+      "salaryMax": 8000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/programista-ka-operator-ka-maszyn-cnc-ppk-precision-engineering-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "WOLONTARIUSZ / WOLONTARIUSZKA – WSPARCIE DZIAŁU HR",
+      "company": "Fundacja Organic",
+      "salary": "bezpłatny staż",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/wolontariusz-wolontariuszka-wsparcie-dzialu-hr-fundacja-organic-wroclaw-2",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "IT Application Support (French/Spanish)",
       "company": "Ework Group",
       "salary": "12 600 – 15 120 PLN",
       "salaryMin": 12600,
@@ -48,7 +59,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Logistics Analyst NOWA",
+      "title": "Junior Logistics Analyst",
       "company": "Experis Polska",
       "salary": "7 500 – 8 300 PLN",
       "salaryMin": 7500,
@@ -70,17 +81,6 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior IT Support Specialist",
-      "company": "ATD-SOFTWARE",
-      "salary": "5 500 – 6 500 PLN",
-      "salaryMin": 5500,
-      "salaryMax": 6500,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-it-support-specialist-atd-software-wroclaw-2",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Intern - Java Developer with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź zarobki",
@@ -92,14 +92,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Frontend Developer (React.js)",
-      "company": "MasterBorn",
-      "salary": "6 000 – 9 000 PLN",
-      "salaryMin": 6000,
-      "salaryMax": 9000,
+      "title": "Junior IT Support Specialist",
+      "company": "ATD-SOFTWARE",
+      "salary": "5 500 – 6 500 PLN",
+      "salaryMin": 5500,
+      "salaryMax": 6500,
       "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-frontend-developer-react-js-masterborn-wroclaw-8",
+      "url": "https://nofluffjobs.com/pl/job/junior-it-support-specialist-atd-software-wroclaw-2",
       "source": "nofluffjobs.com"
     },
     {
@@ -111,6 +111,17 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/ot-security-analyst-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Sales Proposal Intern with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/sales-proposal-intern-with-german-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -136,14 +147,25 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Java Starter Kit with German NOWA",
-      "company": "Capgemini",
+      "title": "Intern SAP with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-sap-with-german-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Java Starter Kit NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -180,47 +202,25 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "EY Tech Bootcamp - Zespół SAP Finance NOWA",
-      "company": "EY Polska",
+      "title": "Młodszy/a Specjalista/ka ds. Kadrowo-Płacowych NOWA",
+      "company": "Symfonia",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-finance-ey-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-a-specjalista-ka-ds-kadrowo-placowych-symfonia-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "EY Tech Bootcamp - Zespół SAP Application Management Services NOWA",
-      "company": "EY Polska",
+      "title": "Java Starter Kit with German NOWA",
+      "company": "Capgemini",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-application-management-services-ey-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "EY Tech Bootcamp - Zespół SAP Supply Chain and Customer NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-supply-chain-and-customer-ey-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "EY Tech Bootcamp - Zespół SAP Project Management Office NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-project-management-office-ey-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

@@ -1,8 +1,19 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-01-29T04:12:01.736Z",
+  "lastUpdated": "2026-01-30T04:13:21.197Z",
   "count": 20,
   "jobs": [
+    {
+      "title": "Junior Data Analyst NOWA",
+      "company": "Experis Polska",
+      "salary": "13 440 – 15 120 PLN",
+      "salaryMin": 13440,
+      "salaryMax": 15120,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-analyst-experis-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
     {
       "title": "Junior DevOps & Integration Engineer NOWA",
       "company": "Upvanta",
@@ -15,7 +26,40 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior IT Support Specialist NOWA",
+      "title": "Junior Data Engineer (Databricks) NOWA",
+      "company": "Addepto",
+      "salary": "8 400 – 15 120 PLN",
+      "salaryMin": 8400,
+      "salaryMax": 15120,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-7",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior ETL/Data Engineer (with Power BI) NOWA",
+      "company": "Sofomo",
+      "salary": "9 500 – 11 000 PLN",
+      "salaryMin": 9500,
+      "salaryMax": 11000,
+      "salaryType": "monthly",
+      "location": "Wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-etl-data-engineer-with-power-bi-sofomo-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Programista(ka) - Operator(ka) maszyn CNC NOWA",
+      "company": "PPK Precision Engineering sp. z o.o.",
+      "salary": "5 000 – 8 000 PLN",
+      "salaryMin": 5000,
+      "salaryMax": 8000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/programista-ka-operator-ka-maszyn-cnc-ppk-precision-engineering-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior IT Support Specialist",
       "company": "ATD-SOFTWARE",
       "salary": "5 500 – 6 500 PLN",
       "salaryMin": 5500,
@@ -26,7 +70,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Solution Engineer with German (m/f/x) NOWA",
+      "title": "Solution Engineer with German (m/f/x)",
       "company": "Fieldcode",
       "salary": "8 000 – 12 000 PLN",
       "salaryMin": 8000,
@@ -37,7 +81,18 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "WOLONTARIUSZ / WOLONTARIUSZKA – SPECJALISTA/KA DS. REKLAM W GOOGLE ADS I FACEBOOK ADS NOWA",
+      "title": "Junior Marketing and Communication Specialist NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-marketing-and-communication-specialist-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "WOLONTARIUSZ / WOLONTARIUSZKA – SPECJALISTA/KA DS. REKLAM W GOOGLE ADS I FACEBOOK ADS",
       "company": "Fundacja Organic",
       "salary": "bezpłatny staż",
       "salaryMin": null,
@@ -48,36 +103,25 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "WOLONTARIUSZ / WOLONTARIUSZKA – SPECJALISTA/KA DS. KONCEPCJI WIZUALNEJ I ARTYSTYCZNEJ NOWA",
-      "company": "Fundacja Organic",
-      "salary": "bezpłatny staż",
+      "title": "Industry Senior Consultant NOWA",
+      "company": "Deloitte",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/wolontariusz-wolontariuszka-specjalista-ka-ds-koncepcji-wizualnej-i-artystycznej-fundacja-organic-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/industry-senior-consultant-deloitte-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "WOLONTARIUSZ/WOLONTARIUSZKA – MANAGER DS. KONCEPCJI WIZUALNEJ NOWA",
-      "company": "Fundacja Organic",
-      "salary": "bezpłatny staż",
+      "title": "Junior Developer/Trainee for Assembler - Mainframe IBM z/OS (willingness to learn Assembler) NOWA",
+      "company": "Deloitte",
+      "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/wolontariusz-wolontariuszka-manager-ds-koncepcji-wizualnej-fundacja-organic-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "WOLONTARIUSZ / WOLONTARIUSZKA – MANAGER DS. TWORZENIA VIDEO Z AI NOWA",
-      "company": "Fundacja Organic",
-      "salary": "bezpłatny staż",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/wolontariusz-wolontariuszka-manager-ds-tworzenia-video-z-ai-fundacja-organic-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-developer-trainee-for-assembler-mainframe-ibm-z-os-willingness-to-learn-assembler-deloitte-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -89,17 +133,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/specjalista-specjalistka-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Data Analyst NOWA",
-      "company": "Experis Polska",
-      "salary": "13 440 – 15 120 PLN",
-      "salaryMin": 13440,
-      "salaryMax": 15120,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-analyst-experis-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -188,39 +221,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern Automation Tester with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "English and Polish -Speaking Courier Support Specialist (Chat Only, No Calls) NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/english-and-polish-speaking-courier-support-specialist-chat-only-no-calls-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Bulgarian - Speaking Courier Support Specialist (Chat Only, No Calls) NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/bulgarian-speaking-courier-support-specialist-chat-only-no-calls-antal-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

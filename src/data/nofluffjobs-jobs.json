@@ -1,19 +1,8 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-01-31T04:10:13.759Z",
+  "lastUpdated": "2026-02-01T04:33:48.839Z",
   "count": 20,
   "jobs": [
-    {
-      "title": "Junior DevOps & Integration Engineer NOWA",
-      "company": "Upvanta",
-      "salary": "9 450 – 11 970 PLN",
-      "salaryMin": 9450,
-      "salaryMax": 11970,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-devops-integration-engineer-upvanta-wroclaw",
-      "source": "nofluffjobs.com"
-    },
     {
       "title": "Junior Data Analyst NOWA",
       "company": "Experis Polska",
@@ -23,6 +12,17 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/junior-data-analyst-experis-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior DevOps & Integration Engineer NOWA",
+      "company": "Upvanta",
+      "salary": "9 450 – 11 970 PLN",
+      "salaryMin": 9450,
+      "salaryMax": 11970,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-devops-integration-engineer-upvanta-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -81,14 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Talent Acquisition Support Specialist (Civil Contract) NOWA",
+      "title": "Junior Marketing and Communication Specialist NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/talent-acquisition-support-specialist-civil-contract-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-marketing-and-communication-specialist-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -103,14 +103,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "OTC Process & Change Management Junior Consultant NOWA",
-      "company": "Capgemini Invent",
+      "title": "Młodszy Specjalista/Specjalistka ds. Sprzedaży NOWA",
+      "company": "SDP Nieruchomości",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "location": "Wroclaw",
-      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-invent-wroclaw",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-specjalistka-ds-sprzedazy-sdp-nieruchomosci-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -147,7 +147,29 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Automation Tester with German NOWA",
+      "title": "Talent Acquisition Support Specialist (Civil Contract) NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/talent-acquisition-support-specialist-civil-contract-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "OTC Process & Change Management Junior Consultant",
+      "company": "Capgemini Invent",
+      "salary": "Sprawdź zarobki",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-invent-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Intern Automation Tester with German",
       "company": "Capgemini",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
@@ -158,7 +180,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern DevOps Engineer with German NOWA",
+      "title": "Intern DevOps Engineer with German",
       "company": "Capgemini",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
@@ -169,7 +191,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Sales Manager B2B / Specjalista ds. sprzedaży B2B NOWA",
+      "title": "Sales Manager B2B / Specjalista ds. sprzedaży B2B",
       "company": "Ringostat",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
@@ -180,7 +202,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Sales Account Executive NOWA",
+      "title": "Sales Account Executive",
       "company": "Ringostat",
       "salary": "Sprawdź zarobki",
       "salaryMin": null,
@@ -188,17 +210,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/sales-account-executive-ringostat-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Marketing and Communication Specialist",
-      "company": "Capgemini",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-marketing-and-communication-specialist-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -210,17 +221,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/specjalista-specjalistka-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Obsługa klienta z językiem niemieckim",
-      "company": "Capgemini",
-      "salary": "Sprawdź zarobki",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

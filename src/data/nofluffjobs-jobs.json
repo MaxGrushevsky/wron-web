@@ -1,10 +1,32 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-02-05T04:19:06.368Z",
+  "lastUpdated": "2026-02-06T04:19:21.306Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Solution Engineer with German (m/f/x) NOWA",
+      "title": "Junior IT Support Specialist NOWA",
+      "company": "ATD-SOFTWARE",
+      "salary": "5 500 – 7 000 PLN",
+      "salaryMin": 5500,
+      "salaryMax": 7000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-it-support-specialist-atd-software-wroclaw-2",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Programista(ka) - Operator(ka) maszyn CNC NOWA",
+      "company": "PPK Precision Engineering sp. z o.o.",
+      "salary": "5 000 – 8 000 PLN",
+      "salaryMin": 5000,
+      "salaryMax": 8000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/programista-ka-operator-ka-maszyn-cnc-ppk-precision-engineering-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Solution Engineer with German (m/f/x)",
       "company": "Fieldcode",
       "salary": "8 000 – 12 000 PLN",
       "salaryMin": 8000,
@@ -15,7 +37,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Databricks) NOWA",
+      "title": "Junior Data Engineer (Databricks)",
       "company": "Addepto",
       "salary": "8 400 – 15 120 PLN",
       "salaryMin": 8400,
@@ -59,6 +81,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Intern SAP with German NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-sap-with-german-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Junior Logistics Analyst",
       "company": "Experis Polska",
       "salary": "7 500 – 8 300 PLN",
@@ -70,14 +103,36 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior DevOps Engineer",
-      "company": "Boldare",
-      "salary": "5 600 – 8 500 PLN",
-      "salaryMin": 5600,
-      "salaryMax": 8500,
-      "salaryType": "monthly",
+      "title": "Java Starter Kit NOWA",
+      "company": "Capgemini Polska Sp. z o.o.",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-devops-engineer-boldare-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-capgemini-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Intern Automation Tester with German NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Intern DevOps Engineer with German NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
@@ -92,17 +147,6 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern QA Engineer",
-      "company": "Waverley Software",
-      "salary": "2 860 – 3 575 PLN",
-      "salaryMin": 2860,
-      "salaryMax": 3575,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-qa-engineer-waverley-software-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Obsługa klienta z językiem niemieckim NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
@@ -111,17 +155,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern SAP with German NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-sap-with-german-capgemini-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -158,18 +191,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Java Starter Kit NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "English and Polish -Speaking Courier Support Specialist (Chat Only, No Calls) NOWA",
+      "title": "English and Polish -Speaking Courier Support Specialist (Chat Only, No Calls)",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -180,7 +202,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Bulgarian - Speaking Courier Support Specialist (Chat Only, No Calls) NOWA",
+      "title": "Bulgarian - Speaking Courier Support Specialist (Chat Only, No Calls)",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -191,7 +213,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Recruitment Support Assistant (Civil Contract) NOWA",
+      "title": "Recruitment Support Assistant (Civil Contract)",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
@@ -199,28 +221,6 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/recruitment-support-assistant-civil-contract-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Java Starter Kit with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Młodszy/a Specjalista/ka ds. Kadrowo-Płacowych",
-      "company": "Symfonia",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mlodszy-a-specjalista-ka-ds-kadrowo-placowych-symfonia-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

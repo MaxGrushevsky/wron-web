@@ -1,8 +1,30 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-02-20T04:19:51.960Z",
+  "lastUpdated": "2026-02-21T04:11:38.534Z",
   "count": 20,
   "jobs": [
+    {
+      "title": "DevOps Engineer / Pega Customer Decision Hub NOWA",
+      "company": "Connectis_",
+      "salary": "16 800 – 20 160 PLN",
+      "salaryMin": 16800,
+      "salaryMax": 20160,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/devops-engineer-pega-customer-decision-hub-connectis--wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Marketing Specialist NOWA",
+      "company": "Fream",
+      "salary": "6 000 – 7 000 PLN",
+      "salaryMin": 6000,
+      "salaryMax": 7000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/marketing-specialist-fream-wroclaw",
+      "source": "nofluffjobs.com"
+    },
     {
       "title": "Junior Data Analyst NOWA",
       "company": "Experis Polska",
@@ -15,7 +37,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior DevOps & Integration Engineer NOWA",
+      "title": "Junior DevOps & Integration Engineer",
       "company": "Upvanta",
       "salary": "9 450 – 11 970 PLN",
       "salaryMin": 9450,
@@ -26,7 +48,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Azure Data Factory) NOWA",
+      "title": "Junior Data Engineer (Azure Data Factory)",
       "company": "Addepto",
       "salary": "7 000 – 12 600 PLN",
       "salaryMin": 7000,
@@ -34,17 +56,6 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-azure-data-factory-addepto-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "DevOps Engineer / Pega Customer Decision Hub NOWA",
-      "company": "Connectis_",
-      "salary": "16 800 – 20 160 PLN",
-      "salaryMin": 16800,
-      "salaryMax": 20160,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/devops-engineer-pega-customer-decision-hub-connectis--wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -59,17 +70,6 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Marketing Specialist",
-      "company": "Fream",
-      "salary": "6 000 – 7 000 PLN",
-      "salaryMin": 6000,
-      "salaryMax": 7000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/marketing-specialist-fream-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Solution Engineer with German (m/f/x)",
       "company": "Fieldcode",
       "salary": "8 000 – 12 000 PLN",
@@ -81,14 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Live Operations Customer Service Advisor with German NOWA",
-      "company": "Antal",
+      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim NOWA",
+      "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/live-operations-customer-service-advisor-with-german-antal-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
@@ -103,124 +103,124 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Customer Support Specialist with German NOWA",
+      "title": "Back Office Agent with German NOWA",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/customer-support-specialist-with-german-antal-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/back-office-agent-with-german-antal-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Back Office Specialist NOWA",
-      "company": "Antal",
+      "title": "EY Tech Bootcamp - Zespół SAP Project Management Office NOWA",
+      "company": "EY Polska",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/back-office-specialist-antal-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-project-management-office-ey-polska-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Frontend Developer with German NOWA",
+      "title": "EY Tech Bootcamp - Zespół SAP Supply Chain and Customer NOWA",
+      "company": "EY Polska",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-supply-chain-and-customer-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "EY Tech Bootcamp - Zespół SAP Digital Innovation NOWA",
+      "company": "EY Polska",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-digital-innovation-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "EY Tech Bootcamp - zespół SAP Data Analytics NOWA",
+      "company": "EY Polska",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-data-analytics-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "IT Support Agent with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-frontend-developer-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-german-capgemini-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Java Starter Kit with German NOWA",
+      "title": "EY Tech Bootcamp - Zespół SAP Finance NOWA",
+      "company": "EY Polska",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-finance-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Obsługa klienta z językiem niemieckim NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Business Analyst with German NOWA",
+      "title": "EY Tech Bootcamp - Zespół SAP Application Management Services NOWA",
+      "company": "EY Polska",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-application-management-services-ey-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Intern Manual Tester with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-business-analyst-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-manual-tester-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Business Analyst with German NOWA",
+      "title": "R2R Junior Manager with French or Italian NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-business-analyst-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior RPA Developer (UiPath) NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-rpa-developer-uipath-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Part-Time Chat Support Specialist (Bulgarian, German, or Dutch) – Fully Remote / Wrocław NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/part-time-chat-support-specialist-bulgarian-german-or-dutch-fully-remote-wroclaw-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Live Chat Support Specialist (Part-Time) NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/live-chat-support-specialist-part-time-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Italian and English-Speaking Courier Support Specialist (part-time) NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/italian-and-english-speaking-courier-support-specialist-part-time-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Customer Support Specialist with English NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/customer-support-specialist-with-english-antal-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/r2r-junior-manager-with-french-or-italian-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

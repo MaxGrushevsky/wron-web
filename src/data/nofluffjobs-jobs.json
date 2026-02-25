@@ -1,28 +1,17 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-02-24T04:24:33.827Z",
+  "lastUpdated": "2026-02-25T04:25:59.762Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Junior Data Engineer (Azure Data Factory) NOWA",
-      "company": "Addepto",
-      "salary": "7 000 – 12 600 PLN",
-      "salaryMin": 7000,
-      "salaryMax": 12600,
+      "title": "Junior Fullstack Developer (f/m) (20-40h/tydz) NOWA",
+      "company": "Fingoweb",
+      "salary": "5 275 – 6 720 PLN",
+      "salaryMin": 5275,
+      "salaryMax": 6720,
       "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-azure-data-factory-addepto-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Młodszy Specjalista ds. Sprzedaży NOWA",
-      "company": "Fudo Security",
-      "salary": "6 500 – 8 500 PLN",
-      "salaryMin": 6500,
-      "salaryMax": 8500,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-fudo-security-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-fullstack-developer-f-m-20-40h-tydz-fingoweb-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -37,7 +26,29 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Marketing Specialist NOWA",
+      "title": "Junior Data Engineer (Azure Data Factory)",
+      "company": "Addepto",
+      "salary": "7 000 – 12 600 PLN",
+      "salaryMin": 7000,
+      "salaryMax": 12600,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-azure-data-factory-addepto-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Młodszy Specjalista ds. Sprzedaży",
+      "company": "Fudo Security",
+      "salary": "6 500 – 8 500 PLN",
+      "salaryMin": 6500,
+      "salaryMax": 8500,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-fudo-security-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Marketing Specialist",
       "company": "Fream",
       "salary": "6 000 – 7 000 PLN",
       "salaryMin": 6000,
@@ -70,6 +81,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Junior .NET Developer with Angular NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-net-developer-with-angular-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Junior Data Analyst",
       "company": "Experis Polska",
       "salary": "13 440 – 15 120 PLN",
@@ -81,25 +103,25 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Automation Tester with German NOWA",
+      "title": "Intelligent Automation Developer (Blue Prism) NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-wroclaw-1",
+      "url": "https://nofluffjobs.com/pl/job/intelligent-automation-developer-blue-prism-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior DevOps & Integration Engineer",
-      "company": "Upvanta",
-      "salary": "9 450 – 11 970 PLN",
-      "salaryMin": 9450,
-      "salaryMax": 11970,
-      "salaryType": "monthly",
+      "title": "Intern - Java Developer with German NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-devops-integration-engineer-upvanta-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-java-developer-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -114,14 +136,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern DevOps Engineer with German NOWA",
+      "title": "Staż - Programista/Programistka Java z językiem niemieckim NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/staz-programista-programistka-java-z-jezykiem-niemieckim-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -132,7 +154,7 @@
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw-1",
+      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -169,39 +191,6 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Starter Kit Upskilling Program (Java, with German) NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/starter-kit-upskilling-program-java-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Specialist Buyer (Procurment) NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-specialist-buyer-procurment-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Supply Chain Planner NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-supply-chain-planner-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Manual QA Intern NOWA",
       "company": "Opera",
       "salary": "Sprawdź wynagrodzenie",
@@ -213,14 +202,25 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Obsługa klienta z językiem niemieckim NOWA",
+      "title": "Intern - Java Developer with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw-2",
+      "url": "https://nofluffjobs.com/pl/job/intern-java-developer-with-german-capgemini-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Quality Assurance Internship – Tax Technology, Global Mobility Services NOWA",
+      "company": "KPMG",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/quality-assurance-internship-tax-technology-global-mobility-services-kpmg-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

@@ -1,19 +1,8 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-02-25T04:25:59.762Z",
+  "lastUpdated": "2026-02-26T04:22:12.613Z",
   "count": 20,
   "jobs": [
-    {
-      "title": "Junior Fullstack Developer (f/m) (20-40h/tydz) NOWA",
-      "company": "Fingoweb",
-      "salary": "5 275 – 6 720 PLN",
-      "salaryMin": 5275,
-      "salaryMax": 6720,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-fullstack-developer-f-m-20-40h-tydz-fingoweb-wroclaw",
-      "source": "nofluffjobs.com"
-    },
     {
       "title": "DevOps Engineer / Pega Customer Decision Hub NOWA",
       "company": "Connectis_",
@@ -23,6 +12,17 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/devops-engineer-pega-customer-decision-hub-connectis--wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Fullstack Developer (f/m) (20-40h/tydz)",
+      "company": "Fingoweb",
+      "salary": "5 275 – 6 720 PLN",
+      "salaryMin": 5275,
+      "salaryMax": 6720,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-fullstack-developer-f-m-20-40h-tydz-fingoweb-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -81,14 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior .NET Developer with Angular NOWA",
+      "title": "Intern PMO with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-net-developer-with-angular-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-pmo-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -103,91 +103,80 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intelligent Automation Developer (Blue Prism) NOWA",
+      "title": "Junior Java Developer with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intelligent-automation-developer-blue-prism-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-java-developer-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern - Java Developer with German NOWA",
+      "title": "Talent Acquisition Support Specialist (Civil Contract) NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-java-developer-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/talent-acquisition-support-specialist-civil-contract-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Specjalista/Specjalistka ds. wsparcia IT z językiem niemieckim NOWA",
+      "title": "Intern Frontend Developer with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-specjalistka-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-frontend-developer-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Staż - Programista/Programistka Java z językiem niemieckim NOWA",
-      "company": "Capgemini",
+      "title": "Junior Customer Service Specialist with Italian NOWA",
+      "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/staz-programista-programistka-java-z-jezykiem-niemieckim-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-customer-service-specialist-with-italian-antal-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern DevOps Engineer with German NOWA",
+      "title": "Starter Kit Upskilling Program (Java, with German) NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/starter-kit-upskilling-program-java-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Obsługa klienta z językiem niemieckim NOWA",
+      "title": "Junior Specialist Buyer (Procurment) NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-specialist-buyer-procurment-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Automation Tester with German NOWA",
+      "title": "Junior Supply Chain Planner NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "IT Support Agent with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-supply-chain-planner-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -202,25 +191,36 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern - Java Developer with German NOWA",
+      "title": "Obsługa klienta z językiem niemieckim NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-java-developer-with-german-capgemini-wroclaw-1",
+      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw-2",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Quality Assurance Internship – Tax Technology, Global Mobility Services NOWA",
-      "company": "KPMG",
+      "title": "Wsparcie IT z j. niemieckim (pół etatu) NOWA",
+      "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/quality-assurance-internship-tax-technology-global-mobility-services-kpmg-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/wsparcie-it-z-j-niemieckim-pol-etatu-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Customer Service Agent with Italian or just English part-time NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/customer-service-agent-with-italian-or-just-english-part-time-antal-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

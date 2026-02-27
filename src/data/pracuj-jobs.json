@@ -1,1170 +1,8 @@
 {
-  "lastUpdated": "2026-02-27T04:18:00.471Z",
-  "totalCount": 599,
-  "sources": 4,
+  "source": "pracuj",
+  "lastUpdated": "2026-02-27T04:13:30.099Z",
+  "count": 503,
   "jobs": [
-    {
-      "title": "No title",
-      "location": "No location",
-      "jobId": "No Job ID",
-      "datePosted": "No date",
-      "url": "No URL",
-      "source": "amazon",
-      "company": "Amazon",
-      "logoUrl": null
-    },
-    {
-      "title": "Developer Java - wolontarat, projekt open source, przeciwdziałaj depresji dzieci i młodzieży NOWA",
-      "company": "NeuroN Foundation",
-      "salary": "bezpłatny staż",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/developer-java-wolontarat-projekt-open-source-przeciwdzialaj-depresji-dzieci-i-mlodziezy-neuron-foundation-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "DevOps Engineer / Pega Customer Decision Hub",
-      "company": "Connectis_",
-      "salary": "16 800 – 20 160 PLN",
-      "salaryMin": 16800,
-      "salaryMax": 20160,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/devops-engineer-pega-customer-decision-hub-connectis--wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Junior Fullstack Developer (f/m) (20-40h/tydz)",
-      "company": "Fingoweb",
-      "salary": "5 275 – 6 720 PLN",
-      "salaryMin": 5275,
-      "salaryMax": 6720,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-fullstack-developer-f-m-20-40h-tydz-fingoweb-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Junior Data Engineer (Azure Data Factory)",
-      "company": "Addepto",
-      "salary": "7 000 – 12 600 PLN",
-      "salaryMin": 7000,
-      "salaryMax": 12600,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-azure-data-factory-addepto-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Młodszy Specjalista ds. Sprzedaży",
-      "company": "Fudo Security",
-      "salary": "6 500 – 8 500 PLN",
-      "salaryMin": 6500,
-      "salaryMax": 8500,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-ds-sprzedazy-fudo-security-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Marketing Specialist",
-      "company": "Fream",
-      "salary": "6 000 – 7 000 PLN",
-      "salaryMin": 6000,
-      "salaryMax": 7000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/marketing-specialist-fream-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Support IT (part-time)",
-      "company": "Link Group",
-      "salary": "8 400 – 13 440 PLN",
-      "salaryMin": 8400,
-      "salaryMax": 13440,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/support-it-part-time-link-group-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "OTC Process & Change Management Junior Consultant NOWA",
-      "company": "Capgemini Invent",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wroclaw",
-      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-invent-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Junior Data Engineer (Databricks)",
-      "company": "Addepto",
-      "salary": "8 400 – 15 120 PLN",
-      "salaryMin": 8400,
-      "salaryMax": 15120,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-8",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Industry Senior Consultant NOWA",
-      "company": "Deloitte",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/industry-senior-consultant-deloitte-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Back Office Agent with German NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/back-office-agent-with-german-antal-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "EY Tech Bootcamp - Zespół SAP Project Management Office NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-project-management-office-ey-polska-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Live Operations Customer Service Advisor with German NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/live-operations-customer-service-advisor-with-german-antal-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "EY Tech Bootcamp - Zespół SAP Supply Chain and Customer NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-supply-chain-and-customer-ey-polska-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Customer Support Specialist with German NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/customer-support-specialist-with-german-antal-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Back Office Specialist NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/back-office-specialist-antal-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "EY Tech Bootcamp - Zespół SAP Digital Innovation NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-digital-innovation-ey-polska-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Junior .NET Developer with Angular NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-net-developer-with-angular-capgemini-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "EY Tech Bootcamp - zespół SAP Data Analytics NOWA",
-      "company": "EY Polska",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ey-tech-bootcamp-zespol-sap-data-analytics-ey-polska-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Talent Acquisition Support Specialist (Civil Contract) NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/talent-acquisition-support-specialist-civil-contract-capgemini-wroclaw",
-      "source": "nofluffjobs.com",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca Montaż Rusztowań",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-montaz-rusztowan-CID4-IDXWzVN.html?search_reason=search%7Cpromoted",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Dla Studenta! Kierowca Uber Bolt - najlepsze warunki Elastyczny grafik",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/dla-studenta-kierowca-uber-bolt-najlepsze-warunki-elastyczny-grafik-CID4-ID17nxf0.html?search_reason=search%7Cpromoted",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca sprzątanie Wrocław",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-sprzatanie-wroclaw-CID4-ID18OXqF.html?search_reason=search%7Cpromoted",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Malarz Praca Niemcy Wysokie zarobki",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/malarz-praca-niemcy-wysokie-zarobki-CID4-ID19vGLX.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Kierowca Taxi Uber Bolt Wrocław – Najlepsze Warunki, Nowe Samochody!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-najlepsze-warunki-nowe-samochody-CID4-IDZFgws.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Zostan animatorem hotelowym w Grecji",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zostan-animatorem-hotelowym-w-grecji-CID4-ID19ieAH.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca w sklepie ogrodniczym Wrocław",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-w-sklepie-ogrodniczym-wroclaw-CID4-ID19y8iq.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Dołącz do nas OD ZARAZ! Będzie fajnie - obiecujemy :)",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/dolacz-do-nas-od-zaraz-bedzie-fajnie-obiecujemy-CID4-ID19oj3v.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "PRACA ZDALNA – rekruter / specjalista ds. pozyskiwania kandydatów",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-zdalna-rekruter-specjalista-ds-pozyskiwania-kandydatow-CID4-ID19l4Db.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Kosmetolog - poszukujemy kosmetologa i studentki kosmetologii",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kosmetolog-poszukujemy-kosmetologa-i-studentki-kosmetologii-CID4-ID19woVb.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Specjalista[ka] ds. obsługi klienta i sprzedaży internetowej",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/specjalistaka-ds-obslugi-klienta-i-sprzedazy-internetowej-CID4-ID19t6Te.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Kierownik Recepcji Aparthotelu w Centrum Wrocławia",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierownik-recepcji-aparthotelu-w-centrum-wroclawia-CID4-ID19vSsD.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Kierowca Taxi Uber Bolt Wrocław – Nocne zmiany, Extra Bonusy!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-nocne-zmiany-extra-bonusy-CID4-ID19hdSi.html?search_reason=search%7Cpromoted",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "POMOC KUCHENNA/restauracja w centrum/Wrocław",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/pomoc-kuchenna-restauracja-w-centrum-wroclaw-CID4-ID18euxi.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Doradca Klienta – praca zdalna / elastyczne godziny pracy",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/doradca-klienta-praca-zdalna-elastyczne-godziny-pracy-CID4-ID19fOji.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca od zaraz! | PON-PT | Biuro w centrum",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-od-zaraz-pon-pt-biuro-w-centrum-CID4-ID19dpa0.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Staż dla osób z niepełnosprawnościami (Wrocław i okolice)",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/staz-dla-osob-z-niepelnosprawnosciami-wroclaw-i-okolice-CID4-ID170p4v.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Pomoc na kuchnie - Kucharz",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/pomoc-na-kuchnie-kucharz-CID4-ID19yaLl.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Start w IT – Bootcamp + Praca (Wrocław)",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/start-w-it-bootcamp-praca-wroclaw-CID4-ID19r6OU.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Zatrudnię Pracownika Budowlanego (30-35 zł netto za godzinę)",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zatrudnie-pracownika-budowlanego-30-35-zl-netto-za-godzine-CID4-ID17b9A0.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "asystentka biurowa/księgowa",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/asystentka-biurowa-ksiegowa-CID4-ID19mWrj.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Дистанційна робота ,дроп-менеджер для Українців у Польщі. Підробіток",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/-CID4-ID180ID5.html?search_reason=search%7Cpromoted",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Płatny staż zdalny – montaż rolek / video (Wrocław)",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/platny-staz-zdalny-montaz-rolek-video-wroclaw-CID4-ID19dyw7.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praktykantka/praktykant w biurze rachunkowym - Wrocław",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praktykantka-praktykant-w-biurze-rachunkowym-wroclaw-CID4-ID19i5lk.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praktykant/Praktykantka w biurze kadrowo-płacowym",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praktykant-praktykantka-w-biurze-kadrowo-placowym-CID4-ID19jFE7.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "praca na ręcznej myjni samochodowej",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-na-recznej-myjni-samochodowej-CID4-IDOhHPt.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Młodszy specjalista ds. szkoleń i dotacji unijnych- umowa stażowa",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/mlodszy-specjalista-ds-szkolen-i-dotacji-unijnych-umowa-stazowa-CID4-ID178z0b.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Studio Figura recepcja, obsługa klienta, fitness wellness kosmetyka",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/studio-figura-recepcja-obsluga-klienta-fitness-wellness-kosmetyka-CID4-ID19jqqu.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Płatny staż w dziale księgowości (k/n/m)",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/platny-staz-w-dziale-ksiegowosci-k-n-m-CID4-IDKB1T8.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Asystent/ka biura",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/asystent-ka-biura-CID4-ID15K1Ta.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Mechanik samochodowy – praca we Wrocławiu",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/mechanik-samochodowy-praca-we-wroclawiu-CID4-ID19d5QI.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Sprzedawca - Salon garniturów + Obsługa e-commerce",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/sprzedawca-salon-garniturow-obsluga-e-commerce-CID4-ID190cLB.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Asystent fryzjera",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/asystent-fryzjera-CID4-ID19hAaW.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Doradca do spraw nieruchomości we Wrocławiu Estate Brokers",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/doradca-do-spraw-nieruchomosci-we-wroclawiu-estate-brokers-CID4-ID19mSdi.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca dla Barbera z perspektywą rozwoju! Sprawdź opis!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-dla-barbera-z-perspektywa-rozwoju-sprawdz-opis-CID4-IDZ4c6W.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Specjalista/ka ds. obsługi sklepu internetowego z branży sanitarnej",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/specjalista-ka-ds-obslugi-sklepu-internetowego-z-branzy-sanitarnej-CID4-ID19hgwe.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Агент з нерухомості | B&B Estate | Вроцлав",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/b-b-estate-CID4-ID15TpJw.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Barber Shop zatrudni Barberów/Barberki",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/barber-shop-zatrudni-barberow-barberki-CID4-ID17QFoa.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praktykant prawa",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praktykant-prawa-CID4-ID19i1Bb.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Pracownik myjni samochodowej",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/pracownik-myjni-samochodowej-CID4-ID187eNY.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Stylistka/Stylista Przedłuzanie wlosow",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/stylistka-stylista-przedluzanie-wlosow-CID4-ID174EEu.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Stylistka paznokci elastyczny grafik również weekendy",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/stylistka-paznokci-elastyczny-grafik-rowniez-weekendy-CID4-IDQ8ih8.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Przyjmę do Pracy",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/przyjme-do-pracy-CID4-ID17LrjD.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Opiekunka w żlobku",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/opiekunka-w-zlobku-CID4-ID15c3it.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "First Stop WROPON przyjmie do zespołu wulkanizatorów.",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/first-stop-wropon-przyjmie-do-zespolu-wulkanizatorow-CID4-IDLMrXY.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca dla masażystki/ fizjoterapeuty SPA – centrum Wrocławia",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-dla-masazystki-fizjoterapeuty-spa-centrum-wroclawia-CID4-ID174v1V.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Najtańszy partner TAXI | Brak VAT 8% i 23% od bonusów | Wynajem aut",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/najtanszy-partner-taxi-brak-vat-8-i-23-od-bonusow-wynajem-aut-CID4-ID19hwuZ.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Menager Restauracja • Hotele • Eventy • Scena Kapitańska",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/menager-restauracja-hotele-eventy-scena-kapitanska-CID4-ID19uZ8i.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Światłowody, budowa, obsługa",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/swiatlowody-budowa-obsluga-CID4-ID15jdL4.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Fryzjer Stylista / Asystent fryzjera",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/fryzjer-stylista-asystent-fryzjera-CID4-ID19gOzZ.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Lakierowanie autobusu",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/lakierowanie-autobusu-CID4-ID19ni4J.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Stylistka Paznokci – Praca | Umowa Zlecenie | B2B",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/stylistka-paznokci-praca-umowa-zlecenie-b2b-CID4-ID19qeAz.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Praca Fryzjer/Fryzjerka",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-fryzjer-fryzjerka-CID4-ID10BsiX.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Technik Dentystyczny, Technik ortodontyczny, dział ortodoncja",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/technik-dentystyczny-technik-ortodontyczny-dzial-ortodoncja-CID4-ID17rTi4.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Stylista fryzur poszukiwany!!!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/stylista-fryzur-poszukiwany-CID4-ID160cTt.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Otwieramy praktyki dla asystentek stomatologicznych",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/otwieramy-praktyki-dla-asystentek-stomatologicznych-CID4-ID19eDr6.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Księgowa w biurze rachunkowym",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/ksiegowa-w-biurze-rachunkowym-CID4-IDZdwSV.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "mechanik samochodowy",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/mechanik-samochodowy-CID4-ID18ybJR.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Kierowca kat. B – Własny grafik | TAXI PARTNER | Praca od zaraz",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-kat-b-wlasny-grafik-taxi-partner-praca-od-zaraz-CID4-ID16I4p6.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Kierowca Ciezarowki monter rusztowan Niemcy",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-ciezarowki-monter-rusztowan-niemcy-CID4-ID19cAeA.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Event Creative PR Artystyczny",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/event-creative-pr-artystyczny-CID4-ID19rrW2.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "KIEROWCA - Uber Bolt Freenow - Rozliczenie 1zł - NAJLEPSZE WARUNKI!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-uber-bolt-freenow-rozliczenie-1zl-najlepsze-warunki-CID4-ID19oCSp.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Stażysta/Stażystka w Dziale Reklamacji",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/stazysta-stazystka-w-dziale-reklamacji-CID4-ID19bLaM.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Blacharz, mechanik, dobra atmosfera, uczciwe zarobki, praca Wrocław.",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/blacharz-mechanik-dobra-atmosfera-uczciwe-zarobki-praca-wroclaw-CID4-ID19lOly.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Fizjoterapeuta poszukiwany",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/fizjoterapeuta-poszukiwany-CID4-IDPcAfq.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Inżynier serwisu - technik serwisant",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/inzynier-serwisu-technik-serwisant-CID4-ID19dynl.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Edukator/ka - nauczyciel/ka dzieci przedszkolnych | Reggio Emilia, NVC",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/edukator-ka-nauczyciel-ka-dzieci-przedszkolnych-reggio-emilia-nvc-CID4-ID19jVUj.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Zatrudnię kierowce c+e Kraj",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zatrudnie-kierowce-c-e-kraj-CID4-ID19s1In.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Kierowca kat C+E kraj kontenery morskie",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-kat-c-e-kraj-kontenery-morskie-CID4-ID19l7m4.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Nowy Barber Shop we Wrocławiu!Szukamy barberów/barberek",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/nowy-barber-shop-we-wroclawiu-szukamy-barberow-barberek-CID4-ID17e3gG.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Barber Fryzjer poszukiwany poszukiwana",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/barber-fryzjer-poszukiwany-poszukiwana-CID4-ID184qkm.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Zatrudnię brygadzistę wod-kan",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zatrudnie-brygadziste-wod-kan-CID4-ID19crvK.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Elektronik/Mechatronik/Automatyk - staż płatny w Dziale Marketingu M/K",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/elektronik-mechatronik-automatyk-staz-platny-w-dziale-marketingu-m-k-CID4-ID19ctAA.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "KIerowca c+e /system pon- piatek",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-c-e-system-pon-piatek-CID4-ID15bIeb.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Kierowca Uber / Bolt / FreeNow – samochód firmowy, wypłata co tydzień",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-uber-bolt-freenow-samochod-firmowy-wyplata-co-tydzien-CID4-ID17LeEv.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
-    {
-      "title": "Specjalista / Specjalistka ds. techniczno-handlowych HVAC",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/specjalista-specjalistka-ds-techniczno-handlowych-hvac-CID4-ID19fYgT.html?search_reason=search%7Corganic",
-      "source": "olx",
-      "logoUrl": null
-    },
     {
       "title": "Pracownik administracyjny / Pracowniczka administracyjna",
       "company": "QUEHENBERGER LOGISTICS PL sp. z o.o.",
@@ -1172,8 +10,7 @@
       "salaryMin": 4806,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Back Office Specialist (praca na 1/2 etatu)",
@@ -1182,8 +19,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Spedytor / Spedytorka w Transporcie Krajowym i Międzynarodowym",
@@ -1192,8 +28,7 @@
       "salaryMin": 8000,
       "salaryMax": 13000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Billing Specialist",
@@ -1202,8 +37,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka ds. administrowania nieruchomościami",
@@ -1212,8 +46,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Postępowania Egzekucyjnego",
@@ -1222,8 +55,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/ka Projektanta/ki w branży mostowej",
@@ -1232,8 +64,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Quality Analyst",
@@ -1242,8 +73,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Technical Business Analyst",
@@ -1252,8 +82,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Konsultant / Konsultantka Sprzedaży Bezpośredniej",
@@ -1262,8 +91,7 @@
       "salaryMin": 5000,
       "salaryMax": 6500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "CEO Personal Assistant",
@@ -1272,8 +100,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Klienta Biznesowego w Orange (k/m)",
@@ -1282,8 +109,7 @@
       "salaryMin": 9000,
       "salaryMax": 17000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Customer Success Specialist (POS & PAY)",
@@ -1292,8 +118,7 @@
       "salaryMin": 7000,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Konsultant Sephora (K/M/X)",
@@ -1302,8 +127,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Order Management Intern, German Speaker",
@@ -1312,8 +136,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier Budowy / Specjalista ds. Kontraktacji i Kontroli Kosztów (k/m)",
@@ -1322,8 +145,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik administracyjny / Pracowniczka administracyjna",
@@ -1332,8 +154,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Recepcjonistka/Recepcjonista| FITNESS ACADEMY | Maślicka",
@@ -1342,8 +163,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Sprzedaży B2B",
@@ -1352,8 +172,7 @@
       "salaryMin": 6800,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. rekrutacji",
@@ -1362,8 +181,7 @@
       "salaryMin": 4800,
       "salaryMax": 5600,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. weryfikacji języka niemieckiego",
@@ -1372,8 +190,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Fullstack Developer (Java + Angular) (m/f)",
@@ -1382,8 +199,7 @@
       "salaryMin": 6300,
       "salaryMax": 11470,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka Projektanta Konstrukcji Budowlanych",
@@ -1392,8 +208,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodsza Specjalistka / Młodszy Specjalista ds. Kadr i Płac",
@@ -1402,8 +217,7 @@
       "salaryMin": 5900,
       "salaryMax": 6800,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista/specjalistka ds. optymalizacji procesów i rozliczeń",
@@ -1412,8 +226,7 @@
       "salaryMin": 5180,
       "salaryMax": 8680,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent Kierownika Projektu (k/m)",
@@ -1422,8 +235,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Obsługi Klienta (K/M)",
@@ -1432,8 +244,7 @@
       "salaryMin": 5000,
       "salaryMax": 5500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. zamówień i produktów (e-commerce)",
@@ -1442,8 +253,7 @@
       "salaryMin": 5200,
       "salaryMax": 5700,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Kupiec / Młodsza Kupczyni w Pionie Zaopatrzenia",
@@ -1452,8 +262,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka w Dziale Zakupu Art. Przemysłowych",
@@ -1462,8 +271,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Osoba na stanowisko Sprzedawcy",
@@ -1472,8 +280,7 @@
       "salaryMin": 31,
       "salaryMax": 34,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. sprzedaży telefonicznej",
@@ -1482,8 +289,7 @@
       "salaryMin": 5100,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Sprzedaży",
@@ -1492,8 +298,7 @@
       "salaryMin": 8750,
       "salaryMax": 20000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Intern Developer (Microsoft Low-Code, Agentic AI)",
@@ -1502,8 +307,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Kupiec (M/K)",
@@ -1512,8 +316,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Backend Developer (Golang) - Praktyki",
@@ -1522,8 +325,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sprzedawca / Sprzedawczyni – TEZENIS – cały etat",
@@ -1532,8 +334,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior CRM Specialist",
@@ -1542,8 +343,7 @@
       "salaryMin": 9000,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Marketingu z językiem niemieckim",
@@ -1552,8 +352,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Programista ORACLE (m/k)",
@@ -1562,8 +361,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Testów i Wdrożeń (m/k)",
@@ -1572,8 +370,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Kontroler Jakości NDT",
@@ -1582,8 +379,7 @@
       "salaryMin": 12000,
       "salaryMax": 15000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior In-house lawyer",
@@ -1592,8 +388,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Flutter Developer",
@@ -1602,8 +397,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka w Dziale Obsługi Dokumentacji",
@@ -1612,8 +406,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sprzedawca/ Sprzedawczyni w punkcie Prezentmarzeń Magnolia",
@@ -1622,8 +415,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. obsługi administracyjnej",
@@ -1632,8 +424,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior PIM Data Steward",
@@ -1642,8 +433,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier/ka budowy - branża budowlana",
@@ -1652,8 +442,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Office Operations Associate",
@@ -1662,8 +451,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Aparatury Kontrolno-Pomiarowej (APK) (K/M/X)",
@@ -1672,8 +460,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Staż w Dziale Treasury",
@@ -1682,8 +469,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Streaming Technology Engineer",
@@ -1692,8 +478,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Sprzedaży",
@@ -1702,8 +487,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik Biurowy / Pracowniczka Biurowa z językiem niemieckim",
@@ -1712,8 +496,7 @@
       "salaryMin": 6300,
       "salaryMax": 7800,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Inżynier Oprogramowania Systemów",
@@ -1722,8 +505,7 @@
       "salaryMin": 6000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior International Commodity Trader",
@@ -1732,8 +514,7 @@
       "salaryMin": 6000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Rozwoju i Rozliczeń (K/M/X)",
@@ -1742,8 +523,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca/Doradczyni Klienta Aleja Bielany Salon Optyczny Family Optic",
@@ -1752,8 +532,7 @@
       "salaryMin": 4806,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Konsultant SAP SF (K/M)",
@@ -1762,8 +541,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista/Specjalistka ds. Zakupów",
@@ -1772,8 +550,7 @@
       "salaryMin": 6800,
       "salaryMax": 9000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. telefonicznej obsługi klienta biznesowego",
@@ -1782,8 +559,7 @@
       "salaryMin": 5650,
       "salaryMax": 5850,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Product Support Analyst",
@@ -1792,8 +568,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka agenta celnego",
@@ -1802,8 +577,7 @@
       "salaryMin": 6000,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Fiori Developer | Managed Services Operations",
@@ -1812,8 +586,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior SAP Process Orchestration Developer | Managed Services Operations",
@@ -1822,8 +595,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Leasing Advisor / Office Agency",
@@ -1832,8 +604,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka kierownika budowy",
@@ -1842,8 +613,7 @@
       "salaryMin": 10000,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Controllingu Finansowego",
@@ -1852,8 +622,7 @@
       "salaryMin": 7000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. IT (k/m)",
@@ -1862,8 +631,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior SAP BPC Planning Specialist | Managed Services Operations",
@@ -1872,8 +640,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "VAT Compliance Analyst",
@@ -1882,8 +649,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodsza Księgowa / Młodszy Księgowy",
@@ -1892,8 +658,7 @@
       "salaryMin": 5000,
       "salaryMax": 6500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/ka ds. handlowo–technicznych",
@@ -1902,8 +667,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik / Pracowniczka recepcji",
@@ -1912,8 +676,7 @@
       "salaryMin": 32,
       "salaryMax": 33,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. obsługi klienta",
@@ -1922,8 +685,7 @@
       "salaryMin": 5400,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Intern Business Analyst (Microsoft Low-Code, Agentic AI)",
@@ -1932,8 +694,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/Asystentka ds. Obsługi Pacjenta LUX MED Diagnostyka",
@@ -1942,8 +703,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Wsparcia Operacyjnego",
@@ -1952,8 +712,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta / Stażystka ds. Wsparcia Operacyjnego",
@@ -1962,8 +721,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. obsługi przetargów inwestycyjnych – osoba do obsługi procesu ofertowania i kontraktacji (k/m)",
@@ -1972,8 +730,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Projektant / Projektantka ds. Aranżacji Kuchni i Łazienek",
@@ -1982,8 +739,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Agent / Agentka Nieruchomości",
@@ -1992,8 +748,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik biurowo-magazynowy / Pracowniczka biurowo-magazynowa",
@@ -2002,8 +757,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "HR Administration & Payroll Specialist",
@@ -2012,8 +766,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. administracji",
@@ -2022,8 +775,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Doradztwa Finansowego",
@@ -2032,8 +784,7 @@
       "salaryMin": 2500,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Full Stack Developer",
@@ -2042,8 +793,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Klienta Indywidualnego",
@@ -2052,8 +802,7 @@
       "salaryMin": 8750,
       "salaryMax": 20000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Customer Service Specialist with Italian",
@@ -2062,8 +811,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Sprzedaży (KMN)",
@@ -2072,8 +820,7 @@
       "salaryMin": 5000,
       "salaryMax": 17000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Staż w dziale operacji i logistyki",
@@ -2082,8 +829,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Transport Specialist",
@@ -2092,8 +838,7 @@
       "salaryMin": 5500,
       "salaryMax": 6500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier budowy - Majster budowy",
@@ -2102,8 +847,7 @@
       "salaryMin": 7500,
       "salaryMax": 11000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Telco Cloud Case Handling and Emergency Services Engineer",
@@ -2112,8 +856,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Negocjator Telefoniczny / Negocjatorka Telefoniczna",
@@ -2122,8 +865,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Wsparcia IT z językiem niemieckim (Sourcing Requisition)",
@@ -2132,8 +874,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Obsługa klienta z językiem niemieckim",
@@ -2142,8 +883,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "IT Support Agent with German",
@@ -2152,8 +892,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista ds. rekrutacji",
@@ -2162,8 +901,7 @@
       "salaryMin": 5000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Płatne Praktyki w Obszarze Inżynierii Produkcji - Fabryka Kuchenek (k/m)",
@@ -2172,8 +910,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista/ka ds. współpracy z Influencerami",
@@ -2182,8 +919,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Customer Service Coordinator",
@@ -2192,8 +928,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni Klienta w Salonie Vistula - Magnolia Park",
@@ -2202,8 +937,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Test Engineer",
@@ -2212,8 +946,7 @@
       "salaryMin": 6000,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Inżynier / Młodsza Inżynierka ds. Materiałoznawstwa",
@@ -2222,8 +955,7 @@
       "salaryMin": 7167,
       "salaryMax": 14833,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Obsługi Klienta z j. hiszpańskim (Wsparcie Techniczne)",
@@ -2232,8 +964,7 @@
       "salaryMin": 6300,
       "salaryMax": 8700,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Analityk Finansowy / Młodsza Analityczka Finansowa",
@@ -2242,8 +973,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Płatne Praktyki w Obszarze Montażu Fabryka Kuchenek (k/m)",
@@ -2252,8 +982,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Fizjoterapeuta/Fizjoterapeutka | FITNESS ACADEMY| Sky Tower",
@@ -2262,8 +991,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sushi Master",
@@ -2272,8 +1000,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier Procesu Montażu (k/m) - praca wyjazdowa",
@@ -2282,8 +1009,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Doradca ds. obsługi zobowiązań (KMN)",
@@ -2292,8 +1018,7 @@
       "salaryMin": 4810,
       "salaryMax": 9810,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Konsultant Techniczny / Konsultantka Techniczna",
@@ -2302,8 +1027,7 @@
       "salaryMin": 5000,
       "salaryMax": 8460,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni Klienta",
@@ -2312,8 +1036,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Płatne Praktyki w HR (k/m)",
@@ -2322,8 +1045,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Programista Systemów Wbudowanych / Embedded (K/M)",
@@ -2332,8 +1054,7 @@
       "salaryMin": 9000,
       "salaryMax": 17000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Klienta (K/M/N) – ½ etatu",
@@ -2342,8 +1063,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Rejestrator medyczny / Rejestratorka medyczna",
@@ -2352,8 +1072,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista ds. rozliczeń handlowych (K/M/X)",
@@ -2362,8 +1081,16 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
+    },
+    {
+      "title": "Junior Data Engineer (Azure Data Factory)",
+      "company": "Addepto",
+      "url": "https://www.pracuj.pl/praca/junior-data-engineer-azure-data-factory-wroclaw-swidnicka-40,oferta,1004655187?s=3f40cc12&searchId=MTc3MjE2NTU4NjU5Ni41MDU0",
+      "salaryMin": 7000,
+      "salaryMax": 12600,
+      "salaryType": "monthly",
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. legalizacji zatrudnienia",
@@ -2372,8 +1099,7 @@
       "salaryMin": 7000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Operator / Operatorka Maszyn - Operator / Operatorka Produkcji",
@@ -2382,8 +1108,7 @@
       "salaryMin": 6400,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Jakości - Audytor (M/K)",
@@ -2392,8 +1117,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Personalnych (m/k)",
@@ -2402,8 +1126,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Customer support representative Polish/English and Spanish",
@@ -2412,8 +1135,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni Klienta",
@@ -2422,8 +1144,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Operator Oczyszczalni (m/k/d)",
@@ -2432,8 +1153,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Projektowania CAD (k / m)",
@@ -2442,8 +1162,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Customer Service Agent with German",
@@ -2452,8 +1171,7 @@
       "salaryMin": 6300,
       "salaryMax": 8700,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Group Controller - Financial Controller",
@@ -2462,8 +1180,7 @@
       "salaryMin": 5800,
       "salaryMax": 9500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Płatne praktyki | Transfer Pricing",
@@ -2472,8 +1189,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Konsultant / Młodsza Konsultantka | Transfer Pricing",
@@ -2482,8 +1198,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Starter Kit Upskilling Program (Java, with German)",
@@ -2492,8 +1207,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Intern - Java Developer with German",
@@ -2502,8 +1216,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni Klienta Biznesowego – Windykacja Należności B2B",
@@ -2512,8 +1225,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka w Dziale Administracji (1/2 etatu)",
@@ -2522,8 +1234,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka Biura",
@@ -2532,8 +1243,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Obsługi Klienta (KMN)",
@@ -2542,8 +1252,7 @@
       "salaryMin": 5390,
       "salaryMax": 19390,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka kas samoobsługowych",
@@ -2552,8 +1261,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Manual Test Engineer",
@@ -2562,8 +1270,7 @@
       "salaryMin": 6000,
       "salaryMax": 9000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/ka działu handlowego",
@@ -2572,8 +1279,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Osoba do obsługi kancelarii i sekretariatu w Wydziale Organizacyjno-Administracyjnym",
@@ -2582,8 +1288,7 @@
       "salaryMin": 4900,
       "salaryMax": 4900,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Kucharz / Kucharka",
@@ -2592,8 +1297,7 @@
       "salaryMin": 5700,
       "salaryMax": 6500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Prawnik / Prawniczka - Aplikant / Aplikantka (postępowanie spadkowe)",
@@ -2602,8 +1306,7 @@
       "salaryMin": 5000,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Programista Hurtowni Danych (k/m)",
@@ -2612,8 +1315,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta / Stażystka w Departamencie Controllingu",
@@ -2622,8 +1324,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Quality Assurance Engineer - Tester",
@@ -2632,8 +1333,7 @@
       "salaryMin": 5000,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/ka Sprzedaży Flotowej",
@@ -2642,8 +1342,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "3D CAD Designer with Turkish",
@@ -2652,8 +1351,7 @@
       "salaryMin": 6600,
       "salaryMax": 6600,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. obsługi studentów (k/m)",
@@ -2662,8 +1360,7 @@
       "salaryMin": 31,
       "salaryMax": 40,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Asystent / Młodsza Asystentka Diagnostyki Laboratoryjnej (Pracownia Analityki)",
@@ -2672,8 +1369,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Business Travel and Administration Specialist (m/f/d)",
@@ -2682,8 +1378,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Sportowy / Doradczyni Sportowa na dziale Rowery",
@@ -2692,8 +1387,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni Klienta",
@@ -2702,8 +1396,7 @@
       "salaryMin": 4806,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. marketingu",
@@ -2712,8 +1405,7 @@
       "salaryMin": 4900,
       "salaryMax": 5000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka projektanta instalacji elektrycznych",
@@ -2722,8 +1414,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Customer Advisor with English and German (m/k/os.)",
@@ -2732,8 +1423,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy/a specjalista/ka ds. kontraktów",
@@ -2742,8 +1432,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Klienta Biznesowego Orange",
@@ -2752,8 +1441,7 @@
       "salaryMin": 9000,
       "salaryMax": 18500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. administracji i obsługi klienta",
@@ -2762,8 +1450,7 @@
       "salaryMin": 6000,
       "salaryMax": 6600,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Konsultant - Sprzedawca CH Korona (m/k)",
@@ -2772,8 +1459,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Kierownik Projektów (K/M)",
@@ -2782,8 +1468,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Geodeta K/M",
@@ -2792,8 +1477,7 @@
       "salaryMin": 9000,
       "salaryMax": 15000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Help Desk Agent",
@@ -2802,8 +1486,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Aparatury Kontrolno-Pomiarowej (AKP) (K/M/X)",
@@ -2812,8 +1495,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Logopeda / Logopedka",
@@ -2822,8 +1504,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Praktykant / Praktykantka w kancelarii podatkowej",
@@ -2832,8 +1513,7 @@
       "salaryMin": 15,
       "salaryMax": 33,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Dietetyk Kliniczny / Dietetyk Sportowy",
@@ -2842,8 +1522,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Ubezpieczeniowy / Doradczyni Ubezpieczeniowa - Twój Start w Ubezpieczeniach!",
@@ -2852,8 +1531,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Dedykowany sprzedawca marki PHILIPS TV & Sound (k/m)",
@@ -2862,8 +1540,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy doradca / Młodsza doradczyni ds. zdalnej sprzedaży w segmencie select",
@@ -2872,8 +1549,7 @@
       "salaryMin": 6000,
       "salaryMax": 11600,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior AI Developer",
@@ -2882,8 +1558,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Financial Accountant (m/w/x)",
@@ -2892,8 +1567,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Nocny Audytor / Nocna Audytorka (k/m/n)",
@@ -2902,8 +1576,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka projektanta konstrukcji stalowych",
@@ -2912,8 +1585,7 @@
       "salaryMin": 6000,
       "salaryMax": 8500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka do spraw organizacji szkoleń",
@@ -2922,8 +1594,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Frontend Developer (k/m/x) - praktyki (bezpłatne)",
@@ -2932,8 +1603,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Data Annotator IT",
@@ -2942,8 +1612,7 @@
       "salaryMin": 4000,
       "salaryMax": 5500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Intern with German in Invoice to Pay",
@@ -2952,8 +1621,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent Doradcy Serwisowego (K/M)",
@@ -2962,8 +1630,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Trener/Trenerka | FITNESS ACADEMY | Bielany Wrocławskie",
@@ -2972,8 +1639,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Service Desk Agent with Greek and English",
@@ -2982,8 +1648,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "IT Support Specialist with French, English and Polish (f/m/x)",
@@ -2992,8 +1657,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodsza Specjalistka/Młodszy Specjalista ds. Windykacji Prawnej",
@@ -3002,8 +1666,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy/a / Konsultant/ka ds. Administracyjno-Kadrowych",
@@ -3012,8 +1675,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Klienta (k/m)",
@@ -3022,8 +1684,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent ds. sprzedaży [K / M]",
@@ -3032,8 +1693,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka projektanta instalacji elektrycznych",
@@ -3042,8 +1702,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pielegniarka Estetyczna",
@@ -3052,8 +1711,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystentka / Asystent Biura Zarządu",
@@ -3062,8 +1720,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Transport Manager",
@@ -3072,8 +1729,7 @@
       "salaryMin": 8700,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni klienta",
@@ -3082,8 +1738,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Business Consultant with German",
@@ -3092,8 +1747,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Business IT Consultant for Manufacturing",
@@ -3102,8 +1756,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. obsługi klienta B2B (k/m/n)",
@@ -3112,8 +1765,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior System Administrator",
@@ -3122,8 +1774,7 @@
       "salaryMin": 7000,
       "salaryMax": 12600,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Sourcing Specialist (m/f/x)",
@@ -3132,8 +1783,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Immigration Consultant",
@@ -3142,8 +1792,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista ds. IT (k/m)",
@@ -3152,8 +1801,7 @@
       "salaryMin": 4806,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Diagnosta Laboratoryjny lub Diagnostka Laboratoryjna",
@@ -3162,8 +1810,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent międzykulturowy",
@@ -3172,8 +1819,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Zaopatrzenia w Dziale Utrzymania Ruchu",
@@ -3182,8 +1828,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Business / Junior IT Consultant for Public Services",
@@ -3192,8 +1837,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodsza Specjalistka / Młodszy Specjalista ds. Turystyki",
@@ -3202,8 +1846,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Specjalistka z językiem włoskim K/M",
@@ -3212,8 +1855,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Business Assistant",
@@ -3222,8 +1864,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Business / Junior IT Consultant for Automotive",
@@ -3232,8 +1873,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Project Specialist",
@@ -3242,8 +1882,7 @@
       "salaryMin": 7000,
       "salaryMax": 13440,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent Biura Serwisu",
@@ -3252,8 +1891,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sprzedawca/Sprzedawczyni",
@@ -3262,8 +1900,7 @@
       "salaryMin": 32,
       "salaryMax": 32,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Finansowy / Doradczyni Finansowa",
@@ -3272,8 +1909,7 @@
       "salaryMin": 4000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Paid Social Specialist (Tik Tok)",
@@ -3282,8 +1918,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/Asystentka Radcy Prawnego/Adwokata",
@@ -3292,8 +1927,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. marketingu - Park Rozrywki GOkidz!",
@@ -3302,8 +1936,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pielęgniarka / Pielęgniarz",
@@ -3312,8 +1945,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sprzedawca / Sprzedawczyni – IUMAN – cały etat",
@@ -3322,8 +1954,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Laborant / Laborantka kontroli jakości",
@@ -3332,8 +1963,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior HR Specialist",
@@ -3342,8 +1972,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sprzedawca / Sprzedawczyni – CALZEDONIA – cały etat",
@@ -3352,8 +1981,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik biurowy / Pracowniczka biurowa w dziale handlowym",
@@ -3362,8 +1990,7 @@
       "salaryMin": 6000,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca klienta",
@@ -3372,8 +1999,7 @@
       "salaryMin": 500,
       "salaryMax": 30000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/Asystentka ds. Obsługi Pacjenta LUX MED Stomatologia",
@@ -3382,8 +2008,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Project Manager",
@@ -3392,8 +2017,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Audit OdyssEY Bootcamp",
@@ -3402,8 +2026,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Administracji Pionu Operacyjnego (K/M)",
@@ -3412,8 +2035,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. logistyki",
@@ -3422,8 +2044,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista/ka ds. systemów eAdministracji i wsparcia merytorycznego EZD",
@@ -3432,8 +2053,7 @@
       "salaryMin": 7000,
       "salaryMax": 9000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Associate Technical Service Scientist with German",
@@ -3442,8 +2062,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Associate Technical Service Scientist with French",
@@ -3452,8 +2071,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Customer Success Specialist",
@@ -3462,8 +2080,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sales Development Representative z j. angielskim i j. niemieckim",
@@ -3472,8 +2089,7 @@
       "salaryMin": 8000,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Administrator / Młodsza Administratorka Nieruchomości",
@@ -3482,8 +2098,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Operator stacji monitoringu wizyjnego",
@@ -3492,8 +2107,7 @@
       "salaryMin": 4805,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Elektromechanik urządzeń dźwignicowych",
@@ -3502,8 +2116,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Development Chemist (f/m/n)",
@@ -3512,8 +2125,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystentka / Asystent ds. Obsługi Pacjenta",
@@ -3522,8 +2134,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik biurowy (k/m)",
@@ -3532,8 +2143,7 @@
       "salaryMin": 5000,
       "salaryMax": 15000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. kadrowo-płacowych",
@@ -3542,8 +2152,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka do spraw administracyjno–prawnych",
@@ -3552,8 +2161,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka ds. sprzedaży - Czekoladowa",
@@ -3562,8 +2170,7 @@
       "salaryMin": 5000,
       "salaryMax": 5600,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. windykacji B2B",
@@ -3572,8 +2179,7 @@
       "salaryMin": 5400,
       "salaryMax": 7500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Przetargów",
@@ -3582,8 +2188,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Technik Utrzymania Ruchu (k/m/x)",
@@ -3592,8 +2197,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Spedytor międzynarodowy / Spedytorka międzynarodowa",
@@ -3602,8 +2206,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka w kancelarii prawnej",
@@ -3612,8 +2215,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier Kontroli Robotów - Super High-Tech industrial Robot",
@@ -3622,8 +2224,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka biura budowy",
@@ -3632,8 +2233,7 @@
       "salaryMin": 5000,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "IT Project Manager",
@@ -3642,8 +2242,7 @@
       "salaryMin": 6000,
       "salaryMax": 9500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Logistyki / Młodsza Specjalistka ds. Logistyki",
@@ -3652,8 +2251,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Handlowiec / Handlowczyni – Doradca / Doradczyni klienta",
@@ -3662,8 +2260,7 @@
       "salaryMin": 5000,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Wsparcia Sprzedaży",
@@ -3672,8 +2269,7 @@
       "salaryMin": 6000,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista ds. kontroli jakości i reklamacji w departamencie windykacji (KMN)",
@@ -3682,8 +2278,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Konsultant ds. telefonicznej obsługi klienta (Telemarketing)",
@@ -3692,8 +2287,7 @@
       "salaryMin": 5000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "EYe on Tax - XXI edycja konkursu dla studentów",
@@ -3702,8 +2296,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Rejestracji (k/m)",
@@ -3712,8 +2305,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystenkt/-ka kierownictwa (k/m)",
@@ -3722,8 +2314,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Java Developer with German",
@@ -3732,8 +2323,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior HR Specialist with German",
@@ -3742,8 +2332,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pielęgniarka / Pielęgniarz",
@@ -3752,8 +2341,7 @@
       "salaryMin": 8000,
       "salaryMax": 9000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka projektanta konstrukcji budowlanych",
@@ -3762,8 +2350,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. HR z językiem niemieckim (k/m)",
@@ -3772,8 +2359,7 @@
       "salaryMin": 5000,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy/a Specjalista/ka ds. HR z j. angielskim",
@@ -3782,8 +2368,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Klienta (K/M/N)",
@@ -3792,8 +2377,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Inżynier ds. Techniczno - Handlowych (k/m) (klimatyzacja, chłodnictwo)",
@@ -3802,8 +2386,7 @@
       "salaryMin": 7000,
       "salaryMax": 9500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Analityk / Analityczka Hurtowni Danych",
@@ -3812,8 +2395,7 @@
       "salaryMin": 11000,
       "salaryMax": 16800,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Referent ds. Obsługi Klienta",
@@ -3822,8 +2404,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pielęgniarz / Pielęgniarka - (Fabryczna)",
@@ -3832,8 +2413,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta / Stażystka do działu planowania produkcji (K/M/X)",
@@ -3842,8 +2422,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "IT Project Manager",
@@ -3852,8 +2431,7 @@
       "salaryMin": 8000,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent w Dziale Audytu (k/m)",
@@ -3862,8 +2440,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Obsługa klienta z językiem angielskim (k/m) - bez doświadczenia",
@@ -3872,8 +2449,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Rekruter / Rekruterka z j. angielskim",
@@ -3882,8 +2458,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Osoba na stanowisko Analityka Danych (junior, mid-level)",
@@ -3892,8 +2467,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka ds. księgowości",
@@ -3902,8 +2476,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta / Stażystka w dziale Zarządzania Produkcją",
@@ -3912,8 +2485,7 @@
       "salaryMin": 6100,
       "salaryMax": 6680,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Przedstawiciel Handlowy (k/m)",
@@ -3922,8 +2494,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Sprzedaży Produktów Bankowych",
@@ -3932,8 +2503,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Opiekun / Opiekunka Klienta w Galerii Handlowej",
@@ -3942,8 +2512,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "First Line Support Analyst with Dutch",
@@ -3952,8 +2521,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Doradca / Młodsza Doradczyni Klienta Zadłużonego",
@@ -3962,8 +2530,7 @@
       "salaryMin": 4850,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier/Inżynierka - Majster/Majsterka budowy",
@@ -3972,8 +2539,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista/ Młodsza specjalistka ds. obsługi klienta",
@@ -3982,8 +2548,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradczyni / Doradca Klientów Detalicznych (z obsługą kasową)",
@@ -3992,8 +2557,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Trener / Trenerka Programowania dla dzieci i młodzieży",
@@ -4002,8 +2566,7 @@
       "salaryMin": 53,
       "salaryMax": 80,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Lektor/ka języka angielskiego/hiszpańskiego/niemieckiego - praca dodatkowa",
@@ -4012,8 +2575,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy(a) Specjalista(ka) ds. wsparcia sprzedaży i analiz",
@@ -4022,8 +2584,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Rejestrator Medyczny/Rejestratorka Medyczna",
@@ -4032,8 +2593,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Sales Assistant KAZAR",
@@ -4042,8 +2602,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Osoba ds. spedycji i obsługi klienta międzynarodowego",
@@ -4052,8 +2611,7 @@
       "salaryMin": 5000,
       "salaryMax": 5500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Analityk z językiem niemieckim (f/m/x)",
@@ -4062,8 +2620,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/ka ds. Księgowości",
@@ -4072,8 +2629,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka w Dziale Koordynacji Promocji",
@@ -4082,8 +2638,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik / Pracowniczka sekretariatu",
@@ -4092,8 +2647,7 @@
       "salaryMin": 5500,
       "salaryMax": 6300,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier/ka Budowy - Robót: Elektrycznych / Sanitarnych",
@@ -4102,8 +2656,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Analiz (K/M/X)",
@@ -4112,8 +2665,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. likwidacji szkód",
@@ -4122,8 +2674,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Księgowa / Księgowy",
@@ -4132,8 +2683,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Associate – prawo gospodarcze i energetyczne",
@@ -4142,8 +2692,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Praktykant / Praktykantka w dziale księgowości",
@@ -4152,8 +2701,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Kierownik sklepu/Sprzedawca k/m",
@@ -4162,8 +2710,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. rekrutacji z językami",
@@ -4172,8 +2719,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Recepcjonista/tka",
@@ -4182,8 +2728,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Warsztaty rekrutacyjne: Młodszy Programista/Młodsza Programistka C# i Flutter Web",
@@ -4192,8 +2737,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Agent / Agentka ds. nieruchomości",
@@ -4202,8 +2746,7 @@
       "salaryMin": 6000,
       "salaryMax": 30000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca ds. techniczno - handlowych (k/m/n)",
@@ -4212,8 +2755,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. Administracji",
@@ -4222,8 +2764,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Recepcjonista / Recepcjonistka",
@@ -4232,8 +2773,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Program Manager Intern",
@@ -4242,8 +2782,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka Działu Sprzedaży",
@@ -4252,8 +2791,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Business Analyst with German",
@@ -4262,8 +2800,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Digital Customer Service Specialist with Spanish/Italian/Portuguese (m/f/x)",
@@ -4272,8 +2809,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista/tka ds. Zapewnienia Jakości (Branża spożywcza)",
@@ -4282,8 +2818,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Obsługi Klienta - mKiosk mBanku",
@@ -4292,8 +2827,7 @@
       "salaryMin": 5750,
       "salaryMax": 10150,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Położny/Położna",
@@ -4302,8 +2836,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pielęgniarz/Pielęgniarka",
@@ -4312,8 +2845,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Digital Customer Service Specialist with German (m/f/x)",
@@ -4322,8 +2854,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca Klienta / Doradczyni Klienta w banku",
@@ -4332,8 +2863,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Technik utrzymania ruchu (m/k)",
@@ -4342,8 +2872,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Live Chat Support Specialist (Part-Time)",
@@ -4352,8 +2881,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Projektant - Architekt - Specjalista - Branża architektoniczna - osoba do projektowania (k/m)",
@@ -4362,8 +2890,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni klienta ds. sprzedaży",
@@ -4372,8 +2899,7 @@
       "salaryMin": 6000,
       "salaryMax": 9000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Wsparcia Klienta z Językiem Niemieckim i Angielskim (K/M)",
@@ -4382,8 +2908,7 @@
       "salaryMin": 7000,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Business Analyst",
@@ -4392,8 +2917,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Administration Specialist with Foreign Language (K/M)",
@@ -4402,8 +2926,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Customer Service with Foreign Language (K/M)",
@@ -4412,8 +2935,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Administrator/Administratorka Wspólnot Mieszkaniowych",
@@ -4422,8 +2944,7 @@
       "salaryMin": 5500,
       "salaryMax": 7500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Intern Frontend Developer with German",
@@ -4432,8 +2953,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Intern Manual Tester with German",
@@ -4442,8 +2962,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Intern Automation Tester with German",
@@ -4452,8 +2971,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Intern DevOps Engineer with German",
@@ -4462,8 +2980,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior .NET Developer",
@@ -4472,8 +2989,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Customer Support Specialist with Spanish and English",
@@ -4482,8 +2998,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Systemów i Rozliczeń Prowizji",
@@ -4492,8 +3007,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodsza specjalistka / młodszy specjalista ds. kadr",
@@ -4502,8 +3016,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Doradca Serwisowy ds. Klientów Flotowych (K/M)",
@@ -4512,8 +3025,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Accounting Assistant",
@@ -4522,8 +3034,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Analityk IT/ Młodsza Analityczka IT",
@@ -4532,8 +3043,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. obsługi klienta z językiem niemieckim (jun/mid/sen)",
@@ -4542,8 +3052,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Doradca Klienta Biznesowego",
@@ -4552,8 +3061,7 @@
       "salaryMin": 5000,
       "salaryMax": 11000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista Sprzedaży (k/m)",
@@ -4562,8 +3070,7 @@
       "salaryMin": 5000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/ka ds. Zakupów",
@@ -4572,8 +3079,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Higienista / Higienistka stomatologiczna - Asystent / Asystentka",
@@ -4582,8 +3088,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka stomatologiczna",
@@ -4592,8 +3097,7 @@
       "salaryMin": 3000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Serwisu Oprogramowania (m/k/os.)",
@@ -4602,8 +3106,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. zakupu gruntów",
@@ -4612,8 +3115,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni klienta - Telemarketer / Telemarketerka",
@@ -4622,8 +3124,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Osoba do pomocy magazynowo - biurowej",
@@ -4632,8 +3133,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Relacji z Klientem",
@@ -4642,8 +3142,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "BIM HVAC Engineer (k/m/n) z j. niemieckim",
@@ -4652,8 +3151,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent projektanta instalacji elektrycznych (k/m/x)",
@@ -4662,8 +3160,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inventory Accountant",
@@ -4672,8 +3169,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sprzedawca - Brafitterka w salonie z bielizną",
@@ -4682,8 +3178,7 @@
       "salaryMin": 5400,
       "salaryMax": 6300,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka Działu Handlowego",
@@ -4692,8 +3187,7 @@
       "salaryMin": 5000,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Nauczyciel / Nauczycielka wychowania przedszkolnego / edukacji wczesnoszkolnej",
@@ -4702,8 +3196,7 @@
       "salaryMin": 6500,
       "salaryMax": 9500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik Sekretariatu / Pracownica Sekretariatu",
@@ -4712,8 +3205,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Office Administration Assistant",
@@ -4722,8 +3214,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier budowy (k/m)",
@@ -4732,8 +3223,7 @@
       "salaryMin": 6850,
       "salaryMax": 11000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Dokumentacji Jakościowej (K/M/X)",
@@ -4742,8 +3232,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Associate - zespół prawa ochrony danych osobowych (RODO)",
@@ -4752,8 +3241,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier Elektronik / Mechatronik / Automatyk – staż płatny w Dziale Marketingu (M/K)",
@@ -4762,8 +3250,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Walidacji (K/M/X)",
@@ -4772,8 +3259,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy/-a Specjalista/-ka ds. danych",
@@ -4782,8 +3268,7 @@
       "salaryMin": 5500,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "VAT Analyst",
@@ -4792,8 +3277,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "(Junior) Purchasing admin with English (k/m/n)",
@@ -4802,8 +3286,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Recepcjonista / Recepcjonistka",
@@ -4812,8 +3295,7 @@
       "salaryMin": 5000,
       "salaryMax": 5600,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta - Asystent dział nieruchomości",
@@ -4822,8 +3304,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Doradca / Doradczyni klienta biznesowego",
@@ -4832,8 +3313,7 @@
       "salaryMin": 4500,
       "salaryMax": 30000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Farmacji (K/M/X)",
@@ -4842,8 +3322,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik / Pracownica baru / restauracji",
@@ -4852,8 +3331,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent Dydaktyczny (K/M)",
@@ -4862,8 +3340,7 @@
       "salaryMin": 4806,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta / Stażystka w dziale księgowości",
@@ -4872,8 +3349,7 @@
       "salaryMin": 5300,
       "salaryMax": 5880,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Samodzielny referent / samodzielna referentka ds. nieruchomości",
@@ -4882,8 +3358,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik biurowy - back office",
@@ -4892,8 +3367,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka projektanta - branża drogowa",
@@ -4902,8 +3376,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. sprzedaży e-commerce z językiem niemieckim (k/m)",
@@ -4912,8 +3385,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Opiekun Klienta",
@@ -4922,8 +3394,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Księgowa / Księgowy",
@@ -4932,8 +3403,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Architekt - Asystent Architekta (m/k)",
@@ -4942,8 +3412,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior B2B Sales Specialist",
@@ -4952,8 +3421,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka Działu Sprzedaży",
@@ -4962,8 +3430,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy doradca / Młodsza doradczyni ds. zdalnej relacji klienta select",
@@ -4972,8 +3439,7 @@
       "salaryMin": 6000,
       "salaryMax": 11600,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/ka w Dziale Zarządzania Należnościami",
@@ -4982,8 +3448,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior AP Accountant",
@@ -4992,8 +3457,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Administrator / Młodsza Administratorka IT",
@@ -5002,8 +3466,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka projektanta konstrukcji budowlanych",
@@ -5012,8 +3475,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Technicznych",
@@ -5022,8 +3484,7 @@
       "salaryMin": 6000,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Legal & Privacy Specialist",
@@ -5032,8 +3493,7 @@
       "salaryMin": 6500,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. Windykacji",
@@ -5042,8 +3502,7 @@
       "salaryMin": 5800,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka projektanta - branża mostowa",
@@ -5052,8 +3511,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. sprzedaży telefonicznej",
@@ -5062,8 +3520,7 @@
       "salaryMin": 5254,
       "salaryMax": 15000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Recepcjonista / Recepcjonistka",
@@ -5072,8 +3529,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Aplikant radcowski / Aplikantka radcowska",
@@ -5082,8 +3538,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka działu nieruchomości",
@@ -5092,8 +3547,7 @@
       "salaryMin": 32,
       "salaryMax": 32,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier budowy - Majster budowy",
@@ -5102,8 +3556,7 @@
       "salaryMin": 6000,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Osoba Wykonująca Naprawy Blacharskie (ASO VW, Skoda, Seat, Cupra)",
@@ -5112,8 +3565,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Administracji",
@@ -5122,8 +3574,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta / Stażystka w dziale mechatroniki",
@@ -5132,8 +3583,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta / Stażystka w dziale Logistyki",
@@ -5142,8 +3592,7 @@
       "salaryMin": 6100,
       "salaryMax": 6680,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka stomatologiczna",
@@ -5152,8 +3601,7 @@
       "salaryMin": 31,
       "salaryMax": 40,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Operator CNC - tokarki, frezarki",
@@ -5162,8 +3610,7 @@
       "salaryMin": 6500,
       "salaryMax": 7500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sprzedawca / Sprzedawczyni - Doradca klienta / Doradczyni klienta - sklep stacjonarny i internetowy",
@@ -5172,8 +3619,7 @@
       "salaryMin": 6000,
       "salaryMax": 8000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Tax Consultant w zespole PIT",
@@ -5182,8 +3628,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier Budowy (K/M)",
@@ -5192,8 +3637,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior Fullstack developer",
@@ -5202,8 +3646,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier Budowy ds. Jakości Wykończenia Inwestycji (K/M)",
@@ -5212,8 +3655,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Regulacji (K/M/X)",
@@ -5222,8 +3664,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy(-a) specjalista(-tka) ds. konsolidacji ryzyka",
@@ -5232,8 +3673,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Konsultant biura obsługi klienta - Call Center",
@@ -5242,8 +3682,7 @@
       "salaryMin": 5700,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Handlowiec / Handlowczyni IT",
@@ -5252,8 +3691,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Aplikant adwokacki / Aplikantka adwokacka",
@@ -5262,8 +3700,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Agent Obsługi Naziemnej (docelowo: Koordynator Obsługi Naziemnej) (K/M)",
@@ -5272,8 +3709,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy/a specjalista/ka ds. Legal Design",
@@ -5282,8 +3718,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy/a Księgowy/a",
@@ -5292,8 +3727,7 @@
       "salaryMin": 5000,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier budowy branży elektrycznej - automatyka / Inżynierka budowy branży elektrycznej - automatyka",
@@ -5302,8 +3736,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka członka zarządu",
@@ -5312,8 +3745,7 @@
       "salaryMin": 6850,
       "salaryMax": 9784,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. HR z językiem angielskim (k/m)",
@@ -5322,8 +3754,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Finansów / Internship in the Finance Department",
@@ -5332,8 +3763,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista (M/K) ds. serwisu pogwarancyjnego",
@@ -5342,8 +3772,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodsza/y Specjalistka lub Specjalista ds. Kadr i Płac",
@@ -5352,8 +3781,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Grafik / Graficzka komputerowy",
@@ -5362,8 +3790,7 @@
       "salaryMin": 7000,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Wsparcia Sprzedaży (Dział Finansowania Dostawców)",
@@ -5372,8 +3799,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Associate - Fund Administration Representative I",
@@ -5382,8 +3808,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Dziale Podatkowym",
@@ -5392,8 +3817,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Świadczeń i Relacji Pracowniczych",
@@ -5402,8 +3826,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Prawnym",
@@ -5412,8 +3835,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Obsługi Klienta",
@@ -5422,8 +3844,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Informatyki (Sekcja Analizy i Weryfikacji Biznesowej)",
@@ -5432,8 +3853,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Cyfryzacji Procesów Biznesowych",
@@ -5442,8 +3862,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Sprzedaży",
@@ -5452,8 +3871,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta/Stażystka w Departamencie Operacyjnym (likwidacja szkód)",
@@ -5462,8 +3880,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Księgowy / Księgowa w biurze rachunkowym",
@@ -5472,8 +3889,7 @@
       "salaryMin": 3000,
       "salaryMax": 5544,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Executive Assistant",
@@ -5482,8 +3898,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik Usług Bankowych",
@@ -5492,8 +3907,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Szkoleń i Rozwoju (K/M)",
@@ -5502,8 +3916,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik biurowy (k/m)",
@@ -5512,8 +3925,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik administracyjno-biurowy (M/F/D)",
@@ -5522,8 +3934,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/Asystentka Biura Zarządu",
@@ -5532,8 +3943,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior GPS Surveillance Operator",
@@ -5542,8 +3952,7 @@
       "salaryMin": 4806,
       "salaryMax": 5000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. rozwoju",
@@ -5552,8 +3961,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Staż w dziale Technologii Produkcji",
@@ -5562,8 +3970,7 @@
       "salaryMin": 6100,
       "salaryMax": 6680,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Obsługi Klienta z językiem niemieckim (k/m)",
@@ -5572,8 +3979,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Obsługi Klienta z językiem hiszpańskim (k/m)",
@@ -5582,8 +3988,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Obsługi Klienta z językiem włoskim (k/m)",
@@ -5592,8 +3997,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Obsługi Klienta z językiem francuskim (k/m)",
@@ -5602,8 +4006,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Obsługi Klienta z językiem holenderskim (k/m)",
@@ -5612,8 +4015,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista/ka Helpdesk",
@@ -5622,8 +4024,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Controllingu",
@@ -5632,8 +4033,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta w dziale Planowania Produkcji (K/M)",
@@ -5642,8 +4042,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka Wsparcia Sprzedaży – Internity Home Wrocław",
@@ -5652,8 +4051,7 @@
       "salaryMin": 4850,
       "salaryMax": 5350,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka architekta - projektanta",
@@ -5662,8 +4060,7 @@
       "salaryMin": 6000,
       "salaryMax": 7500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta w dziale Inżynieryjnym (K/M)",
@@ -5672,8 +4069,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Płatne Praktyki w Inżynierii Wytwarzania - Fabryka Lodówek (k/m)",
@@ -5682,8 +4078,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka ds. przetargów",
@@ -5692,8 +4087,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Stażysta / Stażystka w dziale księgowości",
@@ -5702,8 +4096,7 @@
       "salaryMin": 31,
       "salaryMax": 40,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Dyspozytor międzynarodowy / Spedytor K/M",
@@ -5712,8 +4105,7 @@
       "salaryMin": 10000,
       "salaryMax": 20000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka w Dziale Zarządzania Kategoriami Produktów",
@@ -5722,8 +4114,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Prawnik / Prawniczka - Aplikant / Aplikantka (dział prawa e-commerce, IT i RODO)",
@@ -5732,8 +4123,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Ksiegowy / Księgowa",
@@ -5742,8 +4132,7 @@
       "salaryMin": 5000,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Inżynier Wsparcia Sprzedaży (k/m)",
@@ -5752,8 +4141,7 @@
       "salaryMin": 7000,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Staż w Dziale Planowania Produkcji",
@@ -5762,8 +4150,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodsza Specjalistka / Młodszy Specjalista ds. Kadr",
@@ -5772,8 +4159,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy/a Specjalista/ka ds. dotacji i wniosków",
@@ -5782,8 +4168,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Technik Procesu (k/m)",
@@ -5792,8 +4177,7 @@
       "salaryMin": 8000,
       "salaryMax": 10000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Konstrukcji Stalowych (K/M)",
@@ -5802,8 +4186,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Księgowa / Księgowy ds. wspólnot mieszkaniowych",
@@ -5812,8 +4195,7 @@
       "salaryMin": 6500,
       "salaryMax": 11000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista ds. Księgowości (K/M)",
@@ -5822,8 +4204,7 @@
       "salaryMin": 4900,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. Reklamacji",
@@ -5832,8 +4213,7 @@
       "salaryMin": 6000,
       "salaryMax": 6000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. płac",
@@ -5842,8 +4222,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. archiwizacji umów",
@@ -5852,8 +4231,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "asystent / asystentka zespołu underwriterów ubezpieczeń korporacyjnych",
@@ -5862,8 +4240,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent Projektanta Konstrukcji (k/m)",
@@ -5872,8 +4249,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Referent / Referentka",
@@ -5882,8 +4258,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Rekruter/ka z językiem (holenderskim/francuskim)+angielskim",
@@ -5892,8 +4267,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Telefoniczny doradca / Telefoniczna doradczyni klienta",
@@ -5902,8 +4276,7 @@
       "salaryMin": 5000,
       "salaryMax": 15000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Rekruter / Rekruterka (niemiecki/hiszpański/włoski) + angielski",
@@ -5912,8 +4285,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy Specjalista / Młodsza Specjalistka HR (niemiecki/hiszpański/holenderski) + angielski",
@@ -5922,8 +4294,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Recepcjonista / Recepcjonistka",
@@ -5932,8 +4303,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka księgowej",
@@ -5942,8 +4312,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Referent / Referentka ds. Zamówień Publicznych - dezynfekcja",
@@ -5952,8 +4321,7 @@
       "salaryMin": 5000,
       "salaryMax": 5000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent/ka ds. administracji i organizacji",
@@ -5962,8 +4330,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior IT Support",
@@ -5972,8 +4339,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Junior AI Software Developer with Python",
@@ -5982,8 +4348,7 @@
       "salaryMin": 8000,
       "salaryMax": 13000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka Projektanta Branży Kolejowej",
@@ -5992,8 +4357,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Pracownik / Pracowniczka działu serwisu - wsparcie techniczne",
@@ -6002,8 +4366,7 @@
       "salaryMin": 32,
       "salaryMax": 35,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Osoba do pracy w biurze",
@@ -6012,8 +4375,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": "hourly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent Prawny",
@@ -6022,8 +4384,7 @@
       "salaryMin": 4806,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Aplikacja Kuratorska (k/m)",
@@ -6032,8 +4393,7 @@
       "salaryMin": 5174,
       "salaryMax": 5174,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent Sędziego (K/M)",
@@ -6042,8 +4402,7 @@
       "salaryMin": 6480,
       "salaryMax": 6480,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. marketingu i Social Media",
@@ -6052,8 +4411,7 @@
       "salaryMin": 5000,
       "salaryMax": 6500,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka projektanta konstrukcji",
@@ -6062,8 +4420,7 @@
       "salaryMin": 5000,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Aplikant adwokacki / Aplikantka adwokacka",
@@ -6072,8 +4429,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy księgowy / Młodsza księgowa",
@@ -6082,8 +4438,7 @@
       "salaryMin": 5500,
       "salaryMax": 7000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sekretarz / Sekretarka - asystent notariusza",
@@ -6092,8 +4447,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Inżynier / Inżynierka budowy w branży kubaturowej",
@@ -6102,8 +4456,7 @@
       "salaryMin": 7000,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista / Specjalistka ds. ofertowania instalacji sanitarnych",
@@ -6112,8 +4465,7 @@
       "salaryMin": 7000,
       "salaryMax": 12000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Sekretarka / Sekretarz Biura Zarządu",
@@ -6122,8 +4474,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy specjalista / Młodsza specjalistka ds. automatyki",
@@ -6132,8 +4483,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Radca Prawny - Adwokat - Aplikant w Zespole Procesowym",
@@ -6142,8 +4492,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Praktykant / Praktykantka w Kancelarii Prawnej",
@@ -6152,8 +4501,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Asystent / Asystentka zarządu",
@@ -6162,8 +4510,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Młodszy/a Laborant/ka ds. Badań i Rozwoju",
@@ -6172,8 +4519,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     },
     {
       "title": "Specjalista ds. obsługi użytkownika – projekt technologiczny",
@@ -6182,8 +4528,7 @@
       "salaryMin": 5000,
       "salaryMax": 9000,
       "salaryType": "monthly",
-      "source": "pracuj.pl",
-      "logoUrl": null
+      "source": "pracuj.pl"
     }
   ]
 }

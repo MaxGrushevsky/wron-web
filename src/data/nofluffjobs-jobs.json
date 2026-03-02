@@ -1,10 +1,54 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-03-01T04:27:05.677Z",
+  "lastUpdated": "2026-03-02T04:18:22.004Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Developer Java - wolontarat, projekt open source, przeciwdziałaj depresji dzieci i młodzieży NOWA",
+      "title": "Junior Strong Data Engineer (Databricks) NOWA",
+      "company": "N-iX",
+      "salary": "8 951 – 12 531 PLN",
+      "salaryMin": 8951,
+      "salaryMax": 12531,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-strong-data-engineer-databricks-n-ix-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Backend Developer (Node.js) NOWA",
+      "company": "MasterBorn",
+      "salary": "6 000 – 10 000 PLN",
+      "salaryMin": 6000,
+      "salaryMax": 10000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-backend-developer-node-js-masterborn-wroclaw-10",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "🌿 Fundacja Organic poszukuje: Wolontariusz/Wolontariuszka wsparcie działu HR NOWA",
+      "company": "Fundacja Organic",
+      "salary": "bezpłatny staż",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/fundacja-organic-poszukuje-wolontariusz-wolontariuszka-wsparcie-dzialu-hr-fundacja-organic-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "🌿 Fundacja Organic poszukuje: Wolontariusza/Wolontariuszki specjalista / specjalistka ds. PR NOWA",
+      "company": "Fundacja Organic",
+      "salary": "bezpłatny staż",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/fundacja-organic-poszukuje-wolontariusza-wolontariuszki-specjalista-specjalistka-ds-pr-fundacja-organic-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Developer Java - wolontarat, projekt open source, przeciwdziałaj depresji dzieci i młodzieży",
       "company": "NeuroN Foundation",
       "salary": "bezpłatny staż",
       "salaryMin": null,
@@ -15,7 +59,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Support IT (part-time) NOWA",
+      "title": "Support IT (part-time)",
       "company": "Link Group",
       "salary": "8 400 – 13 440 PLN",
       "salaryMin": 8400,
@@ -37,14 +81,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Strong Data Engineer (Databricks)",
-      "company": "N-iX",
-      "salary": "8 951 – 12 531 PLN",
-      "salaryMin": 8951,
-      "salaryMax": 12531,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-strong-data-engineer-databricks-n-ix-wroclaw",
+      "title": "OTC Process & Change Management Junior Consultant NOWA",
+      "company": "Capgemini Invent",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/otc-process-change-management-junior-consultant-capgemini-invent-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -59,28 +103,6 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "🌿 Fundacja Organic poszukuje: Wolontariusz/Wolontariuszka wsparcie działu HR",
-      "company": "Fundacja Organic",
-      "salary": "bezpłatny staż",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/fundacja-organic-poszukuje-wolontariusz-wolontariuszka-wsparcie-dzialu-hr-fundacja-organic-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "🌿 Fundacja Organic poszukuje: Wolontariusza/Wolontariuszki specjalista / specjalistka ds. PR",
-      "company": "Fundacja Organic",
-      "salary": "bezpłatny staż",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/fundacja-organic-poszukuje-wolontariusza-wolontariuszki-specjalista-specjalistka-ds-pr-fundacja-organic-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Industry Senior Consultant NOWA",
       "company": "Deloitte",
       "salary": "Sprawdź wynagrodzenie",
@@ -92,47 +114,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "DevOps Engineer / Pega Customer Decision Hub",
-      "company": "Connectis_",
-      "salary": "16 800 – 20 160 PLN",
-      "salaryMin": 16800,
-      "salaryMax": 20160,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/devops-engineer-pega-customer-decision-hub-connectis--wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern SAP with German NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-sap-with-german-capgemini-polska-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Talent Acquisition Support Specialist (Civil Contract) NOWA",
+      "title": "Intern Automation Tester with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/talent-acquisition-support-specialist-civil-contract-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Specjalista/Specjalistka ds. wsparcia IT z językiem niemieckim NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-specjalistka-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
@@ -143,62 +132,18 @@
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Obsługa klienta z językiem niemieckim NOWA",
-      "company": "Capgemini",
+      "title": "Chat Support Specialist with English NOWA",
+      "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern Automation Tester with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "IT Support Agent with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Java Starter Kit with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Java Starter Kit NOWA",
-      "company": "Capgemini Polska Sp. z o.o.",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-starter-kit-capgemini-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/chat-support-specialist-with-english-antal-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -213,14 +158,69 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Customer Support Specialist with English NOWA",
+      "title": "Administration Specialist with Foreign Language (K/M) NOWA",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/customer-support-specialist-with-english-antal-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/administration-specialist-with-foreign-language-k-m-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Specjalista ds. Wsparcia Klienta z Językiem Niemieckim i Angielskim (K/M) NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-klienta-z-jezykiem-niemieckim-i-angielskim-k-m-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Help Desk Specialist NOWA",
+      "company": "Connectis_",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/help-desk-specialist-connectis--wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Supply Chain Planning Manager NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-supply-chain-planning-manager-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Customer Service Agent with Italian or just English part-time NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/customer-service-agent-with-italian-or-just-english-part-time-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Part-Time | Chat Support Specialist with Italian NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/part-time-chat-support-specialist-with-italian-antal-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

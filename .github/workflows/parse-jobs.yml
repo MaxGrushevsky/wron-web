@@ -3,7 +3,7 @@ name: Parse Jobs Daily
 on:
   schedule:
     # Запускаем каждый день в 2:00 UTC (4:00 по польскому времени)
-    - cron: '0 2 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch: # Позволяет запускать вручную
 
 permissions:

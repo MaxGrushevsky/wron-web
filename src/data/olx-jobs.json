@@ -1,19 +1,8 @@
 {
   "source": "olx",
-  "lastUpdated": "2026-03-12T02:36:13.249Z",
-  "count": 76,
+  "lastUpdated": "2026-03-13T02:33:58.251Z",
+  "count": 80,
   "jobs": [
-    {
-      "title": "Kierowca Taxi Uber Bolt Wrocław – Najlepsze Warunki, Nowe Samochody!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-najlepsze-warunki-nowe-samochody-CID4-IDZFgws.html?search_reason=search%7Cpromoted",
-      "source": "olx"
-    },
     {
       "title": "Technik, Instalator, Monter, Kierownik, Inżynier infrastruktury ISP",
       "company": "No company",
@@ -26,69 +15,25 @@
       "source": "olx"
     },
     {
-      "title": "Dla Studenta! Kierowca Uber Bolt - najlepsze warunki Elastyczny grafik",
+      "title": "Kierowca Taxi Uber Bolt Wrocław – Najlepsze Warunki, Nowe Samochody!",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/dla-studenta-kierowca-uber-bolt-najlepsze-warunki-elastyczny-grafik-CID4-ID17nxf0.html?search_reason=search%7Cpromoted",
+      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-najlepsze-warunki-nowe-samochody-CID4-IDZFgws.html?search_reason=search%7Cpromoted",
       "source": "olx"
     },
     {
-      "title": "Kelner , Barman Miami Grill & Lobster",
+      "title": "Praca Montaż Rusztowań",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kelner-barman-miami-grill-lobster-CID4-ID19DOLF.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Auto Klimatyzacja M&K zatrudni na stanowisko serwisanta",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/auto-klimatyzacja-m-k-zatrudni-na-stanowisko-serwisanta-CID4-ID19DJVM.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Pomoc na kuchnie , kucharz - zakwaterowanie",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/pomoc-na-kuchnie-kucharz-zakwaterowanie-CID4-ID19DiWy.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Najtańszy partner TAXI | Brak VAT 8% i 23% od bonusów | Wynajem aut",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/najtanszy-partner-taxi-brak-vat-8-i-23-od-bonusow-wynajem-aut-CID4-ID19hwuZ.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Opiekunka w żlobku",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/opiekunka-w-zlobku-CID4-ID15c3it.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/praca-montaz-rusztowan-CID4-IDXWzVN.html?search_reason=search%7Cpromoted",
       "source": "olx"
     },
     {
@@ -100,6 +45,39 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/staz-platny-asystent-asystentka-ds-administracji-i-finansow-m-k-CID4-ID19Eld6.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Asystentka/Asystent księgowości",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/asystentka-asystent-ksiegowosci-CID4-ID19EndK.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Instruktor/ka na szkoleniach zawodowych UDT",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/instruktor-ka-na-szkoleniach-zawodowych-udt-CID4-ID19ERhU.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Sprawdź czy biznes z Żabką jest dla Ciebie",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/sprawdz-czy-biznes-z-zabka-jest-dla-ciebie-CID4-ID19EmPY.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -125,17 +103,6 @@
       "source": "olx"
     },
     {
-      "title": "Stylista fryzur poszukiwany!!!",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/stylista-fryzur-poszukiwany-CID4-ID160cTt.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
       "title": "Dołącz do nas OD ZARAZ! Będzie fajnie - obiecujemy :)",
       "company": "No company",
       "salary": "No salary",
@@ -147,14 +114,14 @@
       "source": "olx"
     },
     {
-      "title": "Kierowca Taxi Uber Bolt Wrocław – Nocne zmiany, Extra Bonusy!",
+      "title": "Auto Klimatyzacja M&K zatrudni na stanowisko serwisanta",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-nocne-zmiany-extra-bonusy-CID4-ID19hdSi.html?search_reason=search%7Cpromoted",
+      "url": "https://www.olx.pl/oferta/praca/auto-klimatyzacja-m-k-zatrudni-na-stanowisko-serwisanta-CID4-ID19DJVM.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -169,14 +136,36 @@
       "source": "olx"
     },
     {
-      "title": "Asystentka/Asystent księgowości",
+      "title": "Praca dla fizjoterapeuty",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/asystentka-asystent-ksiegowosci-CID4-ID19EndK.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/praca-dla-fizjoterapeuty-CID4-IDPssUb.html?search_reason=search%7Cpromoted",
+      "source": "olx"
+    },
+    {
+      "title": "Kierowca Taxi Uber Bolt Wrocław – Nocne zmiany, Extra Bonusy!",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/kierowca-taxi-uber-bolt-wroclaw-nocne-zmiany-extra-bonusy-CID4-ID19hdSi.html?search_reason=search%7Cpromoted",
+      "source": "olx"
+    },
+    {
+      "title": "Dla Studenta! Kierowca Uber Bolt - najlepsze warunki Elastyczny grafik",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/dla-studenta-kierowca-uber-bolt-najlepsze-warunki-elastyczny-grafik-CID4-ID17nxf0.html?search_reason=search%7Cpromoted",
       "source": "olx"
     },
     {
@@ -191,6 +180,17 @@
       "source": "olx"
     },
     {
+      "title": "Koordynator Eventów (Marketing/Logistyka)",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/koordynator-eventow-marketing-logistyka-CID4-ID19zJ3W.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
       "title": "Pomoc Kuchenna poszukiwana do Kawiarni Czarna Magia",
       "company": "No company",
       "salary": "No salary",
@@ -202,14 +202,14 @@
       "source": "olx"
     },
     {
-      "title": "Koordynator Eventów (Marketing/Logistyka)",
+      "title": "Kelner , Barman Miami Grill & Lobster",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/koordynator-eventow-marketing-logistyka-CID4-ID19zJ3W.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/kelner-barman-miami-grill-lobster-CID4-ID19DOLF.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -235,6 +235,17 @@
       "source": "olx"
     },
     {
+      "title": "Praca sprzątanie Wrocław",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/praca-sprzatanie-wroclaw-CID4-ID18OXqF.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
       "title": "Kosmetolog - poszukujemy kosmetologa i studentki kosmetologii",
       "company": "No company",
       "salary": "No salary",
@@ -246,14 +257,25 @@
       "source": "olx"
     },
     {
-      "title": "Praca sprzątanie Wrocław",
+      "title": "Pomoc na kuchnie , kucharz - zakwaterowanie",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-sprzatanie-wroclaw-CID4-ID18OXqF.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/pomoc-na-kuchnie-kucharz-zakwaterowanie-CID4-ID19DiWy.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Дистанційна робота ,дроп-менеджер для Українців у Польщі. Підробіток",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/-CID4-ID180ID5.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -279,6 +301,17 @@
       "source": "olx"
     },
     {
+      "title": "Stylista fryzur poszukiwany!!!",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/stylista-fryzur-poszukiwany-CID4-ID160cTt.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
       "title": "Staż dla osób z niepełnosprawnościami (Wrocław i okolice)",
       "company": "No company",
       "salary": "No salary",
@@ -290,25 +323,25 @@
       "source": "olx"
     },
     {
-      "title": "Pomocnik / serwisant klimatyzacji",
+      "title": "PRACA NA KUCHNI - Kucharz - Taquero - RYNEK",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/pomocnik-serwisant-klimatyzacji-CID4-IDKk1hd.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/praca-na-kuchni-kucharz-taquero-rynek-CID4-ID10zPXH.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
-      "title": "Zatrudnię Pracownika Budowlanego (30-35 zł netto za godzinę)",
+      "title": "Opiekunka w żlobku",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zatrudnie-pracownika-budowlanego-30-35-zl-netto-za-godzine-CID4-ID17b9A0.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/opiekunka-w-zlobku-CID4-ID15c3it.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -323,14 +356,14 @@
       "source": "olx"
     },
     {
-      "title": "Korepetytor angielskiego lub matematyki - praca dla uczniów/studentów",
+      "title": "Zatrudnię Pracownika Budowlanego (30-35 zł netto za godzinę)",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/korepetytor-angielskiego-lub-matematyki-praca-dla-uczniow-studentow-CID4-ID19Atpk.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/zatrudnie-pracownika-budowlanego-30-35-zl-netto-za-godzine-CID4-ID17b9A0.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -345,36 +378,36 @@
       "source": "olx"
     },
     {
-      "title": "Praca dla masażystki/ fizjoterapeuty SPA – centrum Wrocławia",
+      "title": "Korepetytor angielskiego lub matematyki - praca dla uczniów/studentów",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-dla-masazystki-fizjoterapeuty-spa-centrum-wroclawia-CID4-ID174v1V.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/korepetytor-angielskiego-lub-matematyki-praca-dla-uczniow-studentow-CID4-ID19Atpk.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
-      "title": "Oferta pracy dla Barbera/Barberki",
+      "title": "Osoba do prac ogólnobudowlanych",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/oferta-pracy-dla-barbera-barberki-CID4-ID19KfDF.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/osoba-do-prac-ogolnobudowlanych-CID4-ID19IEB6.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
-      "title": "Дистанційна робота ,дроп-менеджер для Українців у Польщі. Підробіток",
+      "title": "Instruktor nauki jazdy kat. B - Wrocław",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/-CID4-ID180ID5.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/instruktor-nauki-jazdy-kat-b-wroclaw-CID4-ID19Kv0u.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -386,17 +419,6 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/praktykant-w-kancelarii-adwokackiej-CID4-ID13IXaU.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "zatrudnimy fryzjera Ch Korona, Ch Magnolia oraz pomoc fryzjerską",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zatrudnimy-fryzjera-ch-korona-ch-magnolia-oraz-pomoc-fryzjerska-CID4-ID18TohN.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -422,6 +444,50 @@
       "source": "olx"
     },
     {
+      "title": "Social Media Specialist - Intern (Staż)",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/social-media-specialist-intern-staz-CID4-ID19L41F.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "zatrudnimy fryzjera Ch Korona, Ch Magnolia oraz pomoc fryzjerską",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/zatrudnimy-fryzjera-ch-korona-ch-magnolia-oraz-pomoc-fryzjerska-CID4-ID18TohN.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Praca dla masażystki/ fizjoterapeuty SPA – centrum Wrocławia",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/praca-dla-masazystki-fizjoterapeuty-spa-centrum-wroclawia-CID4-ID174v1V.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Przyjmę do Pracy",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/przyjme-do-pracy-CID4-ID17LrjD.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
       "title": "Mechanik Rowerowy z doświadczeniem/ Menedżer - Mеханiк велосипедiв",
       "company": "No company",
       "salary": "No salary",
@@ -433,36 +499,14 @@
       "source": "olx"
     },
     {
-      "title": "Osoba do prac ogólnobudowlanych",
+      "title": "Praca dla Ogrodnika, pomocnika ogrodnika, Gardener job",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/osoba-do-prac-ogolnobudowlanych-CID4-ID19IEB6.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Pomoc na kuchnie - Zakwaterowanie",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/pomoc-na-kuchnie-zakwaterowanie-CID4-ID19yaLl.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Praca Montaż Rusztowań",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/praca-montaz-rusztowan-CID4-IDXWzVN.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/praca-dla-ogrodnika-pomocnika-ogrodnika-gardener-job-CID4-ID13uoY2.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -477,14 +521,14 @@
       "source": "olx"
     },
     {
-      "title": "Przyjmę do Pracy",
+      "title": "Pomoc na kuchnie - Zakwaterowanie",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/przyjme-do-pracy-CID4-ID17LrjD.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/pomoc-na-kuchnie-zakwaterowanie-CID4-ID19yaLl.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -521,14 +565,14 @@
       "source": "olx"
     },
     {
-      "title": "Muzyk - Wokalista- club muzyczny",
+      "title": "Stylistka paznokci elastyczny grafik również weekendy",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/muzyk-wokalista-club-muzyczny-CID4-ID19JGf1.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/stylistka-paznokci-elastyczny-grafik-rowniez-weekendy-CID4-IDQ8ih8.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -543,39 +587,6 @@
       "source": "olx"
     },
     {
-      "title": "Stylistka paznokci elastyczny grafik również weekendy",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/stylistka-paznokci-elastyczny-grafik-rowniez-weekendy-CID4-IDQ8ih8.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Księgowa w biurze rachunkowym",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/ksiegowa-w-biurze-rachunkowym-CID4-IDZdwSV.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Instruktor/ka na szkoleniach zawodowych UDT",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/instruktor-ka-na-szkoleniach-zawodowych-udt-CID4-ID19ERhU.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
       "title": "Pracownik myjni samochodowej",
       "company": "No company",
       "salary": "No salary",
@@ -587,14 +598,14 @@
       "source": "olx"
     },
     {
-      "title": "Pomocnik budowlany",
+      "title": "Oferta pracy dla Barbera/Barberki",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/pomocnik-budowlany-CID4-ID19JDYT.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/oferta-pracy-dla-barbera-barberki-CID4-ID19KfDF.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -617,17 +628,6 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/kierowca-kat-b-wlasny-grafik-taxi-partner-praca-od-zaraz-CID4-ID16I4p6.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
-      "title": "Technik DDD - praca , szkolenie, samochód służb. (woj.dolnośląskie)",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/technik-ddd-praca-szkolenie-samochod-sluzb-woj-dolnoslaskie-CID4-ID17SOdE.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -664,14 +664,25 @@
       "source": "olx"
     },
     {
-      "title": "KIEROWCA - Uber Bolt Freenow - Rozliczenie 1zł - NAJLEPSZE WARUNKI!",
+      "title": "Najtańszy partner TAXI | Brak VAT 8% i 23% od bonusów | Wynajem aut",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/kierowca-uber-bolt-freenow-rozliczenie-1zl-najlepsze-warunki-CID4-ID19oCSp.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/najtanszy-partner-taxi-brak-vat-8-i-23-od-bonusow-wynajem-aut-CID4-ID19hwuZ.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Muzyk - Wokalista- club muzyczny",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/muzyk-wokalista-club-muzyczny-CID4-ID19JGf1.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -730,6 +741,17 @@
       "source": "olx"
     },
     {
+      "title": "Pomocnik budowlany",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/pomocnik-budowlany-CID4-ID19JDYT.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
       "title": "Warsztat samochodowy zatrudni - mechanika samochodowego / pomocnika",
       "company": "No company",
       "salary": "No salary",
@@ -741,17 +763,6 @@
       "source": "olx"
     },
     {
-      "title": "Zatrudnię brygadzistę wod-kan",
-      "company": "No company",
-      "salary": "No salary",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/zatrudnie-brygadziste-wod-kan-CID4-ID19C3cp.html?search_reason=search%7Corganic",
-      "source": "olx"
-    },
-    {
       "title": "Zatrudnię kierowce c+e Kraj",
       "company": "No company",
       "salary": "No salary",
@@ -760,6 +771,28 @@
       "salaryType": null,
       "location": "No location",
       "url": "https://www.olx.pl/oferta/praca/zatrudnie-kierowce-c-e-kraj-CID4-ID19s1In.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "KIEROWCA - Uber Bolt Freenow - Rozliczenie 1zł - NAJLEPSZE WARUNKI!",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/kierowca-uber-bolt-freenow-rozliczenie-1zl-najlepsze-warunki-CID4-ID19oCSp.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Zatrudnię brygadzistę wod-kan",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/zatrudnie-brygadziste-wod-kan-CID4-ID19C3cp.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {
@@ -785,14 +818,25 @@
       "source": "olx"
     },
     {
-      "title": "Sprawdź czy biznes z Żabką jest dla Ciebie",
+      "title": "Technik DDD - praca , szkolenie, samochód służb. (woj.dolnośląskie)",
       "company": "No company",
       "salary": "No salary",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "No location",
-      "url": "https://www.olx.pl/oferta/praca/sprawdz-czy-biznes-z-zabka-jest-dla-ciebie-CID4-ID19EmPY.html?search_reason=search%7Corganic",
+      "url": "https://www.olx.pl/oferta/praca/technik-ddd-praca-szkolenie-samochod-sluzb-woj-dolnoslaskie-CID4-ID17SOdE.html?search_reason=search%7Corganic",
+      "source": "olx"
+    },
+    {
+      "title": "Pomocnik / serwisant klimatyzacji",
+      "company": "No company",
+      "salary": "No salary",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "No location",
+      "url": "https://www.olx.pl/oferta/praca/pomocnik-serwisant-klimatyzacji-CID4-IDKk1hd.html?search_reason=search%7Corganic",
       "source": "olx"
     },
     {

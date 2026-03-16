@@ -1,10 +1,32 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-03-15T02:52:12.685Z",
+  "lastUpdated": "2026-03-16T02:52:19.441Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Junior New Business Specialist / New Business Specialist NOWA",
+      "title": "Fullstack Internship | RAS TECH Summer NOWA",
+      "company": "Ringier Axel Springer Tech",
+      "salary": "5 400 PLN",
+      "salaryMin": 5400,
+      "salaryMax": 5400,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/fullstack-internship-ras-tech-summer-ringier-axel-springer-tech-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Mobile Internship | RAS TECH Summer NOWA",
+      "company": "Ringier Axel Springer Tech",
+      "salary": "5 400 PLN",
+      "salaryMin": 5400,
+      "salaryMax": 5400,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mobile-internship-ras-tech-summer-ringier-axel-springer-tech-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior New Business Specialist / New Business Specialist",
       "company": "DEVAGROUP",
       "salary": "4 900 – 6 200 PLN",
       "salaryMin": 4900,
@@ -15,7 +37,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Azure Data Factory) NOWA",
+      "title": "Junior Data Engineer (Azure Data Factory)",
       "company": "Addepto",
       "salary": "7 000 – 12 600 PLN",
       "salaryMin": 7000,
@@ -26,7 +48,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Databricks) NOWA",
+      "title": "Junior Data Engineer (Databricks)",
       "company": "Addepto",
       "salary": "8 400 – 15 120 PLN",
       "salaryMin": 8400,
@@ -37,7 +59,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Linux Engineer + Recruitment Engineer NOWA",
+      "title": "Junior Linux Engineer + Recruitment Engineer",
       "company": "Correct Context",
       "salary": "6 000 – 8 000 PLN",
       "salaryMin": 6000,
@@ -48,7 +70,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern/ Junior Robotics Specialist NOWA",
+      "title": "Intern/ Junior Robotics Specialist",
       "company": "xBerry",
       "salary": "5 275 – 5 880 PLN",
       "salaryMin": 5275,
@@ -56,28 +78,6 @@
       "salaryType": "monthly",
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/intern-junior-robotics-specialist-xberry-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern/ Junior Python Developer NOWA",
-      "company": "xBerry",
-      "salary": "5 275 – 5 880 PLN",
-      "salaryMin": 5275,
-      "salaryMax": 5880,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-junior-python-developer-xberry-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Marketing Specialist NOWA",
-      "company": "Fream",
-      "salary": "6 000 – 7 000 PLN",
-      "salaryMin": 6000,
-      "salaryMax": 7000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/marketing-specialist-fream-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -92,14 +92,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Strong Data Engineer (Databricks)",
-      "company": "N-iX",
-      "salary": "9 319 – 13 046 PLN",
-      "salaryMin": 9319,
-      "salaryMax": 13046,
+      "title": "Intern/ Junior Python Developer",
+      "company": "xBerry",
+      "salary": "5 275 – 5 880 PLN",
+      "salaryMin": 5275,
+      "salaryMax": 5880,
       "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-strong-data-engineer-databricks-n-ix-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-junior-python-developer-xberry-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -114,36 +114,36 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "AR Accountant with French | Remote NOWA",
+      "title": "Talent Acquisition Support Specialist (Civil Contract) NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/talent-acquisition-support-specialist-civil-contract-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Customer Service Specialist with Italian NOWA",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ar-accountant-with-french-remote-antal-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-customer-service-specialist-with-italian-antal-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "AP Accountant with German | Remote NOWA",
-      "company": "Antal",
+      "title": "Intern Frontend Developer with German NOWA",
+      "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/ap-accountant-with-german-remote-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Młodszy Specjalista / Młodsza Specjalistka ds. Sprzedaży NOWA",
-      "company": "SDP Nieruchomości",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mlodszy-specjalista-mlodsza-specjalistka-ds-sprzedazy-sdp-nieruchomosci-wroclaw-1",
+      "url": "https://nofluffjobs.com/pl/job/intern-frontend-developer-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -158,61 +158,6 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Business Analyst with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-business-analyst-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior RPA Developer (UiPath) NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-rpa-developer-uipath-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Part-Time Chat Support Specialist (Bulgarian, German, or Dutch) – Fully Remote / Wrocław NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/part-time-chat-support-specialist-bulgarian-german-or-dutch-fully-remote-wroclaw-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Live Chat Support Specialist (Part-Time) NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/live-chat-support-specialist-part-time-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Italian and English-Speaking Courier Support Specialist (part-time) NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/italian-and-english-speaking-courier-support-specialist-part-time-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "One Engineering Bootcamp | Wrocław NOWA",
       "company": "Deloitte",
       "salary": "Sprawdź wynagrodzenie",
@@ -221,6 +166,61 @@
       "salaryType": null,
       "location": "Wroclaw",
       "url": "https://nofluffjobs.com/pl/job/one-engineering-bootcamp-wroclaw-deloitte-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Business Analyst (Cloud Contact Center AI LAB) NOWA",
+      "company": "Deloitte",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-business-analyst-cloud-contact-center-ai-lab-deloitte-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Java Developer Internship (with German) NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/java-developer-internship-with-german-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Quality Assurance Internship – Tax Technology, Global Mobility Services NOWA",
+      "company": "KPMG",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/quality-assurance-internship-tax-technology-global-mobility-services-kpmg-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "AR Accountant with French | Remote",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ar-accountant-with-french-remote-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "AP Accountant with German | Remote",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/ap-accountant-with-german-remote-antal-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

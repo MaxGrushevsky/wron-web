@@ -1,32 +1,86 @@
 {
   "source": "amazon",
-  "lastUpdated": "2026-03-15T02:52:09.543Z",
-  "count": 3,
+  "lastUpdated": "2026-03-16T02:52:16.309Z",
+  "count": 9,
   "jobs": [
     {
-      "title": "No title",
-      "location": "No location",
-      "jobId": "No Job ID",
-      "datePosted": "No date",
-      "url": "No URL",
+      "title": "Lider Utrzymania Ruchu, RME",
+      "location": "Wroclaw, POL",
+      "jobId": "Nowa Wies Wroclawska, POL",
+      "datePosted": "February 17, 2026",
+      "url": "https://www.amazon.jobs/en/jobs/3182581/lider-utrzymania-ruchu-rme",
       "source": "amazon",
       "company": "Amazon"
     },
     {
-      "title": "No title",
-      "location": "No location",
-      "jobId": "No Job ID",
-      "datePosted": "No date",
-      "url": "No URL",
+      "title": "Technik utrzymania ruchu i infrastruktury, RME",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3171653",
+      "datePosted": "February 2, 2026",
+      "url": "https://www.amazon.jobs/en/jobs/3171653/technik-utrzymania-ruchu-i-infrastruktury-rme",
       "source": "amazon",
       "company": "Amazon"
     },
     {
-      "title": "No title",
-      "location": "No location",
-      "jobId": "No Job ID",
-      "datePosted": "No date",
-      "url": "No URL",
+      "title": "Mistrz utrzymania ruchu i infrastruktury (m/k), RME",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3133707",
+      "datePosted": "November 27, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3133707/mistrz-utrzymania-ruchu-i-infrastruktury-m-k-rme",
+      "source": "amazon",
+      "company": "Amazon"
+    },
+    {
+      "title": "Technik utrzymania ruchu i infrastruktury, RME",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "|",
+      "datePosted": "December 3, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3136455/technik-utrzymania-ruchu-i-infrastruktury-rme",
+      "source": "amazon",
+      "company": "Amazon"
+    },
+    {
+      "title": "Mistrz/Mistrzyni Utrzymania Ruchu (m/k), RME",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3150558",
+      "datePosted": "December 31, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3150558/mistrz-mistrzyni-utrzymania-ruchu-m-k-rme",
+      "source": "amazon",
+      "company": "Amazon"
+    },
+    {
+      "title": "Mistrz Utrzymania Ruchu (m/k), RME",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3119241",
+      "datePosted": "October 31, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3119241/mistrz-utrzymania-ruchu-m-k-rme",
+      "source": "amazon",
+      "company": "Amazon"
+    },
+    {
+      "title": "RME Operator, RME",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3121313",
+      "datePosted": "November 5, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3121313/rme-operator-rme",
+      "source": "amazon",
+      "company": "Amazon"
+    },
+    {
+      "title": "Operations & Logistics Internship",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3078063",
+      "datePosted": "September 8, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3078063/operations-logistics-internship",
+      "source": "amazon",
+      "company": "Amazon"
+    },
+    {
+      "title": "Staż w dziale operacji i logistyki - Wrocław 2026",
+      "location": "Bielany Wroclawskie, POL",
+      "jobId": "3130511",
+      "datePosted": "November 21, 2025",
+      "url": "https://www.amazon.jobs/en/jobs/3130511/staz-w-dziale-operacji-i-logistyki-wroclaw-2026",
       "source": "amazon",
       "company": "Amazon"
     }

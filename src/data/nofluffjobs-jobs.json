@@ -1,6 +1,6 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-03-19T02:42:40.254Z",
+  "lastUpdated": "2026-03-20T02:34:26.966Z",
   "count": 20,
   "jobs": [
     {
@@ -15,7 +15,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Azure Data Factory) NOWA",
+      "title": "Junior Data Engineer (Azure Data Factory)",
       "company": "Addepto",
       "salary": "7 000 – 12 600 PLN",
       "salaryMin": 7000,
@@ -26,7 +26,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Data Engineer (Databricks) NOWA",
+      "title": "Junior Data Engineer (Databricks)",
       "company": "Addepto",
       "salary": "8 400 – 15 120 PLN",
       "salaryMin": 8400,
@@ -37,7 +37,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Cybersecurity Support Analyst NOWA",
+      "title": "Junior Cybersecurity Support Analyst",
       "company": "Scalo",
       "salary": "4 704 – 5 880 PLN",
       "salaryMin": 4704,
@@ -48,7 +48,7 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior PHP Developer (f/m) NOWA",
+      "title": "Junior PHP Developer (f/m)",
       "company": "Fingoweb",
       "salary": "5 275 – 8 400 PLN",
       "salaryMin": 5275,
@@ -103,6 +103,17 @@
       "source": "nofluffjobs.com"
     },
     {
+      "title": "Intern Automation Tester with German NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-wroclaw-1",
+      "source": "nofluffjobs.com"
+    },
+    {
       "title": "Planowanie End-to-End (junior) NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
@@ -136,36 +147,58 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "R2R Junior Manager with French or Italian NOWA",
+      "title": "Intern DevOps Engineer with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/r2r-junior-manager-with-french-or-italian-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Intern Manual Tester with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-manual-tester-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Customer Service Specialist with Italian NOWA",
+      "title": "Administration Specialist with Foreign Language (K/M) NOWA",
       "company": "Antal",
       "salary": "Sprawdź wynagrodzenie",
       "salaryMin": null,
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-customer-service-specialist-with-italian-antal-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/administration-specialist-with-foreign-language-k-m-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Specjalista/Specjalistka ds. wsparcia IT z językiem niemieckim NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/specjalista-specjalistka-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Specjalista ds. Wsparcia Klienta z Językiem Niemieckim i Angielskim (K/M) NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-klienta-z-jezykiem-niemieckim-i-angielskim-k-m-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Supply Chain Planning Manager NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-supply-chain-planning-manager-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -180,39 +213,6 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "IT Support Agent with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/it-support-agent-with-german-capgemini-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Praktyki – Bezpieczeństwo aplikacji - Program Cyber H@ckademy NOWA",
-      "company": "KPMG",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/praktyki-bezpieczenstwo-aplikacji-program-cyber-h-ckademy-kpmg-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Intern Automation Tester with German NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-automation-tester-with-german-capgemini-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
       "title": "Intern DevOps Engineer with German NOWA",
       "company": "Capgemini",
       "salary": "Sprawdź wynagrodzenie",
@@ -220,7 +220,7 @@
       "salaryMax": null,
       "salaryType": null,
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw-1",
+      "url": "https://nofluffjobs.com/pl/job/intern-devops-engineer-with-german-capgemini-wroclaw",
       "source": "nofluffjobs.com"
     }
   ]

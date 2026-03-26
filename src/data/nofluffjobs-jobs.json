@@ -1,28 +1,39 @@
 {
   "source": "nofluffjobs",
-  "lastUpdated": "2026-03-25T02:40:29.699Z",
+  "lastUpdated": "2026-03-26T02:47:48.495Z",
   "count": 20,
   "jobs": [
     {
-      "title": "Młodszy Programista Hurtowni Danych NOWA",
-      "company": "ASTEK Polska",
-      "salary": "5 000 – 7 000 PLN",
-      "salaryMin": 5000,
-      "salaryMax": 7000,
+      "title": "Junior Data Engineer (Azure Data Factory) NOWA",
+      "company": "Addepto",
+      "salary": "7 000 – 12 600 PLN",
+      "salaryMin": 7000,
+      "salaryMax": 12600,
       "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mlodszy-programista-hurtowni-danych-astek-polska-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-azure-data-factory-addepto-wroclaw-1",
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Staż SAP Developer NOWA",
-      "company": "Convista Poland",
-      "salary": "5 208 – 6 384 PLN",
-      "salaryMin": 5208,
-      "salaryMax": 6384,
+      "title": "Junior Data Engineer (Databricks) NOWA",
+      "company": "Addepto",
+      "salary": "8 400 – 15 120 PLN",
+      "salaryMin": 8400,
+      "salaryMax": 15120,
       "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/staz-sap-developer-convista-poland-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-data-engineer-databricks-addepto-wroclaw-9",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Sales Development Representative / Junior IT Sales NOWA",
+      "company": "White Label Coders",
+      "salary": "7 000 – 10 000 PLN",
+      "salaryMin": 7000,
+      "salaryMax": 10000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/sales-development-representative-junior-it-sales-white-label-coders-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -37,124 +48,36 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Junior Proxy Product Owner NOWA",
+      "title": "Młodszy Programista Hurtowni Danych",
+      "company": "ASTEK Polska",
+      "salary": "5 000 – 7 000 PLN",
+      "salaryMin": 5000,
+      "salaryMax": 7000,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/mlodszy-programista-hurtowni-danych-astek-polska-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Staż SAP Developer",
+      "company": "Convista Poland",
+      "salary": "5 208 – 6 384 PLN",
+      "salaryMin": 5208,
+      "salaryMax": 6384,
+      "salaryType": "monthly",
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/staz-sap-developer-convista-poland-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Product Owner",
       "company": "MasterBorn",
       "salary": "6 000 – 9 000 PLN",
       "salaryMin": 6000,
       "salaryMax": 9000,
       "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-proxy-product-owner-masterborn-wroclaw-2",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Tester Manualny",
-      "company": "ASTEK Polska",
-      "salary": "7 000 – 8 000 PLN",
-      "salaryMin": 7000,
-      "salaryMax": 8000,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/tester-manualny-astek-polska-wroclaw-4",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Strong Data Engineer (Databricks)",
-      "company": "N-iX",
-      "salary": "9 212 – 12 897 PLN",
-      "salaryMin": 9212,
-      "salaryMax": 12897,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-strong-data-engineer-databricks-n-ix-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Fullstack Internship | RAS TECH Summer",
-      "company": "Ringier Axel Springer Tech",
-      "salary": "5 400 PLN",
-      "salaryMin": 5400,
-      "salaryMax": 5400,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/fullstack-internship-ras-tech-summer-ringier-axel-springer-tech-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Administration Specialist with Foreign Language (K/M) NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/administration-specialist-with-foreign-language-k-m-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Mobile Internship | RAS TECH Summer",
-      "company": "Ringier Axel Springer Tech",
-      "salary": "5 400 PLN",
-      "salaryMin": 5400,
-      "salaryMax": 5400,
-      "salaryType": "monthly",
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/mobile-internship-ras-tech-summer-ringier-axel-springer-tech-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Specjalista ds. Wsparcia Klienta z Językiem Niemieckim i Angielskim (K/M) NOWA",
-      "company": "Antal",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-klienta-z-jezykiem-niemieckim-i-angielskim-k-m-antal-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior Supply Chain Planning Manager NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-supply-chain-planning-manager-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Java Developer Internship (with German) NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/java-developer-internship-with-german-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Junior End-To-End Planner NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/junior-end-to-end-planner-capgemini-wroclaw",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Planowanie End-to-End (junior) NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/planowanie-end-to-end-junior-capgemini-wroclaw",
+      "url": "https://nofluffjobs.com/pl/job/junior-product-owner-masterborn-wroclaw",
       "source": "nofluffjobs.com"
     },
     {
@@ -169,25 +92,14 @@
       "source": "nofluffjobs.com"
     },
     {
-      "title": "Obsługa klienta z językiem niemieckim NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
+      "title": "Tester Manualny",
+      "company": "ASTEK Polska",
+      "salary": "7 000 – 8 000 PLN",
+      "salaryMin": 7000,
+      "salaryMax": 8000,
+      "salaryType": "monthly",
       "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw-1",
-      "source": "nofluffjobs.com"
-    },
-    {
-      "title": "Specjalista ds. Wsparcia IT z językiem niemieckim NOWA",
-      "company": "Capgemini",
-      "salary": "Sprawdź wynagrodzenie",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryType": null,
-      "location": "Wrocław",
-      "url": "https://nofluffjobs.com/pl/job/specjalista-ds-wsparcia-it-z-jezykiem-niemieckim-capgemini-wroclaw-1",
+      "url": "https://nofluffjobs.com/pl/job/tester-manualny-astek-polska-wroclaw-4",
       "source": "nofluffjobs.com"
     },
     {
@@ -221,6 +133,94 @@
       "salaryType": null,
       "location": "Wrocław",
       "url": "https://nofluffjobs.com/pl/job/part-time-chat-support-specialist-bulgarian-german-or-dutch-fully-remote-wroclaw-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Supply Chain Planner NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-supply-chain-planner-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Junior Specialist Buyer (Procurment) NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/junior-specialist-buyer-procurment-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Obsługa klienta z językiem niemieckim NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/obsluga-klienta-z-jezykiem-niemieckim-capgemini-wroclaw-2",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Starter Kit Upskilling Program (Java, with German) NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/starter-kit-upskilling-program-java-with-german-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Italian and English-Speaking Courier Support Specialist (part-time) NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/italian-and-english-speaking-courier-support-specialist-part-time-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Chat Support Specialist with English NOWA",
+      "company": "Antal",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/chat-support-specialist-with-english-antal-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Staż - Programista/Programistka Java (z językiem Niemieckim) (Sourcing Requisition) NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/staz-programista-programistka-java-z-jezykiem-niemieckim-sourcing-requisition-capgemini-wroclaw",
+      "source": "nofluffjobs.com"
+    },
+    {
+      "title": "Intern Java Developer (with German) NOWA",
+      "company": "Capgemini",
+      "salary": "Sprawdź wynagrodzenie",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryType": null,
+      "location": "Wrocław",
+      "url": "https://nofluffjobs.com/pl/job/intern-java-developer-with-german-capgemini-wroclaw-2",
       "source": "nofluffjobs.com"
     }
   ]
